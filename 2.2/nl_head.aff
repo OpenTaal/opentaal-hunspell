@@ -1,0 +1,63 @@
+# (c) 2006-2018, Stichting OpenTaal
+# version 2.2
+# date 2018-11-06
+
+# character encoding of affix and dictionary files
+SET UTF-8
+
+# characters for suggestions, decreasing in frequency except - ' ’ and capitals
+TRY -ernitsaoldgkupmchbvjwfzyx'’ëqïéèö.êü12635407çà8û9îñäôERNITSAOLDGKUPMCHBVJWFZYX
+
+# keyboard layouts for NL and BE for suggestions
+KEY qwertyuiop|asdfghjkl|zxcvbnm|qawsedrftgyhujikolp|azsxdcfvgbhnjmk|aze|qsd|lm|wx|aqz|qws|1234567890
+
+
+# allow - as part of a word, disable default values - and -- (n-dash)
+BREAK 0
+
+# use two characters as flags, mostly an upper followed by lower case character
+FLAG long
+
+# flag for explicitely forbidden words
+FORBIDDENWORD Fw
+
+# flag for words not to suggest, e.g. words with emphasis (dús)
+NOSUGGEST NS
+
+# related characters
+MAP 7	#TODO which mappings
+MAP eéèëêEÉÈËÊ	#TODO optimize characters and order
+MAP aáàäâåAÁÀÄÂÅ	#TODO optimize characters and order
+MAP iíìïîIÍÌÏÎ	#TODO optimize characters and order
+MAP oóòöôøOÓÒÖÔØ	#TODO optimize characters and order
+MAP uüúùûUÜÚÙÛ	#TODO optimize characters and order
+MAP cçCÇ	#TODO optimize characters and order https://nl.wikipedia.org/wiki/Cedille
+MAP nñNÑ	#TODO optimize characters and order https://nl.wikipedia.org/wiki/Tilde
+#https://nl.wikipedia.org/wiki/Ha%C4%8Dek ?
+
+#
+WORDCHARS '’0123456789ĳĲ.-\/
+# . is only useful as wordchar from the command line
+# \/ should make the / acceptable as part of word (km/h)
+# the way applications offer words to the Hunspell interface apperently differs,
+# causing problems with abbreviations and end-of-sentence words.
+# Issue has been communicated with Hunspell's author.
+
+
+# replace correct accented double vowels with unaccented ones for acceptance
+ICONV 9
+ICONV áá aa # dáár, dráái, tááie, ááien, beáám
+ICONV áó ao # Raoul
+ICONV áú au # láúw, áú
+ICONV éá ea # cadéáu
+ICONV éé ee # néé, lééuw
+ICONV éí ei # béíde héíig
+ICONV éú eu # kéúen
+ICONV íé ie # wíé, níéuw, officíéel
+ICONV óé oe # móét, snóéi, góéie
+ICONV óó oo # óók, óóit
+ICONV óú ou # góúd, Lóúis
+ICONV úí ui # geúít
+ICONV úú uu # natúúrlijk
+
+TODO script maken die tabel maakt met tellingen en popup met voorbeelden.

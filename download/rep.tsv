@@ -1,0 +1,706 @@
+a's$	a	centra's=>centra
+a's$	ums	centra's=>centrums
+pt$	bd	dichtgeslipt
+^ad	ad_	adrem
+kju	cue	barbekju
+^blackbox	black_box	
+^bonvivant	bon_vivant	
+en	e	wolkenloos=>wolkeloos
+on	ont	onvankelijk=>ontvankelijk
+ingswaard	enswaard	benoemingswaard=>benoemenswaard
+enswaard	igenswaard	behartenswaard=>behartigenswaard
+'er	ër	havo'er => havoër
+ër	'er	mboër=>mbo'er
+^immes$	immers	
+os$	o's	autos=>auto's
+as$	a's	papas=>papa's
+us$	u's	tutus => tutu's
+t	th	etisch=>ethisch
+oren	oors	pastoren=>pastoors
+^een	een_	
+wĳziging	wĳzing	aanwijziging => aanwijzing
+^clever$	slim	
+^clevere$	slimme	
+pake	opa	
+rene	René	
+^hoe	hoe_	
+andere$	_andere	
+^ge-update$	geüpdatet	
+^als	als_	
+^tenonder$	ten_onder	
+^goeiedag$	goedendag	
+^kunstof$	kunststof	
+^dattie$	dat_hĳ	
+^tezĳnertĳd$	te_zĳner_tĳd	
+^te	te_	
+ai	e	
+^ter	ter_	
+^stap-voor-stap	stap_voor_stap	
+elkaar$	_elkaar	
+^hierrond$	hieromheen	Vlaams
+^topdrie$	top_drie	
+^topvier$	top_vier	
+^topvĳf$	top_vĳf	
+^andre$	André	
+^eerstelĳn$	eerste_lĳn	
+^aande$	aan_de	
+^opde$	op_de	
+^zg$	zgn.	
+^'s	's_	'savonds => 's avonds
+^ook	ook_	
+check	cheque	
+^us$	VS	
+ore	oire	
+oor	oir	
+ä	-a	
+ü	ue	
+shock	choqu	
+talmud	Talmoed	
+kritik	critic	
+copier	kopiër	
+^new-york$	New_York	
+ske	je	
+hoof	hoofd	
+^mmv$	m.m.v.	
+ii	ĳ	
+^obv$	o.b.v.	
+^hawaii	Hawaï	
+^alledrie$	alle_drie	
+^voorzover$	voor_zover	
+^dr$	dr.	
+^da's$	dat_is	
+ings	ing	
+heids	heid	
+d$	t	speeld=>speelt
+t$	d	gespeelt=>gespeeld
+^newage$	new_age	
+^newwave$	new_wave	
+oren$	oors$	pastoren=>pastoors
+erer	er	
+heid	heids	
+ing	ings	
+aa	a-a	collisions, forming 2-char vowels (klink
+ae	a-e	
+ai	a-i	
+au	a-u	
+ee	e-e	
+ei	e-i	
+eu	e-u	
+ie	i-e	
+ĳ	i-j	
+oe	o-e	
+oi	o-i	
+oo	o-o	
+ou	o-u	
+ui	u-i	klinkerbotsing
+uu	u-u	klinkerbotsing
+te	tte	om verwarring met verleden tijd te corri
+s$	's$	scène's=>scènes
+s	ss	
+e	en	
+er	ërs	
+ji	ĳ	extra omdat ij in iconv tot 1 teken word
+u	oe	
+cleric	klerik	
+acten	akte	
+^uitge	uit_ge	
+^optĳd$	op_tĳd	
+^zoja$	zo_ja	
+^overtĳd$	over_tĳd	
+^oja$	o_ja	
+^hautecouture$	haute_couture	
+^opweg$	op_weg	
+^vlnr$	v.l.n.r.	
+^aanme$	aan_me	
+^zodadelĳk$	zo_dadelĳk	
+ppie	bje	
+te	ten	
+^levenlang$	leven_lang	
+^zogoed$	zo_goed	
+iging	ing	
+l	ll	
+acapella	a_capella	
+ors	oren	
+ke	tje	
+^volgas$	vol_gas	
+se-zee	se_Zee	
+ssie	sje	
+^zovaak$	zo_vaak	
+^nouja$	nou_ja	
+^vz$	vz.	
+^vwb$	v.w.b.	
+d	dd	
+^jongsaf$	jongs_af	
+^nml$	namelĳk	
+^bĳde$	bĳ_de	
+^rekeninghoudend$	rekening_houdend	
+achterkomen	achter_komen	
+^usa$	VS	
+^wnd$	wnd.	
+^beslaggenomen$	beslag_genomen	
+^meerbepaald$	meer_bepaald	
+^aanw$	aanw.	
+^gebr$	gebr.	
+^langetermĳn$	lange_termĳn	
+^afl$	afl.	
+^thv$	t.h.v.	
+^normaalgesproken$	normaal_gesproken	
+^afm$	afm.	
+^uppie$	eentje	
+^prio$	prioriteit	
+^kortgeding$	kort_geding	
+iesie	itie	
+pliesie	politie	
+^dondersgoed$	donders_goed	
+^inw$	inw.	
+kui	cul	
+^allertĳden$	aller_tĳden	
+^nogsteeds$	nog_steeds	
+kamer	Kamer	
+^jammergenoeg$	jammer_genoeg	
+^secr$	secr.	
+^joint-venture$	joint_venture	
+top-	top_	
+^werkleer	werk-leer	
+^afweet$	af_weet	
+^status-quo$	status_quo	
+heef	heeft	
+^zg.$	zgn.	
+^achtneming$	inachtneming	
+recht	rechts	
+^jl$	jl.	
+^app$	applicatie	
+^errug$	erg	
+^inplaats$	in_plaats	
+^nr$$	nr.	
+jrg	jarig	
+^euri$	euro's	
+^bĳelkaar$	bĳ_elkaar	
+^efkes$	eventjes	
+^bbq$	barbecue	
+-ie$	_hĳ	dat-ie => dat hij
+^toeg$	toeg.	
+^hr$	hr.	
+^afb$	afb.	
+^rekenkamer	Rekenkamer	
+^weldegelĳk$	wel_degelĳk	
+^van	^van_	
+^notabene$	nota_bene	
+^div$	div.	
+^toptien$	top_tien	
+^hey$	hé	
+^b-h-v$	BHV	
+^wwf$	WNF	
+^maar	maar_	
+^rk$	r.-k.	
+^vert$	vert.	
+rechtzaak	rechtszaak	
+^afin$	enfin	
+^fig$	fig.	
+^dee$	deed	
+^drs$	drs.	
+ittee	ité	
+^zorgdra	zorg_dra	
+^pag$	pag.	
+x	ks	
+^etcetera$	et_cetera	
+^mar$	maar	
+^marrok	Marok	
+c	k	
+^ing$	ing.	
+^vgl$	vgl.	
+^stcrt$	Stcrt.	
+^evt$	evt.	
+^vd$	van_de	
+^effe$	even	
+^geb$	geb.	
+nie	niet	
+derde	_derde	
+tweede	_tweede	
+vierde$	_vierde	
+vĳfde$	_vĳfde	eenvijfde => een vijfde
+^bĳv$	bĳv.	
+copy	kopie	
+j	ĳ	
+ĳ	ĳ	omdat de ij intern ligatuur is
+ï	-i	
+c	ss	
+e	ĳ	
+é	ee	
+g	ch	
+ï	ii	
+t	d	gebiest=>gebiesd
+u	ĳ	
+x	cz	
+y	ĳ	
+z	ss	
+s	sch	
+ss	zz	
+ch	g	
+gg	ch	
+ei	ĳ	
+ĳ	ei	
+ie	y	
+ie	y'	
+ee	é	
+ee	ë	
+ae	ë	
+je	ë	
+e's	és	cafe's => cafés
+m'n	mĳn	
+^d'r$	haar	
+^'r$	er	
+^'r$	haar	
+voor	voort	voorplanting => voortplanting
+voort	voor	voortdeur=>voordeur
+cht	gd	
+burka	boerka	
+eë	e-e	
+o's	eaus	
+oo	eau	
+ok	eauc	
+joe	u	
+ui	eu	
+iu	uï	
+ies	isch	
+ks	x	
+kt	x	
+ks	ct	
+ks	cz	
+ed	t	
+k	qu	
+kw	qu	
+kw	cqu	
+qu	k	
+qu	kw	
+kwie	cui	
+kwie	cuit	
+que	k	
+ph	f	
+ff	v	
+ks	cc	
+kk	cc	
+cc	kk	
+k	cc	
+ele	elli	
+ove	oof	
+ool	ole	
+age	aag	
+lli	lj	
+aj	aill	
+lj	ill	
+lis	lliss	
+alie	aille	
+nj	gn	
+oer	oure	
+ouqu	oek	
+oe	out	
+cou	koe	
+ique	iek	
+e	ai	
+eks	ax	
+tens	tigens	
+g	gge	
+de	dede	
+ing	iging	
+rres	ress	
+bbon	bonn	
+scus	cuss	
+rondis	rrondiss	
+abber	aberr	
+ggres	gress	
+acoll	accol	
+plaudis	pplaudiss	
+lluminim	lumini	
+len	llenn	
+ttel	tell	
+acab	abrac	
+ubi	ibu	
+croc	krok	
+ten	than	
+uuk	uc	truuk => truc
+eid	ĳdt	
+ters	teress	
+iep	ype	
+sen	sciën	
+sens	sciënt	
+kons	conc	
+konsekw	consequ	
+akkom	accomm	
+statie	staatsie	
+glĳ	gelei	
+noot	note	
+knoot	cnote	
+usqu	uusk	brusque=>bruusk
+kass	caiss	
+akel	acle	
+crash	krach	
+gynek	gynaec	
+gine	gynae	
+music	muzik	
+^kiet$	quitte	
+persé	per_se	
+ruggegraad	ruggengraat	
+^geupdate$	geüpdatet 	
+^zowiezo$	sowieso	
+ceedee	cd	
+ceedees	cd's	
+grafitti	graffiti	
+kangaroe	kangoeroe	
+kassiere	caissière	
+britanië	Brittannië	
+britanie	Brittannië	
+capucino	cappuccino	
+celcius	Celsius	
+kado	cadeau	
+kado's	cadeaus	
+kadootje	cadeautje	
+comittee	comité	
+committee	comité	
+komitee	comité	
+komittee	comité	
+kommitee	comité	
+kommittee	comité	
+kwis	quiz	
+kwissen	quizzen	
+loupe	loep	
+copy	kopĳ	
+pitoresque	pittoreske	
+reikweite	reikwĳdte	
+snietsel	schnitzel	
+snitsel	schnitzel	
+spagetie	spaghetti	
+spagettie	spaghetti	
+lazanja	lasagne	
+attack	attaque	
+^uptodate$	up-to-date	
+caffeine	cafeïne	
+enigsinds	enigszins	
+klup	club	
+wiskid	whizzkid	
+kontakt	contact	
+kontekst	context	
+korrekt	correct	
+^gestressed$	gestrest	
+^zoëven$	zo-even	
+dislek	dyslec	
+dislektie	dyslexie	
+disleksie	dyslexie	
+dyslecten	dyslectici	
+dyslect	dyslecticus	
+dislekties	dyslectisch	
+dyslexties	dyslectisch	
+spel	spelling	
+spelcheck	spellingcontrole	
+spellingcheck	spellingcontrole	
+spellingscheck	spellingcontrole	
+aflas	afgelas	
+^imho$	n.m.m.	
+^nmm$	n.m.m.	
+^ff$	even	
+^ad$	A.D.	
+^dv$ 	D.V.	
+^hkh$	H.K.H.	
+^hm$	H.M.	Hare majesteit
+^lb$	L.B.	
+^nb$	N.B.	
+^nh$	N.H.	Noord-Holland
+^nn$	N.N.	
+^no$	N.O.	
+^nv$	N.V.	
+^nw$	N.W.	
+^olv$	O.L.V.	
+^rip$	R.I.P.	
+^st-	St.-	
+^zh$	Z.H.	
+^zkh$	Z.K.H.	
+^ahw$	a.h.w.	
+^ajb$	a.j.b.	
+^am$	a.m.	
+^as$	a.s.	
+^aub$	a.u.b.	
+^bd$	b.d.	
+^bgg$	b.g.g.	
+^bvd$	b.v.d.	
+^cq$	c.q.	
+^cs$	c.s.	
+^ca$	ca.	
+^dd$	d.d.	
+^di$	d.i.	
+^dmv$	d.m.v.	
+^dwz$	d.w.z.	
+^ea$	e.a.	
+^ed$	e.d.	
+^eea$	e.e.a.	
+^eo$	e.o.	
+^ev$	e.v.	
+^eva$	e.v.a.	
+^ggd$	g.g.d.	
+^ic$	i.c.	
+^ie$	i.e.	
+^iha$	i.h.a.	
+^ihb$	i.h.b.	
+^im$	i.m.	
+^io$	i.o.	
+^iov$	i.o.v.	
+^ipv$	i.p.v.	
+^ism$	i.s.m.	
+^itt$	i.t.t.	
+^ivm$	i.v.m.	
+^izgst$	i.z.g.st.	
+^kk$	k.k.	
+^m$	m.	
+^maw$	m.a.w.	
+^mbt$	m.b.t.	
+^mbv$	m.b.v.	
+^mvg$	m.v.g.	
+^mi$	m.i.	
+^miv$	m.i.v.	
+^mm$	m.m.	
+^mn$	m.n.	
+^muv$	m.u.v.	
+^max$	max.	
+^mevr$	mevr.	
+^min$	min.	
+^mld$	mld.	
+^mln$	mln.	
+^mr$	mr.	
+^mw$	mw.	
+^nav$	n.a.v.	
+^notk$	n.o.t.k.	
+^nvt$	n.v.t.	
+^nl$	nl.	
+^nr$	nr.	
+^oa$	o.a.	
+^oi$	o.i.	
+^oid$	o.i.d.	
+^olv$	o.l.v.	
+^om$	o.m.	
+^ott$	o.t.t.	
+^ovt$	o.v.t.	
+^ovv$	o.v.v.	
+^p$	p.	
+^pm$	p.m.	
+^pp$	p.p.	
+^pw$	p.w.	
+^qed$	q.e.d.	
+^qq$	q.q.	
+^r-k$	r.-k.	
+^sj$	s.j.	
+^svp$	s.v.p.	
+^sr$	sr.	
+^tav$	t.a.v.	
+^tbv$	t.b.v.	
+^tgv$	t.g.v.	
+^tht$	t.h.t.	
+^tnv$	t.n.v.	
+^tov$	t.o.v.	
+^tw$	t.w.	
+^twv$	t.w.v.	
+^tzt$	t.z.t.	
+^vchr$	v.Chr.	
+^vd$	v.d.	
+^vh$	v.h.	
+^vtt$	v.t.t.	
+^vv$	v.v.	
+^vvt$	v.v.t.	
+^wo$	w.o.	
+^wvttk$	w.v.t.t.k.	
+^zg$	z.g.	
+^zgan$	z.g.a.n.	
+^zi$	z.i.	
+^zoz$	z.o.z.	
+^zsm$	z.s.m.	
+^idd$	inderdaad	
+^etc$	etc.	
+mn	mĳn	
+^zn$	zĳn	
+^enz$	enz.	
+^dr$	haar	
+^dr$	er	
+o	eau	
+k	c	
+reïn	re-in	reïntegratie=>re-integratie
+^ontginden$	ontgonnen	
+ginde	gon	
+gind	gonnen	
+cc	k	
+rĳgden	regen	
+rĳgde	reeg	
+^gerĳgd$	geregen	
+^geweefd$	geweven	
+ervaarde	ervoer	
+ervaarden	ervoeren	
+ok	oké	
+spercibo	sperziebo	
+^ondermeer$	onder_meer	
+^maargoed$	maar_goed	
+^opzich$	op_zich	
+^openhaard$	open_haard	
+zover$	_zover	voorzover=>voor zover
+^zoniet$	zo_niet	
+^vrĳetĳd$	vrĳe_tĳd	
+^danwel$	dan_wel	
+^danwel$	of	
+^maarja$	maar_ja	
+^woonzorg	woon-zorg	
+^warmtekracht	warmte-kracht	
+^maagdarm	maag-darm	
+^hartlong	hart-long	
+^woonwerk	woon-werk	
+^manvrouw	man-vrouw	
+^bonusmalus	bonus-malus	
+^ofzo$	of_zo	
+^email$	e-mail	
+^doormiddel$	door_middel	
+^iedergeval$	ieder_geval	
+^zometeen$	zo_meteen	
+^hedentendage$	heden_ten_dage	
+^puertorica	Puerto_Rica	
+koko	coco	cocon
+ie	i	
+i'i	ii	shi'itisch
+^srilan	Sri_Lan	Sri Lanka
+^terzake$	ter_zake	
+^zonodig$	zo_nodig	
+^enzo$	en_zo	
+^ingebruiknemen$	in_gebruik_nemen	
+^instandhouden$	in_stand_houden	
+^instandgehouden$	in_stand_gehouden	
+^eraantoe$	er_aan_toe	
+^totstandgekomen$	tot_stand_gekomen	
+^totstandkomen$	tot_stand_komen	
+^totnogtoe$	tot_nog_toe	
+^inbeslaggenomen$	in_beslag_genomen	
+^ervanuit$	er_van_uit	
+^oorlogvoeren$	oorlog_voeren	
+^nek-aan-nek$	^nek_aan_nek$	
+^hoedanook$	hoe_dan_ook	
+^voormĳ$	voor_mĳ	
+^meekan$	mee_kan	
+^perongeluk$	per_ongeluk	
+^2e	tweede	2ehands
+ei	ie	gebeid=>gebied
+heidstel	stel	zekerheidstelling=>zekerstelling
+ij	ei	Ij=>ei
+intelligentie	inlichtingen	intelligentiediensten_=_inlichtingendiensten
+^roestvrijstaal$	roestvrij staal	
+gebeid	gebied	
+dattie	dat hij	
+veras	verras	
+aanvaart	aanvaardt	
+persentage	percentage	
+deja-vu	déjà_vu	
+sjiek	chic	http://taaladvies.net/taal/advies/vraag/
+sjieke	chique	http://taaladvies.net/taal/advies/vraag/
+sjieker	chiquer	http://taaladvies.net/taal/advies/vraag/
+sjiekst	chicst	http://taaladvies.net/taal/advies/vraag/
+asseccoires	accessoires	
+aseccoires	accessoires	
+assecoires	accessoires	
+asecoires	accessoires	
+asseccoire	accessoire	
+aseccoire	accessoire	
+assecoire	accessoire	
+asecoire	accessoire	
+asseccoires	accessoir	
+aseccoir	accessoir	
+assecoir	accessoir	
+asecoir	accessoir	
+^voorschut$	voor_schut	
+^M	m	onderkast_ook_suggereren
+^A	a	
+^B	b	ook onderkast suggereren
+^C	c	ook onderkast suggereren
+^D	d	ook onderkast suggereren
+^E	e	ook onderkast suggereren
+^F	f	ook onderkast suggereren
+^G	g	ook onderkast suggereren
+^H	h	ook onderkast suggereren
+^I	i	ook onderkast suggereren
+^J	j	ook onderkast suggereren
+^K	k	ook onderkast suggereren
+^L	l	ook onderkast suggereren
+^N	n	ook onderkast suggereren
+^O	o	ook onderkast suggereren
+^P	p	ook onderkast suggereren
+^Q	q	ook onderkast suggereren
+^R	r	ook onderkast suggereren
+^S	s	ook onderkast suggereren
+^T	t	ook onderkast suggereren
+^U	u	ook onderkast suggereren
+^V	v	ook onderkast suggereren
+^W	w	ook onderkast suggereren
+^X	x	ook onderkast suggereren
+^Y	y	ook onderkast suggereren
+^Z	z	ook onderkast suggereren
+euren$	eurs	
+^het	het_	hetwoord,_spatie_suggereren
+^dat	dat_	
+^de	de_	
+prijsstel	prijs_stel	
+atie$	ering	
+ering$	atie	
+orches	orkes	orkestratie
+^oet	moet	
+^dete$	de_te	
+murf	murw	
+tje	'tje	
+servie	servië	
+^da's$	dat is	om_suggestie_vooraan_te_krijgen
+pvda	PvdA	om_suggestie_vooraan_te_krijgen
+^bvb$	bijv.	
+^eeuwse$	-eeuwse	
+tengevolge	ten gevolge	om_suggestie_vooraan_te_krijgen
+event	evenement	
+vs	vs.	
+apps	applicaties	
+sch	s	ouderwets naar modern
+^fun$	lol	
+aie	aïe	voor_naar_voren_halen_suggestie_o.a._naïef
+openlucht	open lucht	
+^kinder$	kinder-	
+events	evenementen	niet per se fout, maar lelijk
+^danpas$	dan pas	spatie suggereren
+email	e-mail	om_suggestie_vooraan_te_krijgen
+effe	even	om_suggestie_vooraan_te_krijgen
+^ne$	een	Vlaams_naar_Nederlands
+^zeide$	zei	ouderwets,_Bijbels
+-tje	'tje	cd-tje_=>_cd'tje
+ie	ĳ	biezonder_=>_bijzonder
+mss	misschien	forum-taal
+nen	een	Vlaams_naar_Nederlands
+ect	etc	et_cetera
+^'m$	hem	
+^mn$	mijn	
+^'n$	een	
+-ers$	'ers	hob-ers_=>_hbo'ers
+kkies	kjes	strakkies_=>_strakjes
+presies	precies	om_suggestie_vooraan_te_krijgen
+^zonder	zonder_	spatie suggereren
+-e	ë	ge-ent_=>_geënt
+kkie	kje	bakkie_=>_bakje
+ppie	pje	chippie_=>_chipje
+g	ge	aangstuurd=>aangestuurd
+ees	ace	rees=>race
+$cariere^	carrière	suggestie was niet aanwezig
+zijn$	zijn_	spatie suggereren
+van$	_van	spatie suggereren
+wordt$	_wordt	spatie suggereren
+^wordt	wordt_	spatie suggereren
+bruid	bruids	anders_komt_bruis_als_suggestie
+vvd	VVD	anders_geen_suggestie
+ship	schap	partnership=>partnerschap
+gske	kje	verbindingske=>verbindinkje
+zgn	zgn.	
+tten	s	schoolboycotten=>boycots
+terzelfdertijd	terzelfder_tijd	
+ingskes	inkjes	
+ingskes	ingetjes	
+bijbel	Bijbel	om_goede_suggestie_te_krijgen
+derin	ster	bewaardering_=>_bewaarster
+nerin	onster	bewonerin=>bewoonster
+nerinnetje	onstertje	bewonerinnetje=>bewoonstertje
+gemeubuleerde	gemeubileerde	suggestie was niet aanwezig
+volklied	volkslied	volklied=>volkslied
+^zer$	zeer	zer=>zeer

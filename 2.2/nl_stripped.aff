@@ -1,0 +1,31 @@
+SET UTF-8
+TRY -ernitsaoldgkupmchbvjwfzyx'’ëqïéèö.êü12635407çà8û9îñäôERNITSAOLDGKUPMCHBVJWFZYX
+KEY qwertyuiop|asdfghjkl|zxcvbnm|qawsedrftgyhujikolp|azsxdcfvgbhnjmk|aze|qsd|lm|wx|aqz|qws|1234567890
+BREAK 0
+FLAG long
+FORBIDDENWORD Fw
+NOSUGGEST NS
+MAP 7
+MAP eéèëêEÉÈËÊ
+MAP aáàäâåAÁÀÄÂÅ
+MAP iíìïîIÍÌÏÎ
+MAP oóòöôøOÓÒÖÔØ
+MAP uüúùûUÜÚÙÛ
+MAP cçCÇ
+MAP nñNÑ
+WORDCHARS '’0123456789ĳĲ.-\/
+ICONV 9
+ICONV áá aa
+ICONV áó ao
+ICONV áú au
+ICONV éá ea
+ICONV éé ee
+ICONV éí ei
+ICONV éú eu
+ICONV íé ie
+ICONV óé oe
+ICONV óó oo
+ICONV óú ou
+ICONV úí ui
+ICONV úú uu
+TODO script maken die tabel maakt met tellingen en popup met voorbeelden.
