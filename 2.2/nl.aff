@@ -1,61 +1,97 @@
+# (c) 2006-2018, Stichting OpenTaal
+# version 2.2
+# date 2018-11-06
+
+# character encoding of affix and dictionary files
 SET UTF-8
+
+# characters for suggestions, decreasing in frequency except - ' ’ and capitals
 TRY -ernitsaoldgkupmchbvjwfzyx'’ëqïéèö.êü12635407çà8û9îñäôERNITSAOLDGKUPMCHBVJWFZYX
+
+# keyboard layouts for NL and BE for suggestions
 KEY qwertyuiop|asdfghjkl|zxcvbnm|qawsedrftgyhujikolp|azsxdcfvgbhnjmk|aze|qsd|lm|wx|aqz|qws|1234567890
+
+
+# allow - as part of a word, disable default values - and -- (n-dash)
 BREAK 0
+
+# use two characters as flags, mostly an upper followed by lower case character
 FLAG long
+
+# flag for explicitely forbidden words
 FORBIDDENWORD Fw
+
+# flag for words not to suggest, e.g. words with emphasis (dús)
 NOSUGGEST NS
-MAP 7
-MAP eéèëêEÉÈËÊ
-MAP aáàäâåAÁÀÄÂÅ
-MAP iíìïîIÍÌÏÎ
-MAP oóòöôøOÓÒÖÔØ
-MAP uüúùûUÜÚÙÛ
-MAP cçCÇ
-MAP nñNÑ
+
+# related characters
+MAP 7	#TODO which mappings
+MAP eéèëêEÉÈËÊ	#TODO optimize characters and order
+MAP aáàäâåAÁÀÄÂÅ	#TODO optimize characters and order
+MAP iíìïîIÍÌÏÎ	#TODO optimize characters and order
+MAP oóòöôøOÓÒÖÔØ	#TODO optimize characters and order
+MAP uüúùûUÜÚÙÛ	#TODO optimize characters and order
+MAP cçCÇ	#TODO optimize characters and order https://nl.wikipedia.org/wiki/Cedille
+MAP nñNÑ	#TODO optimize characters and order https://nl.wikipedia.org/wiki/Tilde
+#https://nl.wikipedia.org/wiki/Ha%C4%8Dek ?
+
+#
 WORDCHARS '’0123456789ĳĲ.-\/
+# . is only useful as wordchar from the command line
+# \/ should make the / acceptable as part of word (km/h)
+# the way applications offer words to the Hunspell interface apperently differs,
+# causing problems with abbreviations and end-of-sentence words.
+# Issue has been communicated with Hunspell's author.
+
+# convert unneeded double emphasis, apostrophe to quote and ij to one character
 ICONV 16
-ICONV áá aa
-ICONV áó ao
-ICONV áú au
-ICONV éá ea
-ICONV éé ee
-ICONV éí ei
-ICONV éú eu
-ICONV íé ie
-ICONV óé oe
-ICONV óó oo
-ICONV óú ou
-ICONV úí ui
-ICONV úú uu
+ICONV áá aa # dáár, dráái, tááie, ááien, beáám
+ICONV áó ao # Raoul TODO check
+ICONV áú au # láúw, áú
+ICONV éá ea # cadéáu
+ICONV éé ee # néé, lééuw
+ICONV éí ei # béíde héíig
+ICONV éú eu # kéúen
+ICONV íé ie # wíé, níéuw, officíéel
+ICONV óé oe # móét, snóéi, góéie
+ICONV óó oo # óók, óóit
+ICONV óú ou # góúd, Lóúis
+ICONV úí ui # geúít
+ICONV úú uu # natúúrlijk
 ICONV ’ '
 ICONV ij ĳ
 ICONV IJ Ĳ
+
+# convert to restore ij, note REP works seperately on ij and on ij ligature
 OCONV 2
 OCONV ĳ ij
 OCONV Ĳ IJ
+
+#TODO script maken die tabel maakt met tellingen en popup met voorbeelden.
+
+# replacements for improving suggestions
 REP 706
-REP a's$ a
-REP a's$ ums
-REP pt$ bd
-REP ^ad ad_
-REP kju cue
+REP a's$ a	# centra's=>centra
+REP a's$ ums	# centra's=>centrums
+REP pt$ bd	# dichtgeslipt
+REP ^ad ad_	# adrem
+REP kju cue	# barbekju
 REP ^blackbox black_box
 REP ^bonvivant bon_vivant
-REP en e
-REP on ont
-REP ingswaard enswaard
-REP enswaard igenswaard
-REP 'er ër
-REP ër 'er
+REP en e	# wolkenloos=>wolkeloos
+REP on ont	# onvankelijk=>ontvankelijk
+REP ingswaard enswaard	# benoemingswaard=>benoemenswaard
+REP enswaard igenswaard	# behartenswaard=>behartigenswaard
+REP 'er ër	# havo'er => havoër
+REP ër 'er	# mboër=>mbo'er
 REP ^immes$ immers
-REP os$ o's
-REP as$ a's
-REP us$ u's
-REP t th
-REP oren oors
+REP os$ o's	# autos=>auto's
+REP as$ a's	# papas=>papa's
+REP us$ u's	# tutus => tutu's
+REP t th	# etisch=>ethisch
+REP oren oors	# pastoren=>pastoors
 REP ^een een_
-REP wĳziging wĳzing
+REP wĳziging wĳzing	# aanwijziging => aanwijzing
 REP ^clever$ slim
 REP ^clevere$ slimme
 REP pake opa
@@ -74,7 +110,7 @@ REP ai e
 REP ^ter ter_
 REP ^stap-voor-stap stap_voor_stap
 REP elkaar$ _elkaar
-REP ^hierrond$ hieromheen
+REP ^hierrond$ hieromheen	# Vlaams
 REP ^topdrie$ top_drie
 REP ^topvier$ top_vier
 REP ^topvĳf$ top_vĳf
@@ -83,7 +119,7 @@ REP ^eerstelĳn$ eerste_lĳn
 REP ^aande$ aan_de
 REP ^opde$ op_de
 REP ^zg$ zgn.
-REP ^'s 's_
+REP ^'s 's_	# 'savonds => 's avonds
 REP ^ook ook_
 REP check cheque
 REP ^us$ VS
@@ -108,15 +144,15 @@ REP ^dr$ dr.
 REP ^da's$ dat_is
 REP ings ing
 REP heids heid
-REP d$ t
-REP t$ d
+REP d$ t	# speeld=>speelt
+REP t$ d	# gespeelt=>gespeeld
 REP ^newage$ new_age
 REP ^newwave$ new_wave
-REP oren$ oors$
+REP oren$ oors$	# pastoren=>pastoors
 REP erer er
 REP heid heids
 REP ing ings
-REP aa a-a
+REP aa a-a	# collisions, forming 2-char vowels (klink
 REP ae a-e
 REP ai a-i
 REP au a-u
@@ -129,14 +165,14 @@ REP oe o-e
 REP oi o-i
 REP oo o-o
 REP ou o-u
-REP ui u-i
-REP uu u-u
-REP te tte
-REP s$ 's$
+REP ui u-i	# klinkerbotsing
+REP uu u-u	# klinkerbotsing
+REP te tte	# om verwarring met verleden tijd te corri
+REP s$ 's$	# scène's=>scènes
 REP s ss
 REP e en
 REP er ërs
-REP ji ĳ
+REP ji ĳ	# extra omdat ij in iconv tot 1 teken word
 REP u oe
 REP cleric klerik
 REP acten akte
@@ -215,7 +251,7 @@ REP ^euri$ euro's
 REP ^bĳelkaar$ bĳ_elkaar
 REP ^efkes$ eventjes
 REP ^bbq$ barbecue
-REP -ie$ _hĳ
+REP -ie$ _hĳ	# dat-ie => dat hij
 REP ^toeg$ toeg.
 REP ^hr$ hr.
 REP ^afb$ afb.
@@ -255,18 +291,18 @@ REP nie niet
 REP derde _derde
 REP tweede _tweede
 REP vierde$ _vierde
-REP vĳfde$ _vĳfde
+REP vĳfde$ _vĳfde	# eenvijfde => een vijfde
 REP ^bĳv$ bĳv.
 REP copy kopie
 REP j ĳ
-REP ĳ ĳ
+REP ĳ ĳ	# omdat de ij intern ligatuur is
 REP ï -i
 REP c ss
 REP e ĳ
 REP é ee
 REP g ch
 REP ï ii
-REP t d
+REP t d	# gebiest=>gebiesd
 REP u ĳ
 REP x cz
 REP y ĳ
@@ -283,13 +319,13 @@ REP ee é
 REP ee ë
 REP ae ë
 REP je ë
-REP e's és
+REP e's és	# cafe's => cafés
 REP m'n mĳn
 REP ^d'r$ haar
 REP ^'r$ er
 REP ^'r$ haar
-REP voor voort
-REP voort voor
+REP voor voort	# voorplanting => voortplanting
+REP voort voor	# voortdeur=>voordeur
 REP cht gd
 REP burka boerka
 REP eë e-e
@@ -355,7 +391,7 @@ REP acab abrac
 REP ubi ibu
 REP croc krok
 REP ten than
-REP uuk uc
+REP uuk uc	# truuk => truc
 REP eid ĳdt
 REP ters teress
 REP iep ype
@@ -368,7 +404,7 @@ REP statie staatsie
 REP glĳ gelei
 REP noot note
 REP knoot cnote
-REP usqu uusk
+REP usqu uusk	# brusque=>bruusk
 REP kass caiss
 REP akel acle
 REP crash krach
@@ -438,10 +474,10 @@ REP ^ff$ even
 REP ^ad$ A.D.
 REP ^dv$  D.V.
 REP ^hkh$ H.K.H.
-REP ^hm$ H.M.
+REP ^hm$ H.M.	# Hare majesteit
 REP ^lb$ L.B.
 REP ^nb$ N.B.
-REP ^nh$ N.H.
+REP ^nh$ N.H.	# Noord-Holland
 REP ^nn$ N.N.
 REP ^no$ N.O.
 REP ^nv$ N.V.
@@ -557,7 +593,7 @@ REP ^dr$ haar
 REP ^dr$ er
 REP o eau
 REP k c
-REP reïn re-in
+REP reïn re-in	# reïntegratie=>re-integratie
 REP ^ontginden$ ontgonnen
 REP ginde gon
 REP gind gonnen
@@ -574,7 +610,7 @@ REP ^ondermeer$ onder_meer
 REP ^maargoed$ maar_goed
 REP ^opzich$ op_zich
 REP ^openhaard$ open_haard
-REP zover$ _zover
+REP zover$ _zover	# voorzover=>voor zover
 REP ^zoniet$ zo_niet
 REP ^vrĳetĳd$ vrĳe_tĳd
 REP ^danwel$ dan_wel
@@ -594,10 +630,10 @@ REP ^iedergeval$ ieder_geval
 REP ^zometeen$ zo_meteen
 REP ^hedentendage$ heden_ten_dage
 REP ^puertorica Puerto_Rica
-REP koko coco
+REP koko coco	# cocon
 REP ie i
-REP i'i ii
-REP ^srilan Sri_Lan
+REP i'i ii	# shi'itisch
+REP ^srilan Sri_Lan	# Sri Lanka
 REP ^terzake$ ter_zake
 REP ^zonodig$ zo_nodig
 REP ^enzo$ en_zo
@@ -616,11 +652,11 @@ REP ^hoedanook$ hoe_dan_ook
 REP ^voormĳ$ voor_mĳ
 REP ^meekan$ mee_kan
 REP ^perongeluk$ per_ongeluk
-REP ^2e tweede
-REP ei ie
-REP heidstel stel
-REP ij ei
-REP intelligentie inlichtingen
+REP ^2e tweede	# 2ehands
+REP ei ie	# gebeid=>gebied
+REP heidstel stel	# zekerheidstelling=>zekerstelling
+REP ij ei	# Ij=>ei
+REP intelligentie inlichtingen	# intelligentiediensten_=_inlichtingendiensten
 REP ^roestvrijstaal$ roestvrij staal
 REP gebeid gebied
 REP dattie dat hij
@@ -628,10 +664,10 @@ REP veras verras
 REP aanvaart aanvaardt
 REP persentage percentage
 REP deja-vu déjà_vu
-REP sjiek chic
-REP sjieke chique
-REP sjieker chiquer
-REP sjiekst chicst
+REP sjiek chic	# http://taaladvies.net/taal/advies/vraag/
+REP sjieke chique	# http://taaladvies.net/taal/advies/vraag/
+REP sjieker chiquer	# http://taaladvies.net/taal/advies/vraag/
+REP sjiekst chicst	# http://taaladvies.net/taal/advies/vraag/
 REP asseccoires accessoires
 REP aseccoires accessoires
 REP assecoires accessoires
@@ -645,99 +681,99 @@ REP aseccoir accessoir
 REP assecoir accessoir
 REP asecoir accessoir
 REP ^voorschut$ voor_schut
-REP ^M m
+REP ^M m	# onderkast_ook_suggereren
 REP ^A a
-REP ^B b
-REP ^C c
-REP ^D d
-REP ^E e
-REP ^F f
-REP ^G g
-REP ^H h
-REP ^I i
-REP ^J j
-REP ^K k
-REP ^L l
-REP ^N n
-REP ^O o
-REP ^P p
-REP ^Q q
-REP ^R r
-REP ^S s
-REP ^T t
-REP ^U u
-REP ^V v
-REP ^W w
-REP ^X x
-REP ^Y y
-REP ^Z z
+REP ^B b	# ook onderkast suggereren
+REP ^C c	# ook onderkast suggereren
+REP ^D d	# ook onderkast suggereren
+REP ^E e	# ook onderkast suggereren
+REP ^F f	# ook onderkast suggereren
+REP ^G g	# ook onderkast suggereren
+REP ^H h	# ook onderkast suggereren
+REP ^I i	# ook onderkast suggereren
+REP ^J j	# ook onderkast suggereren
+REP ^K k	# ook onderkast suggereren
+REP ^L l	# ook onderkast suggereren
+REP ^N n	# ook onderkast suggereren
+REP ^O o	# ook onderkast suggereren
+REP ^P p	# ook onderkast suggereren
+REP ^Q q	# ook onderkast suggereren
+REP ^R r	# ook onderkast suggereren
+REP ^S s	# ook onderkast suggereren
+REP ^T t	# ook onderkast suggereren
+REP ^U u	# ook onderkast suggereren
+REP ^V v	# ook onderkast suggereren
+REP ^W w	# ook onderkast suggereren
+REP ^X x	# ook onderkast suggereren
+REP ^Y y	# ook onderkast suggereren
+REP ^Z z	# ook onderkast suggereren
 REP euren$ eurs
-REP ^het het_
+REP ^het het_	# hetwoord,_spatie_suggereren
 REP ^dat dat_
 REP ^de de_
 REP prijsstel prijs_stel
 REP atie$ ering
 REP ering$ atie
-REP orches orkes
+REP orches orkes	# orkestratie
 REP ^oet moet
 REP ^dete$ de_te
 REP murf murw
 REP tje 'tje
 REP servie servië
-REP ^da's$ dat is
-REP pvda PvdA
+REP ^da's$ dat is	# om_suggestie_vooraan_te_krijgen
+REP pvda PvdA	# om_suggestie_vooraan_te_krijgen
 REP ^bvb$ bijv.
 REP ^eeuwse$ -eeuwse
-REP tengevolge ten gevolge
+REP tengevolge ten gevolge	# om_suggestie_vooraan_te_krijgen
 REP event evenement
 REP vs vs.
 REP apps applicaties
-REP sch s
+REP sch s	# ouderwets naar modern
 REP ^fun$ lol
-REP aie aïe
+REP aie aïe	# voor_naar_voren_halen_suggestie_o.a._naïef
 REP openlucht open lucht
 REP ^kinder$ kinder-
-REP events evenementen
-REP ^danpas$ dan pas
-REP email e-mail
-REP effe even
-REP ^ne$ een
-REP ^zeide$ zei
-REP -tje 'tje
-REP ie ĳ
-REP mss misschien
-REP nen een
-REP ect etc
+REP events evenementen	# niet per se fout, maar lelijk
+REP ^danpas$ dan pas	# spatie suggereren
+REP email e-mail	# om_suggestie_vooraan_te_krijgen
+REP effe even	# om_suggestie_vooraan_te_krijgen
+REP ^ne$ een	# Vlaams_naar_Nederlands
+REP ^zeide$ zei	# ouderwets,_Bijbels
+REP -tje 'tje	# cd-tje_=>_cd'tje
+REP ie ĳ	# biezonder_=>_bijzonder
+REP mss misschien	# forum-taal
+REP nen een	# Vlaams_naar_Nederlands
+REP ect etc	# et_cetera
 REP ^'m$ hem
 REP ^mn$ mijn
 REP ^'n$ een
-REP -ers$ 'ers
-REP kkies kjes
-REP presies precies
-REP ^zonder zonder_
-REP -e ë
-REP kkie kje
-REP ppie pje
-REP g ge
-REP ees ace
-REP $cariere^ carrière
-REP zijn$ zijn_
-REP van$ _van
-REP wordt$ _wordt
-REP ^wordt wordt_
-REP bruid bruids
-REP vvd VVD
-REP ship schap
-REP gske kje
+REP -ers$ 'ers	# hob-ers_=>_hbo'ers
+REP kkies kjes	# strakkies_=>_strakjes
+REP presies precies	# om_suggestie_vooraan_te_krijgen
+REP ^zonder zonder_	# spatie suggereren
+REP -e ë	# ge-ent_=>_geënt
+REP kkie kje	# bakkie_=>_bakje
+REP ppie pje	# chippie_=>_chipje
+REP g ge	# aangstuurd=>aangestuurd
+REP ees ace	# rees=>race
+REP $cariere^ carrière	# suggestie was niet aanwezig
+REP zijn$ zijn_	# spatie suggereren
+REP van$ _van	# spatie suggereren
+REP wordt$ _wordt	# spatie suggereren
+REP ^wordt wordt_	# spatie suggereren
+REP bruid bruids	# anders_komt_bruis_als_suggestie
+REP vvd VVD	# anders_geen_suggestie
+REP ship schap	# partnership=>partnerschap
+REP gske kje	# verbindingske=>verbindinkje
 REP zgn zgn.
-REP tten s
+REP tten s	# schoolboycotten=>boycots
 REP terzelfdertijd terzelfder_tijd
 REP ingskes inkjes
 REP ingskes ingetjes
-REP bijbel Bijbel
-REP derin ster
-REP nerin onster
-REP nerinnetje onstertje
-REP gemeubuleerde gemeubileerde
-REP volklied volkslied
-REP ^zer$ zeer
+REP bijbel Bijbel	# om_goede_suggestie_te_krijgen
+REP derin ster	# bewaardering_=>_bewaarster
+REP nerin onster	# bewonerin=>bewoonster
+REP nerinnetje onstertje	# bewonerinnetje=>bewoonstertje
+REP gemeubuleerde gemeubileerde	# suggestie was niet aanwezig
+REP volklied volkslied	# volklied=>volkslied
+REP ^zer$ zeer	# zer=>zeer

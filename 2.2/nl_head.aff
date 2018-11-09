@@ -43,11 +43,10 @@ WORDCHARS '’0123456789ĳĲ.-\/
 # causing problems with abbreviations and end-of-sentence words.
 # Issue has been communicated with Hunspell's author.
 
-
-# replace correct accented double vowels with unaccented ones for acceptance
-ICONV 9
+# convert unneeded double emphasis, apostrophe to quote and ij to one character
+ICONV 16
 ICONV áá aa # dáár, dráái, tááie, ááien, beáám
-ICONV áó ao # Raoul
+ICONV áó ao # Raoul TODO check
 ICONV áú au # láúw, áú
 ICONV éá ea # cadéáu
 ICONV éé ee # néé, lééuw
@@ -59,5 +58,13 @@ ICONV óó oo # óók, óóit
 ICONV óú ou # góúd, Lóúis
 ICONV úí ui # geúít
 ICONV úú uu # natúúrlijk
+ICONV ’ '
+ICONV ij ĳ
+ICONV IJ Ĳ
 
-TODO script maken die tabel maakt met tellingen en popup met voorbeelden.
+# convert to restore ij, note REP works seperately on ij and on ij ligature
+OCONV 2
+OCONV ĳ ij
+OCONV Ĳ IJ
+
+#TODO script maken die tabel maakt met tellingen en popup met voorbeelden.
