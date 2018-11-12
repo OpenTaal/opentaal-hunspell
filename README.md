@@ -1,5 +1,32 @@
 # hunspell-nl
+
 Dutch language support for Hunspell
+
+
+# Generation from old database
+
+Go on the server to `/var/www/opentaal.nl/www/htdocs/opentaalbank/spellingcontrole/next_version/genereer`
+
+Run `genereer.sh` which does:
+1. set version number and date
+2. run `export_dic.pbp` which does:
+    1.
+    2.
+    3.
+3. copy `../new.aff.mdl` with replaced date and version number to `new.aff`
+4. run `update_aff.pbp` which does:
+    1. 
+    2.
+    3.
+5. copy `new.aff` to `..`
+6. wait for user to press `Enter`
+7. run `export_woordenlijst.php`, which does
+    1. 
+    2.
+    3.
+8. run `hunspell` for dictionary `new` and print lines with misspelled words, sort these and store them in `gemist.txt`
+9. list the words from `gemist.txt`
+10. wait for user to press `Enter`
 
 
 # Important tables in database
