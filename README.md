@@ -93,8 +93,17 @@ Words with flags for Hunspell. Still in use. ~173578 entries
         * `Fw` (~10515) for ? such as woonzorgterrein, brandweer, Mexico-stad, luisterend, woonzorgservices, wereldhockeybond. Words labelled in `aantekeingen` with `onzinsuggestie` such as 3-koorts, pre-pais, 3D-speler, vervuilringen, wonderdekking, VLO-, Elite-, -0, -1, -9-regeling, -A4, A-oever. (no idea if this is relevant)
     * `Z`
         * `Za` (~15992) for compounds? such as 's-Gravenhagenaar, 06-nummer, AOW'er, à-la-carterestaurant, zwerfvuilactie, zwerfster
-        * `Zb` (~13058) for
-        * `Zd` (~411) for words ending on `heid` which may get suffix `heden` or `heden-`
+
+### `Zb` (~13058) meervoud kruisproductsuffix `en`, `ën`, `en-` of `ën-`
+
+`tuin` → `tuinen`
+
+### `Zd` (~411) meervoud `heid` met vervangende kruisproductsuffix `heden` of `heden-`
+
+`schoonheid` → `schoonheden`
+
+
+
         * `Ze` (~4080) for
         * `Zf` (~1697) for
         * `Zc` (~1491) for
@@ -116,9 +125,128 @@ Words with flags for Hunspell. Still in use. ~173578 entries
         * `Cl` (~) for *initiaalwoorden* starting with upper case character such as Vwo, Lpg, H5N1, E and Bh.
     * `Y`
         * `Yb` (~) for
-    * `A`
-        * `Aa` (~6676) for
-        * `Al` (~) for
+
+### `A` Adjectief (bijvoeglijk naamwoord)
+
+stellende trap is de stam, alle regels staan kruisproduct toe
+
+#### `Aa` (~6676) verbogen stellende trap `ts:AJe` 2x
+
+`viezig` → `viezige` en `moe` → `moeë`
+
+#### `Ab` (~2350) vergrotende trap `ts:AJcn` 2x
+
+`lelijk` → `lelijker` en `raar` → `raarder`
+
+#### `Ac` (~764) verbogen vergrotende trap `ts:AJce` 2x
+
+`lelijk` → `lelijkere` en `dor` → `dordere`
+
+#### `Ad` (~1229) overtreffende trap `ts:AJsn`
+
+`lelijk` → `lelijkst` en `zinloos` → `zinloost`
+
+#### `Ae` (~1238) verbogen overtreffende trap `ts:AJse` 2x
+
+`lelijk` → `lelijkste` en `zinloos` → `zinlooste`
+
+#### `A0` continuation class voor `Ad` en `Ae` let op `ts:` wordt uitgesteld 1x
+
+`Ad`: `lelijkst` → `allerlelijkst` en `zinloost` → `allerzinloost`
+
+`Ae`: `lelijkste` → `allerlelijkste` maar geen gebruik flag in dictionary voor `allerzinlooste`
+
+#### `Ai` (~531) s-vorm `ts:i` 1x
+
+`lelijk` → `lelijks`
+
+#### `Al` (~1863) verbogen stellende trap `ts:AJe` 29x
+
+`aeroob` → `aerobe`
+`kwaad` → `kwade`
+`breed` → `brede`
+`rood` → `rode`
+`braaf` → `brave` (f->v)
+`doof` → `dove` (f->v)
+`traag` → `trage`
+`leeg` → `lege`
+`hoog` → `hoge`
+`raak` → `rake`
+`week` → `weke`
+`*ook` → niet gebruikt
+`vaal` → `vale`
+`geel` → `gele`
+`anabool` → `anabole`
+`eenzaam` → `eenzame`
+`sloom` → `slome`
+`postuum` → `postume`
+`urbaan` → `urbane`
+`autogeen` → `autogene`
+`ultrasoon` → `ultrasone`
+`vloeibaar` → `vloeibare`
+`goor` → `gore`
+`hees` → `hese` (let op: niet heze)
+`kordaat` → `kordate`
+`heet` → `hete`
+`groot` → `grote`
+`voos` → `voze` (s->z)
+`confuus` → `confuse`
+
+#### `Am` (~69) verbogen stellende trap `ts:AJe` 1x
+
+`industrieel` → `industriële`
+
+#### `An` (~301) verbogen stellende trap `ts:AJe` 11x
+
+`glad` → `gladde`
+`dof` → `doffe`
+`stug` → `stugge`
+`druk` → `drukke`
+`bol` → `bolle`
+`lam` → `lamme`
+`min` → `minne`
+`nep` → `neppe`
+`dor` → `dorre`
+`ros` → `rosse`
+`zot` → `zotte`
+
+#### `Ao` (~138) vergrotende trap `ts:AJc` 11x
+
+`glad` → `gladder`
+`maf` → `maffer`
+`stug` → `stugger`
+`vlak` → `vlakker`
+`zinvol` → `zinvoller`
+`dom` → `dommer`
+`dun` → `dunner`
+`rap` → `rapper`
+`.*r` → `rrer` geen gebruik
+`los` → `losser`
+`zat` → `zatter`
+
+#### `Ap` (~47) verbogen vergrotende trap `ts:AJce` 11x
+
+`glad` → `gladdere`
+`maf` → `maffere`
+`stug` → `stuggere`
+`vlak` → `vlakkere`
+`zinvol` → `zinvollere`
+`dom` → `dommere`
+`dun` → `dunnere`
+`rap` → `rappere`
+`.*r` → `rrere` geen gebruik
+`los` → `lossere`
+`zat` → `zattere`
+
+Aq
+Ar
+As
+At
+Au
+Av
+Aw
+Ax
+
     * `N` numbers
         `N7` (~18) rangtelwoord, ordinale, EN ordinal number such as eerste, tweede, derde, ..., negentiende
 
