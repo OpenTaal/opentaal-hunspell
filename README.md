@@ -85,6 +85,42 @@ Replacements for Hunspell. Still in use. ~
 
 Words with flags for Hunspell. Still in use. ~173578 entries
 
+* `flags`:
+    * `` (~71520) for *none*
+    * `P`
+        * `PN` (~16878) for poper noun such as Aagje, Aalbers, Zwols, Zweverink
+    * `F`
+        * `Fw` (~10515) for ? such as woonzorgterrein, brandweer, Mexico-stad, luisterend, woonzorgservices, wereldhockeybond. Words labelled in `aantekeingen` with `onzinsuggestie` such as 3-koorts, pre-pais, 3D-speler, vervuilringen, wonderdekking, VLO-, Elite-, -0, -1, -9-regeling, -A4, A-oever. (no idea if this is relevant)
+    * `Z`
+        * `Za` (~15992) for compounds? such as 's-Gravenhagenaar, 06-nummer, AOW'er, à-la-carterestaurant, zwerfvuilactie, zwerfster
+        * `Zb` (~13058) for
+        * `Zd` (~411) for words ending on `heid` which may get suffix `heden` or `heden-`
+        * `Ze` (~4080) for
+        * `Zf` (~1697) for
+        * `Zc` (~1491) for
+        * `Zh` (~1463) for
+        * `Zj` (~35) for nouns of which pluras get `n` added? such as IJsheilige, alleenstaande, dakloze, weersdeskundige, werktuigboukundige
+        * `Zu` (~13) for ? such as dialecticus, gnosticus, ssytematicus (plural gets `ca` removed and `i` added?)
+    * `V`
+        * `Vi` (~7732) for
+        * `Ve` (~3546) for
+        * `V3` (~) for stam?
+        * `Vq` (~) for (lot of double VqVq, what to do with those?)
+        * `Vp` (~) for  
+        * `Ve` (~) for voltooid deelwoord?
+        * `Vi` (~) for infinitief?
+    * `C`
+        * `CA` (~) for
+        * `CB` (~) for
+        * `C0` (~) for
+        * `Cl` (~) for *initiaalwoorden* starting with upper case character such as Vwo, Lpg, H5N1, E and Bh.
+    * `Y`
+        * `Yb` (~) for
+    * `A`
+        * `Aa` (~6676) for
+        * `Al` (~) for
+    * `N` numbers
+        `N7` (~18) rangtelwoord, ordinale, EN ordinal number such as eerste, tweede, derde, ..., negentiende
 
 # Less-important tables in database
 
@@ -99,7 +135,7 @@ Tables for users, groups and keeping payments done by sponsors.
 Table only for optimization. Has only `word` and `id`. Not sure if still up to date. Better not edit or use this table.
 
 
-## words_counting and words_frequencies
+## freqTotal, words_counting and words_frequencies
 
 Old tables with word frequency from sources, Google, etc. Not updated for a while. Better not use this anymore.
 
@@ -142,3 +178,13 @@ Tables used for user feedback. Keep this. Important for historical decisions. St
 ## LT_rules and language_tools_*
 
 Rules for LanguageTool. Do not edit or use anymore. All rules are currently in XML files in LanguageTool repository.
+
+
+## domains
+
+List of domain names harvested. Not very relevant anymore.
+
+
+## base_jargon and base_status
+
+Probably once intended to be used in LanguageTool.
