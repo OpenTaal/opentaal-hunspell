@@ -128,124 +128,168 @@ Words with flags for Hunspell. Still in use. ~173578 entries
 
 ### `A` Adjectief (bijvoeglijk naamwoord)
 
-stellende trap is de stam, alle regels staan kruisproduct toe
+`ts:AJn` stellende trap is de stam, alle regels staan kruisproduct toe
 
-#### `Aa` (~6676) verbogen stellende trap `ts:AJe` 2x
+#### `Aa` (~6676) verbogen stellende trap `ts:AJe`
 
-`viezig` → `viezige` en `moe` → `moeë`
+1. `viezig` → `viezigE`
+2. `moE` → `moeË`
 
-#### `Ab` (~2350) vergrotende trap `ts:AJcn` 2x
+#### `Ab` (~2350) vergrotende trap `ts:AJcn`
 
-`lelijk` → `lelijker` en `raar` → `raarder`
+1. `lelijk` → `lelijkER`
+2. `raaR` → `raarDER`
 
-#### `Ac` (~764) verbogen vergrotende trap `ts:AJce` 2x
+#### `Ac` (~764) verbogen vergrotende trap `ts:AJce`
 
-`lelijk` → `lelijkere` en `dor` → `dordere`
+1. `lelijk` → `lelijkERE`
+2. `doR` → `dorDERE`
 
 #### `Ad` (~1229) overtreffende trap `ts:AJsn`
 
-`lelijk` → `lelijkst` en `zinloos` → `zinloost`
+1. `lelijk` → `lelijkST`
+2. `zinlooS` → `zinloosT`
 
-#### `Ae` (~1238) verbogen overtreffende trap `ts:AJse` 2x
+#### `Ae` (~1238) verbogen overtreffende trap `ts:AJse`
 
-`lelijk` → `lelijkste` en `zinloos` → `zinlooste`
+1. `lelijk` → `lelijkSTE`
+2. `zinlooS` → `zinloosTE`
 
 #### `A0` continuation class voor `Ad` en `Ae` let op `ts:` wordt uitgesteld 1x
 
-`Ad`: `lelijkst` → `allerlelijkst` en `zinloost` → `allerzinloost`
+`Ad`: `lelijkst` → `ALLERlelijkst`
+`zinloost` → `ALLERzinloost`
 
-`Ae`: `lelijkste` → `allerlelijkste` maar geen gebruik flag in dictionary voor `allerzinlooste`
+`Ae`: `lelijkste` → `ALLERlelijkste` maar geen gebruik flag in dictionary voor `allerzinlooste`
 
-#### `Ai` (~531) s-vorm `ts:i` 1x
+#### `Ai` (~531) s-vorm `ts:i`
 
-`lelijk` → `lelijks`
+1. `lelijk` → `lelijks`
 
-#### `Al` (~1863) verbogen stellende trap `ts:AJe` 29x
+#### `Al` (~1863) verbogen stellende trap `ts:AJe`
 
-`aeroob` → `aerobe`
-`kwaad` → `kwade`
-`breed` → `brede`
-`rood` → `rode`
-`braaf` → `brave` (f->v)
-`doof` → `dove` (f->v)
-`traag` → `trage`
-`leeg` → `lege`
-`hoog` → `hoge`
-`raak` → `rake`
-`week` → `weke`
-`*ook` → niet gebruikt
-`vaal` → `vale`
-`geel` → `gele`
-`anabool` → `anabole`
-`eenzaam` → `eenzame`
-`sloom` → `slome`
-`postuum` → `postume`
-`urbaan` → `urbane`
-`autogeen` → `autogene`
-`ultrasoon` → `ultrasone`
-`vloeibaar` → `vloeibare`
-`goor` → `gore`
-`hees` → `hese` (let op: niet heze)
-`kordaat` → `kordate`
-`heet` → `hete`
-`groot` → `grote`
-`voos` → `voze` (s->z)
-`confuus` → `confuse`
+1. `aerOOB` → `aeroBE`
+2. `kwAAD` → `kwaDE`
+3. `brEED` → `breDE`
+4. `rOOD` → `roDE`
+5. `brAAF` → `braVE` (f->v)
+6. `dOOF` → `doVE` (f->v)
+7. `trAAG` → `traGE`
+8. `lEEG` → `leGE`
+9. `hOOG` → `hoGE`
+10. `rAAK` → `raKE`
+11. `wEEK` → `weKE`
+12. `*OOK` → niet gebruikt
+13. `vAAL` → `vaLE`
+14. `gEEL` → `geLE`
+15. `anabOOL` → `anaboLE`
+16. `eenzAAM` → `eenzaME`
+17. `slOOM` → `sloME`
+18. `postUUM` → `postuME`
+19. `urbAAN` → `urbaNE`
+20. `autogEEN` → `autogeNE`
+21. `ultrasOON` → `ultrasoNE`
+22. `vloeibAAR` → `vloeibaRE`
+23. `gOOR` → `goRE`
+24. `hEES` → `heSE` (let op: niet heze)
+25. `kordAAT` → `kordaTE`
+26. `hEET` → `heTE`
+27. `grOOT` → `groTE`
+28. `vOOS` → `voZE` (s->z)
+29. `confUUS` → `confuSE`
 
-#### `Am` (~69) verbogen stellende trap `ts:AJe` 1x
+#### `Am` (~69) verbogen stellende trap `ts:AJe`
 
-`industrieel` → `industriële`
+1. `industrIEEL` → `industriËLE`
 
-#### `An` (~301) verbogen stellende trap `ts:AJe` 11x
+#### `An` (~301) verbogen stellende trap `ts:AJe`
 
-`glad` → `gladde`
-`dof` → `doffe`
-`stug` → `stugge`
-`druk` → `drukke`
-`bol` → `bolle`
-`lam` → `lamme`
-`min` → `minne`
-`nep` → `neppe`
-`dor` → `dorre`
-`ros` → `rosse`
-`zot` → `zotte`
+1. `glaD` → `gladDE`
+2. `doF` → `dofFE`
+3. `stuG` → `stugGE`
+4. `druK` → `drukKE`
+5. `boL` → `bolLE`
+6. `laM` → `lamME`
+7. `miN` → `minNE`
+8. `neP` → `nepPE`
+9. `doR` → `dorRE`
+10. `roS` → `rosSE`
+11. `zoT` → `zotTE`
 
-#### `Ao` (~138) vergrotende trap `ts:AJc` 11x
+#### `Ao` (~138) vergrotende trap `ts:AJc`
 
-`glad` → `gladder`
-`maf` → `maffer`
-`stug` → `stugger`
-`vlak` → `vlakker`
-`zinvol` → `zinvoller`
-`dom` → `dommer`
-`dun` → `dunner`
-`rap` → `rapper`
-`.*r` → `rrer` geen gebruik
-`los` → `losser`
-`zat` → `zatter`
+1. `glaD` → `gladDER`
+3. `maF` → `mafFER`
+3. `stuG` → `stugGER`
+4. `vlaK` → `vlakKER`
+5. `zinvoL` → `zinvolLER`
+6. `doM` → `domMER`
+7. `duN` → `dunNER`
+8. `raP` → `rapPER`
+9. `.*R` → `rRER` geen gebruik
+10. `loS` → `losSER`
+11. `zaT` → `zatTER`
 
-#### `Ap` (~47) verbogen vergrotende trap `ts:AJce` 11x
+#### `Ap` (~47) verbogen vergrotende trap `ts:AJce`
 
-`glad` → `gladdere`
-`maf` → `maffere`
-`stug` → `stuggere`
-`vlak` → `vlakkere`
-`zinvol` → `zinvollere`
-`dom` → `dommere`
-`dun` → `dunnere`
-`rap` → `rappere`
-`.*r` → `rrere` geen gebruik
-`los` → `lossere`
-`zat` → `zattere`
+1. `glaD` → `gladDERE`
+2. `maF` → `mafFERE`
+3. `stuG` → `stugGERE`
+4. `vlaK` → `vlakKERE`
+5. `zinvoL` → `zinvolLERE`
+6. `doM` → `domMERE`
+7. `duN` → `dunNERE`
+8. `raP` → `rapPERE`
+9. `.*R` → `rRERE` geen gebruik
+10. `loS` → `losSERE`
+11. `zaT` → `zatTERE`
 
-Aq
-Ar
-As
-At
-Au
-Av
-Aw
-Ax
+#### `Aq` vergrotende trap `ts:AJcn`
+
+1. `aerOOB` → `aeroBER`
+2. `kwAAD` → `kwaDER`
+3. `brEED` → `breDER`
+4. `rOOD` → `roDER`
+5. `brAAF` → `braVER` (f->v)
+6. `dOOF` → `doVER` (f->v)
+7. `trAAG` → `traGER`
+8. `lEEG` → `leGER`
+9. `hOOG` → `hoGER`
+10. `rAAK` → `raKER`
+11. `wEEK` → `weKER`
+12. `*OOK` → niet gebruikt
+13. `vAAL` → `vaLER`
+14. `gEEL` → `geLER`
+15. `anabOOL` → `anaboLER`
+16. `eenzAAM` → `eenzaMER`
+17. `slOOM` → `sloMER`
+18. `postUUM` → `postuMER`
+19. `urbAAN` → `urbaNER`
+20. `autogEEN` → `autogeNER`
+21. `ultrasOON` → `ultrasoNER`
+22. `hEES` → `heSE` (let op: niet heze)
+23. `kordAAT` → `kordaTE`
+24. `hEET` → `heTE`
+25. `grOOT` → `groTE`
+26. `vOOS` → `voZE` (s->z)
+27. `confUUS` → `confuSE`
+
+#22. `vloeibAAR` → `vloeibaarDER`
+#23. `gOOR` → `goorDER`
+
+#### `Ar`
+
+#### `As`
+
+#### `At`
+
+#### `Au`
+
+#### `Av`
+
+#### `Aw`
+
+#### `Ax`
 
     * `N` numbers
         `N7` (~18) rangtelwoord, ordinale, EN ordinal number such as eerste, tweede, derde, ..., negentiende
