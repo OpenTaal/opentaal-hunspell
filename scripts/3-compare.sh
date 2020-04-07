@@ -1,3 +1,4 @@
+exit
 cd ..
 for i in ?.?; do
 	echo $i

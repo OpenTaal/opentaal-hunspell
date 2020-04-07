@@ -1,0 +1,447 @@
+Status	Temporal	Word	Alternative
+-	0	franse	Franse
+-	0	handenschudden	handen schudden
+-	0	kommers	Kommers
+-	0	onspannend	ontspannend
+-	0	oppermatig	oppermachtig
+-	0	passporten	paspoorten
+-	0	waterkeren	water keren
+-	2	verbaden	verboden
+-	2	verbad	verfbad;verband
+-	2	verbid	
+-	2	verbidden	
+-	2	verbidt	
+-	3	arre	
+-	3	waardelen	
+B	0	aantelling	aanstelling
+B	0	benthuizen	Benthuizen
+B	0	daggen	dagen
+B	0	deen	Deen
+B	0	docentencorps	docentenkorps
+B	0	Drenthen	Drenten
+B	0	éénduidige	eenduidige
+B	0	éénheid	eenheid
+B	0	éénheidsworst	eenheidsworst
+B	0	éénjarige	eenjarige
+B	0	éénjarig	eenjarig
+B	0	Eénmaal	Eenmaal
+B	0	éénmaal	eenmaal
+B	0	éénmalige	eenmalige
+B	0	éénmalig	eenmalig
+B	0	éénoudergezinnen	eenoudergezinnen
+B	0	éénrichtingsverkeer	eenrichtingsverkeer
+B	0	ééntalige	eentalige
+B	0	ééntalig	eentalig
+B	0	ééntje	eentje
+B	0	éénzijdige	eenzijdige
+B	0	éénzijdig	eenzijdig
+B	0	gebeiden	gebieden
+B	0	gijnen	geinen
+B	0	hitler	Hitler
+B	0	hoofddorp	Hoofddorp
+B	0	humanitas	Humanitas
+B	0	ijslander	IJslander
+B	0	Indie	Indië
+B	0	Julie	jullie
+B	0	muite	muitte
+B	0	oorlogsgravenstichting	Oorlogsgravenstichting
+B	0	safe sex	veilige seks
+B	0	sext	sekst
+B	0	si	is
+B	0	veiligheidsraad	Veiligheidsraad
+B	0	win-win	
+B	0	xerox	Xerox
+B	0	zodiac	zodiak
+B	1	ongelden	ontgelden
+B	3	brodden	broden
+D	0	diene	dienen
+D	0	romeinse	romeinse kaars;Romeinse
+F	0	aanspring	aansporing
+F	0	afgezand	afgezant
+F	0	afgezande	
+F	0	afreedt	aftreedt
+F	0	afrijs	afreis
+F	0	afrijst	afreist
+F	0	afterpillen	morning-afterpillen
+F	0	afzegen	
+F	0	arde	
+F	0	artes	
+F	0	beidde	beide
+F	0	belgen	Belgen
+F	0	beried	bereid
+F	0	berieden	bereiden
+F	0	blouw	
+F	0	bossages	
+F	0	celen	cellen
+F	0	dab	
+F	0	dallen	dalen
+F	0	dankzei	dankzij
+F	0	doelpuntten	doelpunten
+F	0	doomde	droomde
+F	0	doomden	droomden
+F	0	doomt	droomt
+F	0	driekleuren	
+F	0	eenwinters	een winters
+F	0	enigste	
+F	0	erlangden	verlangden
+F	0	erlangde	verlangde
+F	0	erlangd	verlangd
+F	0	erlangt	verlangt
+F	0	erlang	verlang
+F	0	feiltje	vijltje
+F	0	fitnes	goedkoopste
+F	0	gedoomd	gedroomd
+F	0	geertje	
+F	0	geertjes	Geertjes
+F	0	gehak	gehakt
+F	0	gekrengd	
+F	0	gemeeld	gemaild
+F	0	gevaat	gevaar
+F	0	gijlen	geilen
+F	0	gijns	
+F	0	handde	
+F	0	heeften	heeft en
+F	0	hemde	hem de
+F	0	hergroepeerd	gehergroepeerd
+F	0	hitlers	
+F	0	hool	
+F	0	jon	jong
+F	0	jont	joint
+F	0	kramt	kraamt
+F	0	laats	laatst
+F	0	landschapschilderijen	landschapsschilderijen
+F	0	lijkte	leek
+F	0	lijkten	leken
+F	0	lost generations	
+F	0	makt	maakt
+F	0	marcje	
+F	0	marctje	
+F	0	mar	maar
+F	0	mart	markt
+F	0	meelde	mailde
+F	0	meelden	mailden
+F	0	meelt	mailt
+F	0	meniet	
+F	0	mines	
+F	0	nebben	hebben
+F	0	plats du jour	
+F	0	prielen	priëlen
+F	0	puisjes	puistjes
+F	0	redens	redenen
+F	0	reedt	reed
+F	0	rop	
+F	0	ruitten	ruiten
+F	0	seis	zeis
+F	0	senten	centen
+F	0	sexten	seksten
+F	0	stege	
+F	0	steurden	stuurden
+F	0	steurde	stuurde
+F	0	steurt	stuurt
+F	0	tourbussen	
+F	0	uitreedt	
+F	0	verassende	verrassende
+F	0	verassend	verrassend
+F	0	verassingen	verrassingen
+F	0	verasten	verrasten
+F	0	veraste	verraste
+F	0	verast	verrast
+F	0	veras	verras
+F	0	vergenoeg	ver genoeg
+F	0	verheden	
+F	0	vermeiden	
+F	0	verreist	vereist
+F	0	verstanden	
+F	0	wordprocessors	tekstverwerkers
+F	0	zeide	zijde
+F	0	zijlen	
+F	2	weden	werden
+F	2	zoude	
+F	3	brodde	broden
+H	0	Pinkster	pinkster
+K	0	aangetogen	
+K	0	aangraven	
+K	0	aankappen	
+K	0	aanlaat	
+K	0	aantellen	
+K	0	aanvaart	aanvaardt
+K	0	aanwezend	
+K	0	achterhoek	Achterhoek
+K	0	afdieven	
+K	0	afpelen	
+K	0	afragen	afvragen
+K	0	afrijzen	afreizen
+K	0	afschitteren	
+K	0	afsluitdijk	Afsluitdijk
+K	0	afterpil	morning-afterpil
+K	0	afwezende	
+K	0	agiotage	
+K	0	alevel	
+K	0	altemaal	
+K	0	analecta	
+K	0	anemiek	Annemiek
+K	0	ank	ankh
+K	0	antiretour	
+K	0	ariaans	Ariaans
+K	0	arnhemmer	Arnhemmer
+K	0	ars	
+K	0	baaivangen	
+K	0	bantam	
+K	0	barnen	
+K	0	bedieden	
+K	0	bei	bij
+K	0	beis	bies
+K	0	belastingsdruk	belastingdruk
+K	0	belen	Belen
+K	0	belg	Belg
+K	0	berderen	
+K	0	bijwezen	
+K	0	blokland	Blokland
+K	0	blouwel	
+K	0	blouwen	
+K	0	boegseren	
+K	0	boekweitegort	
+K	0	bohr	Bohr
+K	0	bols	Bols
+K	0	bondswege	
+K	0	boterhoek	Boterhoek
+K	0	braspenning	Braspenning
+K	0	breeks	
+K	0	briet	
+K	0	brod	
+K	0	butoor	
+K	0	cachetteren	
+K	0	chambree	
+K	0	chaud	
+K	0	concordia	
+K	0	dagvaart	dagvaardt
+K	0	diepdenkend	
+K	0	domen	dromen
+K	0	driepunten	
+K	0	driestar	
+K	0	dry	
+K	0	dwarsdrijven	
+K	0	eenwinter	een winter
+K	0	eigengeërfde	
+K	0	eikaars	elkaars
+K	0	eilaci	
+K	0	eins	
+K	0	engels	Engels
+K	0	erlangen	verlangen
+K	0	ette	
+K	0	exequiën	
+K	0	fijten	feiten;Fijten
+K	0	fijt	feit
+K	0	fronselen	
+K	0	gebbe	
+K	0	gehorend	
+K	0	geien	gezien
+K	0	gekrookt	
+K	0	geleen	Geleen;geleend
+K	0	gelt	
+K	0	gent	Gent
+K	0	getrost	
+K	0	gijl	geil
+K	0	gijn	gein
+K	0	goedkoopte	goedkoopste
+K	0	goedverkochte	
+K	0	gortzak	Gortzak
+K	0	grijnen	
+K	0	groede	
+K	0	groes	Groes
+K	0	guimpe	
+K	0	haagt	
+K	0	haf	half
+K	0	handelswijze	handelwijze
+K	0	handelswijzen	handelwijze
+K	0	harentwille	
+K	0	harmelen	
+K	0	harpuizen	
+K	0	hatsiekadee	
+K	0	heef	heeft
+K	0	heenvoeren	
+K	0	he	hè
+K	0	helmgat	Helmgat
+K	0	hemmetje	
+K	0	hoevenaar	
+K	0	hondenblik	
+K	0	hort	
+K	0	hui	huis
+K	0	ijslanders	IJslanders
+K	0	inkomstenbelastingstarief	inkomstenbelastingtarief
+K	0	inwippen	
+K	0	jein	je in
+K	0	joggelen	
+K	0	jumelles	
+K	0	kaasjager	Kaasjager
+K	0	kamermeubelen	
+K	0	kamperveen	Kamperveen
+K	0	kandidaatsstelling	kandidaatstelling
+K	0	keesje	
+K	0	keistad	Keistad
+K	0	kennismakingsadvertentie	
+K	0	kielman	Kielman
+K	0	kinematografie	
+K	0	klakkebus	
+K	0	kno	kon
+K	0	koeltje	
+K	0	koeteren	
+K	0	kokschool	koksschool
+K	0	kollenbloem	
+K	0	krates	
+K	0	kussenstoel	
+K	0	kwatsen	
+K	0	labber	
+K	0	labberen	
+K	0	laetare	
+K	0	landschapschilderij	landschapsschilderij
+K	0	landschapschilder	landschapsschilder
+K	0	lebbe	
+K	0	m.	
+K	0	maagdeken	
+K	0	marc	Marc
+K	0	medegaan	
+K	0	medeslepen	
+K	0	mensenzoon	Mensenzoon
+K	0	mijnentwil	
+K	0	mijnentwille	
+K	0	minderman	Minderman
+K	0	moederkindje	
+K	0	moederkindjes	
+K	0	moeken	
+K	0	moespot	Moespot
+K	0	mokkelen	
+K	0	moltonnen	
+K	0	moreen	
+K	0	morgengrauwen	
+K	0	motorrennen	
+K	0	mw	
+K	0	nebbe	
+K	0	neb	heb
+K	0	neerlopen	
+K	0	ngo	nog
+K	0	nieuwmelkt	
+K	0	nijper	
+K	0	oed	
+K	0	oldenburger	Oldenburger
+K	0	omkaden	
+K	0	omspoken	
+K	0	onderom	
+K	0	ongevallig	
+K	0	onwetens	
+K	0	onzentwil	
+K	0	ootjes	
+K	0	openlucht	
+K	0	opponens	
+K	0	overdiep	Overdiep
+K	0	papsoort	paspoort
+K	0	peg	pech
+K	0	penningske	penninkje
+K	0	pereat	
+K	0	pleten	
+K	0	potgieter	Potgieter
+K	0	privatim	
+K	0	puisje	puistje
+K	0	rabatteren	
+K	0	raspoetin	
+K	0	rechtgeleide	
+K	0	rechtopgezet	
+K	0	reins	Reins
+K	0	rekenkamer	Rekenkamer
+K	0	renen	
+K	0	reng	
+K	0	ressource	
+K	0	rijn	Rijn
+K	0	romein	Romein
+K	0	ruising	
+K	0	sa	
+K	0	schaard	
+K	0	schildwachthuisje	
+K	0	schoenhoorn	
+K	0	schorland	Schotland
+K	0	seelachs	
+K	0	sent	zend
+K	0	sjiek	chic
+K	0	slechtje	
+K	0	smartenkind	
+K	0	smeerling	Smeerling
+K	0	sneeps	Sneeps
+K	0	staartpagina	
+K	0	statenverkiezingen	Statenverkiezingen
+K	0	stede	steden
+K	0	steeman	Steeman
+K	0	struiven	
+K	0	st	St.
+K	0	stukgaand	
+K	0	tezen	
+K	0	theeblaren	
+K	0	thuisliggen	
+K	0	toetellen	
+K	0	toiletmaken	
+K	0	toongevend	toonaangevend
+K	0	treek	
+K	0	trijntjes	
+K	0	truidrager	
+K	0	uitbroeien	
+K	0	uitgetogen	
+K	0	uitliteren	
+K	0	uitzijgen	
+K	0	usantiën	
+K	0	ut	't
+K	0	uwentwille	
+K	0	vents	
+K	0	verassen	verrassen
+K	0	verassing	verrassing
+K	0	verg.	
+K	0	verlieft	
+K	0	vermijdelijke	
+K	0	verrel	
+K	0	verwegen	
+K	0	verwelf	
+K	0	verwilligen	Verwilligen
+K	0	vestigingsstad	vestingstad
+K	0	vijfliter	
+K	0	vim	Vim
+K	0	vodde	
+K	0	voeteren	
+K	0	voois	melodie;zangstem;Voois
+K	0	voordewind	
+K	0	vrijlot	
+K	0	vrijman	Vrijman
+K	0	wamen	
+K	0	wanner	wanneer
+K	0	waterberg	Waterberg
+K	0	wederopzeggens	
+K	0	wedervinden	
+K	0	weit	wijt
+K	0	welbewerkt	
+K	0	wereldlanden	derdewereldlanden
+K	0	wordprocessor	tekstverwerker
+K	0	wort	wordt
+K	0	zeeland	Zeeland
+K	0	zeezot	zeezout
+K	0	zijl	zeil
+K	0	zijnentwil	
+K	0	zijnentwille	
+K	0	zoopje	
+K	0	zoor	
+K	0	zwartdag	
+K	1	altoosdurend	
+K	2	gebeid	gebied
+K	2	wede	
+K	2	zaan	Zaan
+K	3	wui	
+X	0	anemieke	Annemieke;Anemieke
+X	0	één-op-één	een-op-een
+X	0	konijnenburg	Konijnenburg
+X	0	lidteken	litteken
+X	0	lidtekens	littekens
+X	0	murks	Murks
+X	0	nie	niet
+X	0	peterman	pieterman;Peterman
+X	0	pors	Pors
+X	0	roodbeen	Roodbeen
+X	0	roodbol	Roodbol
+X	0	vierliter	vierlitermotor
+X	3	heila	Heila
+X	3	momt	komt

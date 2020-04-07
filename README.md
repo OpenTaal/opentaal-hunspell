@@ -1,3 +1,68 @@
+_for English, please see below_
+
+
+# Nederlandse spellingcontrole
+
+Dit is de Nederlandse spellingcontrole van
+[Stichting OpenTaal](https://www.opentaal.org). Mits aan volledige
+bronvermelding wordt gedaan en de licenties worden gerespecteerd, is deze lijst
+vrij te gebruiken. De exacte voorwaarden zijn te vinden in het bestand
+[LICENSE](LICENSE). Lees deze goed door.
+
+![logo Stichting OpenTaal](images/logo-shape-white-640x360.png?raw=true)
+
+Deze spellingcontrole is samengesteld door ontelbare individuele bijdragen,
+specifieke delen uit bronnen zonder auteursrecht en intensieve eindredactie. De
+spellingcontrole heeft van de [Taalunie](http://taalunie.org) het
+[Keurmerk Spelling](http://taalunieversum.org/inhoud/spelling-meer-hulpmiddelen/keurmerk)
+gekregen. Dit betekent dat de woorden in deze lijst voldoen aan de officiële
+spelling.
+
+![logo Keurmerk Spelling](images/keurmerk.png?raw=true)
+
+Het Keurmerk Spelling voor deze spellingcontrole is van medio 2017, 2018. Sinds
+eind 2018 wordt dit keurmerk niet meer uitgegeven en zal bij volgende versies
+van deze spellingcontrole niet meer van toepassing zijn.
+
+
+## Inhoud
+
+TODO
+
+
+# Dutch spell checker
+
+This is the Dutch spell checker by [Stichting OpenTaal](https://www.opentaal.org).
+As long as full attribution is provided and the licenses are being respected,
+this spell checker can be used freely. The exact conditions can be found in the
+file [LICENSE.txt](LICENSE.txt). Please, read these carefully.
+
+![logo Stichting OpenTaal](images/logo-shape-white-640x360.png?raw=true)
+
+This spell checker has been compiled from countless individual contributions,
+specific parts from sources without copyright and intense final editing. This
+spell checker has received from the Dutch Language Union
+([Taalunie](http://taalunie.org)) the Quality Mark Spelling
+([Keurmerk Spelling](http://taalunieversum.org/inhoud/spelling-meer-hulpmiddelen/keurmerk)).
+This means that the words in this spell checker are according to the official spelling.
+
+![logo Keurmerk Spelling](images/keurmerk.png?raw=true)
+
+The Quality Mark Spelling for this spell checker has been given in 2017/2018.
+This quality mark has stopped since the end of 2018 and will not apply to future
+releases of this spell checker.
+
+
+## Contents
+
+_Please, see the relevant section in Dutch_
+
+
+
+
+
+**Ignore rest of this file!!**
+
 # hunspell-nl
 
 Dutch language support for Hunspell
