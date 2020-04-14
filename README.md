@@ -15,8 +15,8 @@ Deze spellingcontrole is samengesteld door ontelbare individuele bijdragen,
 specifieke delen uit bronnen zonder auteursrecht en intensieve eindredactie. De
 spellingcontrole heeft van de [Taalunie](http://taalunie.org) het
 [Keurmerk Spelling](http://taalunieversum.org/inhoud/spelling-meer-hulpmiddelen/keurmerk)
-gekregen. Dit betekent dat de woorden in deze lijst voldoen aan de officiële
-spelling.
+gekregen. Dit betekent dat de woorden in deze spellingcontrole voldoen aan de
+officiële spelling.
 
 ![logo Keurmerk Spelling](images/keurmerk.png?raw=true)
 
