@@ -30,6 +30,30 @@ van deze spellingcontrole niet meer van toepassing zijn.
 TODO
 
 
+## Scripts en directories
+
+In de directorie `scripts` zijn een aantal scripts te vinden voor het
+analyseren en ontwikkelen van een nieuwe spellingcontrole. Deze scripts moeten
+vanuit die directorie worden gerunt.
+
+Het script `1-download.sh` haalt de laatste exports van de database op en slaat
+die op in de directorie `downloads`. Daar komen ook de spellingcontrole en de
+woordenlijst van versie 2.1 te staan.
+
+In de directorie `parts` staan de bestanden die samen met inhoud van de
+bestanden in de directorie `input` staan door het script `2-combine.sh` worden
+gecombineerd tot de bestanden `nl.dic` en `nl.aff` die in de hoogste directorie.
+Dat is de versie 2.2.
+
+Een vergelijking kan gemaakt worden met het script `3-compare.sh`, die output
+daarvan wordt opgeslagen in de directory `comparison`. Om makkelijk de
+verschillen te bekijken worden beide versies eerst van commentaar en witruimte
+gestript.
+
+
+TODO
+
+
 # Dutch spell checker
 
 This is the Dutch spell checker by [Stichting OpenTaal](https://www.opentaal.org).

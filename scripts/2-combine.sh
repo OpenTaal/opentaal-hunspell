@@ -1,23 +1,20 @@
-exit
+cd ../downloads
 SAVEIFS=$IFS
 IFS=$(echo -en "\n\b")
 
-cd ../download
+# affix file
+cp -f ../parts/header.aff ../nl.aff
 
-# afix file
-cp -f ../2.2/nl_head.aff ../2.2/nl.aff
-
-echo >> ../2.2/nl.aff
-echo '# replacements for improving suggestions' >> ../2.2/nl.aff
-echo REP `cat rep.tsv | wc -l` >> ../2.2/nl.aff
-awk -F '\t' '{print "REP "$1" "$2"\t# "$3}' rep.tsv | sed -e 's/\t# $//g' >> ../2.2/nl.aff
+echo >> ..nl.aff
+echo '# replacements for improving suggestions' >> ../nl.aff
+echo REP $(cat replacements.tsv | wc -l) >> ../nl.aff
+awk -F '\t' '{print "REP "$1" "$2"\t# "$3}' replacements.tsv | sed -e 's/\t# $//g' >> ../2.2/nl.aff
 
 # dictionary file
-rm -f ../2.2/nl.dic
-for i in `cat woorden-met-klemtoonteken.txt`; do
-	echo $i/NS >> ../2.2/nl.dic
+rm -f ../nl.dic
+for i in $(cat stress.tsv|awk -F '\t' '{print $2}'); do
+	echo $i/NS >> ../nl.dic
 done
 
-cd ../tools
-
 IFS=$SAVEIFS
+cd ../scripts
