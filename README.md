@@ -50,6 +50,8 @@ daarvan wordt opgeslagen in de directory `comparison`. Om makkelijk de
 verschillen te bekijken worden beide versies eerst van commentaar en witruimte
 gestript.
 
+    sudo apt-get install npm
+    sudo npm install -g diff2html-cli
 
 TODO
 

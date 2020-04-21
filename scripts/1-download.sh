@@ -1,4 +1,8 @@
-cd ../downloads
+cd ..
+if [ ! -e downloads ]; then
+	mkdir downloads
+fi
+cd downloads
 rm -rf *.txt *.tsv *.deb usr var nl.aff nl.dic dutch
 
 # files new version

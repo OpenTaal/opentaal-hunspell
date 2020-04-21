@@ -11,6 +11,36 @@ TRY -ernitsaoldgkupmchbvjwfzyx'’ëqïéèö.êü12635407çà8û9îñäôERNITS
 # keyboard layouts for NL and BE for suggestions
 KEY qwertyuiop|asdfghjkl|zxcvbnm|qawsedrftgyhujikolp|azsxdcfvgbhnjmk|aze|qsd|lm|wx|aqz|qws|1234567890
 
+#
+WORDCHARS '’0123456789ĳĲ.-\/
+# . is only useful as wordchar from the command line
+# \/ should make the / acceptable as part of word (km/h)
+# the way applications offer words to the Hunspell interface apperently differs,
+# causing problems with abbreviations and end-of-sentence words.
+# Issue has been communicated with Hunspell's author.
+
+# do not offer split words (to prevent English desease, splitting up words)
+NOSPLITSUGS
+
+# maximum number of compound suggestions
+# limit to 1 to prevent nonsense suggestions
+MAXCPDSUGS 1
+
+# max difference to be applied for all words (compounds and n-gram suggestions)
+ONLYMAXDIFF 
+
+# max difference in chars for ngram suggestions
+# 3 limits wild suggestions a lot, but also drops suggestions for words with multiple errors
+MAXDIFF 3
+
+# avoid wrong spelling of letterwords in full uppercase (DVD should be dvd)
+KEEPCASE Kc
+
+# set the flag for warning with confusing words (kunne)
+WARN Wn
+
+# force uppercase for some word ends
+FORCEUCASE Fu
 
 # allow - as part of a word, disable default values - and -- (n-dash)
 BREAK 0
@@ -34,14 +64,6 @@ MAP uüúùûUÜÚÙÛ	#TODO optimize characters and order
 MAP cçCÇ	#TODO optimize characters and order https://nl.wikipedia.org/wiki/Cedille
 MAP nñNÑ	#TODO optimize characters and order https://nl.wikipedia.org/wiki/Tilde
 #https://nl.wikipedia.org/wiki/Ha%C4%8Dek ?
-
-#
-WORDCHARS '’0123456789ĳĲ.-\/
-# . is only useful as wordchar from the command line
-# \/ should make the / acceptable as part of word (km/h)
-# the way applications offer words to the Hunspell interface apperently differs,
-# causing problems with abbreviations and end-of-sentence words.
-# Issue has been communicated with Hunspell's author.
 
 # convert unneeded double emphasis, apostrophe to quote and ij to one character
 ICONV 16

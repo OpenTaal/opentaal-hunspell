@@ -1,12 +1,20 @@
-exit
+set -e
 cd ..
-for i in ?.?; do
-	echo $i
-	cd $i
-	grep -v ^# nl.aff | sed -e 's/\s#.*//g' | sed -e '/^\s*$/d' > nl_stripped.aff
-	cd ..
-done
-if [ -n `which diff2html` ]; then
-	diff -ub 2.1/nl_stripped.aff 2.2/nl_stripped.aff | diff2html -s side --sc enabled -i stdin -F differences_2.1_2.2.html &
-fi
-diff -b 2.1/nl_stripped.aff 2.2/nl_stripped.aff | more
+
+grep -v ^# nl.aff | sed -e 's/\s#.*//g' | sed -e '/^\s*$/d' > comparison/new.aff
+grep -v ^# downloads/nl.aff | sed -e 's/\s#.*//g' | sed -e '/^\s*$/d' > comparison/prv.aff
+
+# omit first line with total number of words
+tail -n +2 nl.dic | sort > comparison/new.dic
+tail -n +2 downloads/nl.dic | sort > comparison/prv.dic
+
+cd comparison
+diff -ub prv.aff new.aff > aff_prv_new.diff
+# next lines open a web browser!
+diff2html -s side -F aff_prv_new.html -i file -- aff_prv_new.diff &
+
+#TODO only later with less differences, too heavy now
+#diff -ub prv.dic new.dic > dic_prv_new.diff
+#diff2html -s side -F dic_prv_new.html -i file -- dic_prv_new.diff &
+
+cd ../scripts
