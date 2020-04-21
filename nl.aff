@@ -11,6 +11,36 @@ TRY -ernitsaoldgkupmchbvjwfzyx'’ëqïéèö.êü12635407çà8û9îñäôERNITS
 # keyboard layouts for NL and BE for suggestions
 KEY qwertyuiop|asdfghjkl|zxcvbnm|qawsedrftgyhujikolp|azsxdcfvgbhnjmk|aze|qsd|lm|wx|aqz|qws|1234567890
 
+#
+WORDCHARS '’0123456789ĳĲ.-\/
+# . is only useful as wordchar from the command line
+# \/ should make the / acceptable as part of word (km/h)
+# the way applications offer words to the Hunspell interface apperently differs,
+# causing problems with abbreviations and end-of-sentence words.
+# Issue has been communicated with Hunspell's author.
+
+# do not offer split words (to prevent English desease, splitting up words)
+NOSPLITSUGS
+
+# maximum number of compound suggestions
+# limit to 1 to prevent nonsense suggestions
+MAXCPDSUGS 1
+
+# max difference to be applied for all words (compounds and n-gram suggestions)
+ONLYMAXDIFF 
+
+# max difference in chars for ngram suggestions
+# 3 limits wild suggestions a lot, but also drops suggestions for words with multiple errors
+MAXDIFF 3
+
+# avoid wrong spelling of letterwords in full uppercase (DVD should be dvd)
+KEEPCASE Kc
+
+# set the flag for warning with confusing words (kunne)
+WARN Wn
+
+# force uppercase for some word ends
+FORCEUCASE Fu
 
 # allow - as part of a word, disable default values - and -- (n-dash)
 BREAK 0
@@ -34,14 +64,6 @@ MAP uüúùûUÜÚÙÛ	#TODO optimize characters and order
 MAP cçCÇ	#TODO optimize characters and order https://nl.wikipedia.org/wiki/Cedille
 MAP nñNÑ	#TODO optimize characters and order https://nl.wikipedia.org/wiki/Tilde
 #https://nl.wikipedia.org/wiki/Ha%C4%8Dek ?
-
-#
-WORDCHARS '’0123456789ĳĲ.-\/
-# . is only useful as wordchar from the command line
-# \/ should make the / acceptable as part of word (km/h)
-# the way applications offer words to the Hunspell interface apperently differs,
-# causing problems with abbreviations and end-of-sentence words.
-# Issue has been communicated with Hunspell's author.
 
 # convert unneeded double emphasis, apostrophe to quote and ij to one character
 ICONV 16
@@ -777,3 +799,137 @@ REP nerinnetje onstertje	# bewonerinnetje=>bewoonstertje
 REP gemeubuleerde gemeubileerde	# suggestie was niet aanwezig
 REP volklied volkslied	# volklied=>volkslied
 REP ^zer$ zeer	# zer=>zeer
+# no minimum chars for compounding (just don't flag the dangerous ones)
+COMPOUNDMIN 0
+
+# COMPOUNDING RULES FOR NUMBERS IN TEXT
+
+#N1 = eenen, tweeën etc
+#N2 = twintig .. negentig
+#N3 = een .. negentien
+COMPOUNDRULE 37
+COMPOUNDRULE (N1)(n2)	  	# eenen+zestig[ste]
+COMPOUNDRULE (Nh)(n3)		# honderden+twee[de]
+COMPOUNDRULE (Nh)(n2)		# honderden+twintig[ste]
+COMPOUNDRULE (Nh)(N1)(n2)	# honderden+eenen+dertig
+COMPOUNDRULE (N4)(NH)		# vijf+honderd 
+COMPOUNDRULE (N4)(Nh)(n3)	# vijf+honderden+een 
+COMPOUNDRULE (N4)(Nh)(n2)	# vijf+honderd+twintig 
+COMPOUNDRULE (N4)(Nh)(N1)(n2)	# vijf+honderd+eenen+zestig
+COMPOUNDRULE (N4)(Nd)		# vijf+duizend
+COMPOUNDRULE (N2)(Nd)		# zestig+duizend[ste]
+COMPOUNDRULE (N1)(N2)(Nh)	# eenen+zestig+honderd
+COMPOUNDRULE (N1)(N2)(Nh)(n3)	
+COMPOUNDRULE (N1)(N2)(Nh)(n2)
+COMPOUNDRULE (N1)(N2)(Nh)(N1)(n2)
+COMPOUNDRULE (N1)(N2)(Nd)
+COMPOUNDRULE (NH)(Nd)
+COMPOUNDRULE (NH)(N3)(Nd)
+COMPOUNDRULE (NH)(N2)(Nd)
+COMPOUNDRULE (N1)(N2)(Nh)(N3)(Nd)
+COMPOUNDRULE (N1)(N2)(Nh)(N2)(Nd)
+COMPOUNDRULE (N1)(N2)(Nh)(N1)(N2)(Nd)
+COMPOUNDRULE (NH)(N1)(N2)(Nd)
+COMPOUNDRULE (N4)(NH)(Nd)
+COMPOUNDRULE (N4)(Nh)(N3)(Nd)
+COMPOUNDRULE (N4)(Nh)(N2)(Nd)
+COMPOUNDRULE (N4)(Nh)(N1)(N2)(Nd)
+COMPOUNDRULE (N1)(N2)(NH)(Nd)	# eenentwintighonderdduizend
+COMPOUNDRULE (N1)(N2)(Nj)   	# eenen+zestig+jarig
+COMPOUNDRULE (N3)(Nj)   	# acht+jarig
+COMPOUNDRULE (N2)(Nj)   	# twintig+jarig
+COMPOUNDRULE (N1)(N2)(Nj) 	# eenen+zestig+jarig
+COMPOUNDRULE (G1)(G0)(NJ)  	# 12-jarig~
+COMPOUNDRULE (G1)(G0)(G0)(NJ)  	# 102-jarig~
+COMPOUNDRULE (G1)(NJ)  		# 8-jarig~
+COMPOUNDRULE (Sv)(Sn)		# -straat, -plein etc.
+COMPOUNDRULE (Ll)(Hp)(Lr)	# Nederlands-Ghanese
+COMPOUNDRULE (Ll)(Hp)(Ll)(Le)	# Nederlands-Duits+e
+
+
+# don't compound on case-different word borders
+CHECKCOMPOUNDCASE
+
+# general compounding
+COMPOUNDBEGIN Ca
+COMPOUNDMIDDLE Cb
+COMPOUNDEND Cc
+COMPOUNDPERMITFLAG Cp
+ONLYINCOMPOUND Cx
+
+# the following part might actually evolve to collision flags
+# CHECKCOMPOUNDPATTERN /C1 /C2
+# but this does not function yet with this kind of compounding
+
+# /C1 = needs hyphen after a / klinkerbotsing met a
+# /C2 = needs hyphen after e / klinkerbotsing met e
+# /C3 = needs hyphen after i / klinkerbotsing met i
+# /C4 = needs hyphen after o / klinkerbotsing met o
+# /C5 = needs hyphen after u / klinkerbotsing met u
+
+# FIRST CHAR OF WORD PARTS AND CORRESPONDING FLAGS
+# a => /C1
+# e => /C1C2C3C4
+# i => /C1C2C3C4C5
+# o => /C4
+# u => /C1C2C3C4C5
+# j => /C3
+
+# pattern checks
+CHECKCOMPOUNDDUP
+# checkcompoundrep does not work as desired.
+#CHECKCOMPOUNDREP
+
+# preventing unwanted compounds
+# not all chars of colliding parts can be used !
+CHECKCOMPOUNDPATTERN 50
+CHECKCOMPOUNDPATTERN /Ch /Xc		# prevent training+s+port
+CHECKCOMPOUNDPATTERN /Cd /Xc
+CHECKCOMPOUNDPATTERN a /C1		# klinkerbotsingen
+CHECKCOMPOUNDPATTERN e /C2
+CHECKCOMPOUNDPATTERN é /C2
+CHECKCOMPOUNDPATTERN i /C3
+CHECKCOMPOUNDPATTERN o /C4
+CHECKCOMPOUNDPATTERN u /C5
+CHECKCOMPOUNDPATTERN /Xf /Xf		# moeder-dochter etc
+CHECKCOMPOUNDPATTERN oon zor          	# woon-zorgflat 
+CHECKCOMPOUNDPATTERN armte krach	# warmte-krachtcentrale
+CHECKCOMPOUNDPATTERN aag dar		# maag-darmandoening
+CHECKCOMPOUNDPATTERN aagd ar          	# maag-darmandoening
+CHECKCOMPOUNDPATTERN hart long          # hart-longmachine
+CHECKCOMPOUNDPATTERN woon werk          # woon-werkverkeer
+CHECKCOMPOUNDPATTERN man vrouw		# man-vrouwverhouding
+CHECKCOMPOUNDPATTERN oofd hal		# hoofd hals
+CHECKCOMPOUNDPATTERN rts patiën		# arts-patiënt
+CHECKCOMPOUNDPATTERN aten koste		# baten-kosten
+CHECKCOMPOUNDPATTERN eroepskracht kin	# beroepskracht kind
+CHECKCOMPOUNDPATTERN oel midde		# doel middel
+CHECKCOMPOUNDPATTERN osis effec		# dosis effect
+CHECKCOMPOUNDPATTERN aat liefd		# haat liefde
+CHECKCOMPOUNDPATTERN uur verhuu		# huur verhuur
+CHECKCOMPOUNDPATTERN lant leverancie	# klant leverancier
+CHECKCOMPOUNDPATTERN waliteit prĳ	# kwaliteit prĳs
+CHECKCOMPOUNDPATTERN rĳs kwalitei	# prĳs kwaliteit
+CHECKCOMPOUNDPATTERN eidster kin	# leidster kind
+CHECKCOMPOUNDPATTERN isico rendemen	# risico rendement
+CHECKCOMPOUNDPATTERN ignaal rui		# signaal ruis
+CHECKCOMPOUNDPATTERN tudent docen	# student docent
+CHECKCOMPOUNDPATTERN tudent sta		# student staf
+CHECKCOMPOUNDPATTERN tudent compute	# student computer
+CHECKCOMPOUNDPATTERN raag aanbo		# vraag aanbod
+CHECKCOMPOUNDPATTERN erkgever werkneme	# werkgever werknemer
+CHECKCOMPOUNDPATTERN achelor maste	# bachelor master
+CHECKCOMPOUNDPATTERN k ker              # voorkomt bakkeren en zo
+CHECKCOMPOUNDPATTERN en loo             # voorkomt wolken+loos(t) en zo
+CHECKCOMPOUNDPATTERN en loze            # voorkomt wolken+loze(r) en zo
+CHECKCOMPOUNDPATTERN ios ko            	# voorkomt bios+koop
+CHECKCOMPOUNDPATTERN e ring             # voorkomt subsidie+ring
+CHECKCOMPOUNDPATTERN urger meeste	# burgemeester
+CHECKCOMPOUNDPATTERN uis vestin		# voorkomt huis+vesting+ waar het huisvesting+s+ moet zijn
+CHECKCOMPOUNDPATTERN linden dar		# voorkomt blindendarm
+CHECKCOMPOUNDPATTERN r ring		# voorkomt erring
+CHECKCOMPOUNDPATTERN p pĳn        # voorkomt step+pijn
+CHECKCOMPOUNDPATTERN m mĳn
+CHECKCOMPOUNDPATTERN l lĳn
+CHECKCOMPOUNDPATTERN p peen
+CHECKCOMPOUNDPATTERN p poen

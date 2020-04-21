@@ -1,1 +1,4 @@
+/downloads/*.deb
+/downloads/usr
+/downloads/var
 /comparisons

@@ -1,14 +1,18 @@
 set -e
 cd ..
 
-grep -v ^# nl.aff | sed -e 's/\s#.*//g' | sed -e '/^\s*$/d' > comparison/new.aff
-grep -v ^# downloads/nl.aff | sed -e 's/\s#.*//g' | sed -e '/^\s*$/d' > comparison/prv.aff
+if [ ! -e comparisons ]; then
+	mkdir comparisons
+fi
+
+grep -v ^# nl.aff | sed -e 's/\s#.*//g' | sed -e '/^\s*$/d' > comparisons/new.aff
+grep -v ^# downloads/nl.aff | sed -e 's/\s#.*//g' | sed -e '/^\s*$/d' > comparisons/prv.aff
 
 # omit first line with total number of words
-tail -n +2 nl.dic | sort > comparison/new.dic
-tail -n +2 downloads/nl.dic | sort > comparison/prv.dic
+tail -n +2 nl.dic | sort > comparisons/new.dic
+tail -n +2 downloads/nl.dic | sort > comparisons/prv.dic
 
-cd comparison
+cd comparisons
 diff -ub prv.aff new.aff > aff_prv_new.diff
 # next lines open a web browser!
 diff2html -s side -F aff_prv_new.html -i file -- aff_prv_new.diff &
