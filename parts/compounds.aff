@@ -1,50 +1,85 @@
-# no minimum chars for compounding (just don't flag the dangerous ones)
+# no minimum chars for compounding (don't flag the dangerous ones TODO?), this allows compounding of digits
 COMPOUNDMIN 0
 
-# COMPOUNDING RULES FOR NUMBERS IN TEXT
-
-#N1 = eenen, tweeën etc
-#N2 = twintig .. negentig
-#N3 = een .. negentien
-COMPOUNDRULE 37
-COMPOUNDRULE (N1)(n2)	  	# eenen+zestig[ste]
-COMPOUNDRULE (Nh)(n3)		# honderden+twee[de]
-COMPOUNDRULE (Nh)(n2)		# honderden+twintig[ste]
-COMPOUNDRULE (Nh)(N1)(n2)	# honderden+eenen+dertig
-COMPOUNDRULE (N4)(NH)		# vijf+honderd 
-COMPOUNDRULE (N4)(Nh)(n3)	# vijf+honderden+een 
-COMPOUNDRULE (N4)(Nh)(n2)	# vijf+honderd+twintig 
-COMPOUNDRULE (N4)(Nh)(N1)(n2)	# vijf+honderd+eenen+zestig
-COMPOUNDRULE (N4)(Nd)		# vijf+duizend
-COMPOUNDRULE (N2)(Nd)		# zestig+duizend[ste]
-COMPOUNDRULE (N1)(N2)(Nh)	# eenen+zestig+honderd
-COMPOUNDRULE (N1)(N2)(Nh)(n3)	
-COMPOUNDRULE (N1)(N2)(Nh)(n2)
-COMPOUNDRULE (N1)(N2)(Nh)(N1)(n2)
-COMPOUNDRULE (N1)(N2)(Nd)
-COMPOUNDRULE (NH)(Nd)
-COMPOUNDRULE (NH)(N3)(Nd)
-COMPOUNDRULE (NH)(N2)(Nd)
-COMPOUNDRULE (N1)(N2)(Nh)(N3)(Nd)
-COMPOUNDRULE (N1)(N2)(Nh)(N2)(Nd)
-COMPOUNDRULE (N1)(N2)(Nh)(N1)(N2)(Nd)
-COMPOUNDRULE (NH)(N1)(N2)(Nd)
-COMPOUNDRULE (N4)(NH)(Nd)
-COMPOUNDRULE (N4)(Nh)(N3)(Nd)
-COMPOUNDRULE (N4)(Nh)(N2)(Nd)
-COMPOUNDRULE (N4)(Nh)(N1)(N2)(Nd)
-COMPOUNDRULE (N1)(N2)(NH)(Nd)	# eenentwintighonderdduizend
-COMPOUNDRULE (N1)(N2)(Nj)   	# eenen+zestig+jarig
-COMPOUNDRULE (N3)(Nj)   	# acht+jarig
-COMPOUNDRULE (N2)(Nj)   	# twintig+jarig
-COMPOUNDRULE (N1)(N2)(Nj) 	# eenen+zestig+jarig
-COMPOUNDRULE (G1)(G0)(NJ)  	# 12-jarig~
-COMPOUNDRULE (G1)(G0)(G0)(NJ)  	# 102-jarig~
-COMPOUNDRULE (G1)(NJ)  		# 8-jarig~
+# TODO check of all of the old rules, so support disappears!
+COMPOUNDRULE 48
+# 40 COMPOUNDING RULES FOR NUMBERS IN TEXT
+# Nt = tens
+# Nh = hundred
+# Nd = thousand
+# Nn = digits+en (eenen, tweeën)
+# Ng = 1 - 19
+# Na = 1- 9, 11-19
+# N* = any digit
+# N1 = 1 [ ?1? => -de]
+# N2 = 2 .. 9
+# N0 = 0
+COMPOUNDRULE (Nn)(NT)							# eenen twintig[ste]
+COMPOUNDRULE (Nh)(NG)							# honderd vijftien[de]
+COMPOUNDRULE (Nh)(NT)							# honderd twintig[ste]
+COMPOUNDRULE (Nh)(Nn)(NT)						# honderd eenen twintig[ste]
+COMPOUNDRULE (Na)(NH)							# vijf honderd[ste]
+COMPOUNDRULE (Na)(Nh)(NG)						# vijf honderd vijftien[de]
+COMPOUNDRULE (Na)(Nh)(NT)						# vijf honderd twintig[ste]
+COMPOUNDRULE (Na)(Nh)(Nn)(NT)					# vijf honderd eenen twintig[ste]
+COMPOUNDRULE (Nn)(Nt)(NH)						# eenen twintig honderd[ste]
+COMPOUNDRULE (Nn)(Nt)(Nh)(NG)					# eenen twintig honderd vijftien[de]
+COMPOUNDRULE (Nn)(Nt)(Nh)(NT)					# eenen twintig honderd twintig[ste]
+COMPOUNDRULE (Nn)(Nt)(Nh)(Nn)(NT)			# eenen twintig honderd eenen twintig[ste]
+COMPOUNDRULE (Ng)(Nd)							# tien duizend[ste]
+COMPOUNDRULE (Nt)(Nd)							# twintig duizend[ste]
+COMPOUNDRULE (Nn)(Nt)(Nd)						# eenen twintig duizend[ste]
+COMPOUNDRULE (Nh)(Ng)(Nd)						# honderd tien duizend[ste]
+COMPOUNDRULE (Nh)(Nt)(Nd)						# honderd twintig duizend[ste]
+COMPOUNDRULE (Nh)(Nn)(Nt)(Nd)					# honderd eenen twintig duizend[ste]
+COMPOUNDRULE (Na)(Nh)(Ng)(Nd)					# vijf honderd tien duizend[ste]
+COMPOUNDRULE (Na)(Nh)(Ng)(Nd)(NG)			# vijf honderd tien duizend vijftien[de]
+COMPOUNDRULE (Na)(Nh)(Ng)(Nd)(NT)			# vijf honderd tien duizend twintig[ste]
+COMPOUNDRULE (Na)(Nh)(Ng)(Nd)(Nn)(NT)		# vijf honderd tien duizend eenen twintig[ste[
+COMPOUNDRULE (Na)(Nh)(Nt)(Nd)					# vijf honderd twintig duizend[ste]
+COMPOUNDRULE (Na)(Nh)(Nt)(Nd)(NG)			# vijf honderd twintig duizend vijftien[de]
+COMPOUNDRULE (Na)(Nh)(Nt)(Nd)(NT)			# vijf honderd twintig duizend twintig[ste]
+COMPOUNDRULE (Na)(Nh)(Nt)(Nd)(Nn)(NT)		# vijf honderd twintig duizend eenen twintig[ste]
+COMPOUNDRULE (Na)(Nh)(Nn)(Nt)(Nd)			# vijf honderd eenen twintig duizend[ste]
+COMPOUNDRULE (Nn)(Nt)(Nh)(Ng)(Nd)			# eenen twintig honderd tien duizend[ste]
+COMPOUNDRULE (Nn)(Nt)(Nh)(Nt)(Nd)			# eenen twintig honderd twintig duizend[ste]
+COMPOUNDRULE (Nn)(Nt)(Nh)(Nn)(Nt)(Nd)		# eenen twintig honderd eenen twintig duizend[ste]
+COMPOUNDRULE (Ng)(Nj)							# twaalf jarig[e]
+COMPOUNDRULE (Nt)(Nj)							# twintig jarig[e]
+COMPOUNDRULE (Nn)(Nt)(Nj)						# eenen twintig jarig[e]
+COMPOUNDRULE (Nh)(Ng)(Nj)						# honderd vijftien jarig[e]
+COMPOUNDRULE (N*)*(NJ)							# 112-jarig
+COMPOUNDRULE (N*)*(N1)(N*)(Ld)				# ..315 de
+COMPOUNDRULE (N*)*(N2)(N*)(Ls)				# ..321 ste
+COMPOUNDRULE (N*)*(N0)(N0)(Ls)				# ..300 ste
+COMPOUNDRULE (N*)*(N0)(N1)(Ls)				# ..301 ste
+COMPOUNDRULE (N*)*(N0)(N2)(Ld)				# ..302 de
+# 15 COMPOUNDING RULES FOR ROMAN NUMBERS IN TEXT
+# Re = I .. IX
+# Rt = tens: X, XX, XXX, XL, L, LX, LXX, LXXX, XC 
+# Rc = C, CC, CCC, CD , D, DC, DCC, DCCC, CM
+# Rm = M, MM (because of use in dates, no bigger ones needed.
+# re etc stand for same, but full lowercase
+# to function as intended, this needs the KEEPCASE Kc lcause
+COMPOUNDRULE (Rt)(Re)
+COMPOUNDRULE (Rc)(Re)
+COMPOUNDRULE (Rc)(Rt)
+COMPOUNDRULE (Rc)(Rt)(Re)
+COMPOUNDRULE (Rm)(Re)
+COMPOUNDRULE (Rm)(Rt)
+COMPOUNDRULE (Rm)(Rt)(Re)
+COMPOUNDRULE (Rm)(Rc)
+COMPOUNDRULE (Rm)(Rc)(Re)
+COMPOUNDRULE (Rm)(Rc)(Rt)
+COMPOUNDRULE (Rm)(Rc)(Rt)(Re)
+COMPOUNDRULE (rt)(re)
+COMPOUNDRULE (rc)(re)
+COMPOUNDRULE (rc)(rt)
+COMPOUNDRULE (rc)(rt)(re)
+# 3 COMPOOUNDING RULES FOR NON-NUMBERS
 COMPOUNDRULE (Sv)(Sn)		# -straat, -plein etc.
 COMPOUNDRULE (Ll)(Hp)(Lr)	# Nederlands-Ghanese
 COMPOUNDRULE (Ll)(Hp)(Ll)(Le)	# Nederlands-Duits+e
-
 
 # don't compound on case-different word borders
 CHECKCOMPOUNDCASE
@@ -132,3 +167,45 @@ CHECKCOMPOUNDPATTERN m mĳn
 CHECKCOMPOUNDPATTERN l lĳn
 CHECKCOMPOUNDPATTERN p peen
 CHECKCOMPOUNDPATTERN p poen
+
+# FLAG FOR FIRST WORDS THAT CAN BE FIRST PART OF COMPOUND AND HAVE AN S WHEN COMPOUNDED
+# (unfortunately, I haven't found a method to suppress the affix s at the compound end
+#  also, there is no method as far as I know to make affixes specific for a compound flag)
+
+# accept an optional  - when compounding, first part
+# the second line allows for the optional hyphen
+SFX CA Y 2
+SFX CA 0 /CaCp	
+SFX CA 0 -/CaCp	
+
+# accept an optional - when compounding, middle part
+# the second line allows for the optional hyphen
+SFX CB Y 2
+SFX CB 0 /CbCp	
+SFX CB 0 -/CbCp	
+
+# for words that have a plural s and an s when compounding
+# the second one allows for the optional hyphen
+SFX Cd Y 2
+SFX Cd 0 s/CaCbCcCp .  
+SFX Cd 0 s-/CaCbCcCp . 
+
+# for reasons of good results, parts that could have a compounding s
+# but no plural s
+# have to have separate (!) entries in the dictionary
+# using the Ch flag 
+SFX Ch Y 2
+SFX Ch 0 s/CaCbCxCp .	
+SFX Ch 0 s-/CaCbCcCp .	
+
+# FLAG FOR WORDS THAT CAN BE FIRST PART AND COULD HAVE A HYPHEN BECAUSE OF SONANT COLLISIONS (END WITH A, E, I, O, U)
+SFX Ce Y 2
+SFX Ce 0 /CaCbCp .	
+SFX Ce 0 -/CaCbCcCp .	
+
+# FLAGS FOR LETTERWORDS AND WORD THAT NEED A HYPHEN WHEN COMPOUNDING
+SFX Cl Y 1
+SFX Cl 0 -/CaCbCp .
+
+PFX Cw Y 1
+PFX Cw 0 -/CbCcCp .

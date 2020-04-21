@@ -1,6 +1,12 @@
 # (c) 2006-2018, Stichting OpenTaal
 # version 2.2
 # date 2018-11-06
+# Hunspell affix file
+# (c) 2006-2011 OpenTaal
+# Coded by R. Baars
+# based on version version 2.10G by www.opentaal.org dated 2011-09-23
+# (c) 2017 R. Baars
+# largely adapted by R. Baars
 
 # character encoding of affix and dictionary files
 SET UTF-8
@@ -18,6 +24,7 @@ WORDCHARS '’0123456789ĳĲ.-\/
 # the way applications offer words to the Hunspell interface apperently differs,
 # causing problems with abbreviations and end-of-sentence words.
 # Issue has been communicated with Hunspell's author.
+# Nuspell uses a different way to break up text from the command line and this is ignored there
 
 # do not offer split words (to prevent English desease, splitting up words)
 NOSPLITSUGS
@@ -42,7 +49,7 @@ WARN Wn
 # force uppercase for some word ends
 FORCEUCASE Fu
 
-# allow - as part of a word, disable default values - and -- (n-dash)
+# allow - as part of a (compound) word, disable default values - and -- (n-dash)
 BREAK 0
 
 # use two characters as flags, mostly an upper followed by lower case character
@@ -88,5 +95,3 @@ ICONV IJ Ĳ
 OCONV 2
 OCONV ĳ ij
 OCONV Ĳ IJ
-
-#TODO script maken die tabel maakt met tellingen en popup met voorbeelden.

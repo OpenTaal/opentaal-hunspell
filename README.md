@@ -56,6 +56,15 @@ gestript.
 TODO
 
 
+
+Romeinse cijfers zitten in de collectie maar zijn aangemerkt met uitsluiten van
+spellingcontrole omdat het affix bestand deze direct ondersteunt.
+
+TODO Ook Romeinse cijfers in kleine letters aan collectie toevoegen?
+
+
+TODO
+
 # Dutch spell checker
 
 This is the Dutch spell checker by [Stichting OpenTaal](https://www.opentaal.org).

@@ -3,7 +3,7 @@ if [ ! -e downloads ]; then
 	mkdir downloads
 fi
 cd downloads
-rm -rf *.txt *.tsv *.deb usr var nl.aff nl.dic dutch
+rm -rf *
 
 # files new version
 scp zaph:database-tools/release-hunspell/* .
@@ -15,6 +15,7 @@ apt-get download hunspell-nl wdutch
 for i in *.deb; do
 	dpkg -x $i .
 done
-cp -f  usr/share/hunspell/nl.* usr/share/dict/dutch .
+cp -af  usr/share/hunspell/nl.* usr/share/dict/dutch .
+rm -rf *.deb usr var
 
 cd ../scripts
