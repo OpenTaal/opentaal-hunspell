@@ -1,12 +1,9 @@
-# (c) 2006-2018, Stichting OpenTaal
-# version 2.2
-# date 2018-11-06
-# Hunspell affix file
-# (c) 2006-2011 OpenTaal
-# Coded by R. Baars
-# based on version version 2.10G by www.opentaal.org dated 2011-09-23
-# (c) 2017 R. Baars
-# largely adapted by R. Baars
+# Copyright: 2006-2020, Stichting OpenTaal, https://opentaal.org
+# Version: 2.20
+# Date: 2020-04-28
+# Contributors:
+# 2018-2020 Simon Brouwer, Sander van Geloven
+# 2006-2011,2017 Ruud Baars
 
 # character encoding of affix and dictionary files
 SET UTF-8
