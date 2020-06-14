@@ -9,6 +9,7 @@ rm -rf *
 scp zaph:database-tools/release-hunspell/* .
 wget https://raw.githubusercontent.com/OpenTaal/opentaal-wordlist/master/wordlist.txt
 wget https://raw.githubusercontent.com/OpenTaal/opentaal-wordlist/master/corrections.tsv
+wget https://raw.githubusercontent.com/OpenTaal/opentaal-wordlist/master/romeinse-cijfers.txt
 
 # files previous version
 apt-get download hunspell-nl wdutch
