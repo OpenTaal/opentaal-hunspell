@@ -1,6 +1,12 @@
 Status	Temporal	Word	Alternative
+-	0	aanlaten	
+-	0	benthuizen	Benthuizen
+-	0	Drenthen	Drenten
 -	0	franse	Franse
 -	0	handenschudden	handen schudden
+-	0	hergroepeerd	gehergroepeerd
+-	0	hitler	
+-	0	hitlers	
 -	0	IVC	
 -	0	IVCC	
 -	0	IVCCC	
@@ -1001,11 +1007,15 @@ Status	Temporal	Word	Alternative
 -	0	IVXXXVII	
 -	0	IVXXXVIII	
 -	0	kommers	Kommers
+-	0	neerlopen	
 -	0	Nuenen, Gerwen en Nederwetten	
 -	0	onspannend	ontspannend
 -	0	oppermatig	oppermachtig
 -	0	passporten	paspoorten
+-	0	seelachs	koolvis
+-	0	vijfliter	
 -	0	waterkeren	water keren
+-	0	win-win	
 -	2	verbaden	verboden
 -	2	verbad	verfbad;verband
 -	2	verbid	
@@ -1014,7 +1024,6 @@ Status	Temporal	Word	Alternative
 -	3	arre	
 -	3	waardelen	
 B	0	aantelling	aanstelling
-B	0	benthuizen	Benthuizen
 B	0	CD	cd
 B	0	CL	cl
 B	0	CM	cm
@@ -1022,8 +1031,6 @@ B	0	CV	cv
 B	0	daggen	dagen
 B	0	DC	dc
 B	0	deen	Deen
-B	0	docentencorps	docentenkorps
-B	0	Drenthen	Drenten
 B	0	éénduidige	eenduidige
 B	0	éénheid	eenheid
 B	0	éénheidsworst	eenheidsworst
@@ -1042,7 +1049,6 @@ B	0	éénzijdige	eenzijdige
 B	0	éénzijdig	eenzijdig
 B	0	gebeiden	gebieden
 B	0	gijnen	geinen
-B	0	hitler	Hitler
 B	0	hoofddorp	Hoofddorp
 B	0	humanitas	Humanitas
 B	0	ijslander	IJslander
@@ -1052,17 +1058,19 @@ B	0	ML	ml
 B	0	MM	mm
 B	0	muite	muitte
 B	0	oorlogsgravenstichting	Oorlogsgravenstichting
+B	0	P.S. Karsodomedjostraat	
 B	0	safe sex	veilige seks
 B	0	sext	sekst
 B	0	si	is
 B	0	veiligheidsraad	Veiligheidsraad
-B	0	win-win	
 B	0	xerox	Xerox
 B	0	zodiac	zodiak
 B	1	ongelden	ontgelden
 B	3	brodden	broden
 D	0	diene	dienen
 D	0	romeinse	romeinse kaars;Romeinse
+F	0	aangemoeten	
+F	0	aanmoest	
 F	0	aanspring	aansporing
 F	0	afgezand	afgezant
 F	0	afgezande	
@@ -1109,8 +1117,6 @@ F	0	gijns
 F	0	handde	
 F	0	heeften	heeft en
 F	0	hemde	hem de
-F	0	hergroepeerd	gehergroepeerd
-F	0	hitlers	
 F	0	hool	
 F	0	jon	jong
 F	0	jont	joint
@@ -1170,6 +1176,7 @@ K	0	aangetogen
 K	0	aangraven	
 K	0	aankappen	
 K	0	aanlaat	
+K	0	aanmoeten	aan moeten
 K	0	aantellen	
 K	0	aanvaart	aanvaardt
 K	0	aanwezend	
@@ -1262,7 +1269,6 @@ K	0	haf	half
 K	0	handelswijze	handelwijze
 K	0	handelswijzen	handelwijze
 K	0	harentwille	
-K	0	harmelen	
 K	0	harpuizen	
 K	0	hatsiekadee	
 K	0	heef	heeft
@@ -1291,7 +1297,6 @@ K	0	kinematografie
 K	0	klakkebus	
 K	0	kno	kon
 K	0	koeteren	
-K	0	kokschool	koksschool
 K	0	kollenbloem	
 K	0	krates	
 K	0	kussenstoel	
@@ -1307,6 +1312,7 @@ K	0	maagdeken
 K	0	marc	Marc
 K	0	medegaan	
 K	0	medeslepen	
+K	0	meerkeuze	
 K	0	mensenzoon	Mensenzoon
 K	0	mijnentwil	
 K	0	mijnentwille	
@@ -1320,10 +1326,8 @@ K	0	moltonnen
 K	0	moreen	
 K	0	morgengrauwen	
 K	0	motorrennen	
-K	0	mw	
 K	0	nebbe	
 K	0	neb	heb
-K	0	neerlopen	
 K	0	ngo	nog
 K	0	nieuwmelkt	
 K	0	nijper	
@@ -1362,7 +1366,6 @@ K	0	schaard
 K	0	schildwachthuisje	
 K	0	schoenhoorn	
 K	0	schorland	Schotland
-K	0	seelachs	
 K	0	sent	zend
 K	0	sjiek	chic
 K	0	slechtje	
@@ -1403,7 +1406,6 @@ K	0	verwegen
 K	0	verwelf	
 K	0	verwilligen	Verwilligen
 K	0	vestigingsstad	vestingstad
-K	0	vijfliter	
 K	0	vim	Vim
 K	0	vodde	
 K	0	voeteren	
@@ -1435,11 +1437,15 @@ K	2	wede
 K	2	zaan	Zaan
 K	3	wui	
 X	0	anemieke	Annemieke;Anemieke
+X	0	docentencorps	docentenkorps
 X	0	één-op-één	een-op-een
+X	0	harmelen	Harmelen
+X	0	kokschool	koksschool
 X	0	konijnenburg	Konijnenburg
 X	0	lidteken	litteken
 X	0	lidtekens	littekens
 X	0	murks	Murks
+X	0	mw	mw.;mW
 X	0	nie	niet
 X	0	peterman	pieterman;Peterman
 X	0	pors	Pors

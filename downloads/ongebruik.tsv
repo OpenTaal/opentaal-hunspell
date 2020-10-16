@@ -13,9 +13,11 @@ B	1	brodden	broden
 D	0	tijds	de tand des tijds
 F	0	bamboezen	
 F	0	beverse	
+F	0	bosnegergemeenschappen	
 F	0	fotografieën	foto's
 F	0	fotografietjes	fotootjes
 F	0	godspenningen	
+F	0	huisnegers	
 F	0	koelies	loonslaven
 F	0	menistenzusjes	
 F	0	negerinnen	zwarten
@@ -36,15 +38,22 @@ F	0	sult
 F	0	tuitel	Tuitel;wankel
 F	0	wegs	
 F	1	brodde	broden
+H	0	Bosnegers	bosnegers
 K	0	afdolen	
 K	0	barrelen	
 K	0	bijker	Bijker
 K	0	bogerd	Bogerd
+K	0	bosneger	
+K	0	bosnegerdorp	
+K	0	bosnegers	
 K	0	godspenning	
+K	0	huisneger	
 K	0	koelie	loonslaaf
 K	0	koeliewerk	mensonwaardig werk
 K	0	maagdenzwier	
 K	0	negerbevolking	zwarte bevolking
+K	0	negerbloed	
+K	0	negerdans	
 K	0	negerin	zwarte
 K	0	negerjongen	zwarte jongen
 K	0	negerkind	zwart kind
