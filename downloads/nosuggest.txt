@@ -1,0 +1,613 @@
+áls	als
+bén	ben
+bosneger	
+Bosneger	
+bosnegerdorp	
+bosnegergemeenschappen	
+bosnegers	
+Bosnegers	
+bóven	boven
+daarná	daarna
+dán	dan
+dát	dat
+dít	dit
+dús	dus
+élk	elk
+éne	ene
+én	en
+énorm	enorm
+éven	even
+excuusneger	
+excuusnegers	
+hébben	hebben
+héb	heb
+hélemaal	helemaal
+hém	hem
+hén	hen
+hét	het
+huisneger	
+huisnegers	
+hún	hun
+ín	in
+inktkoelie	
+inktkoelies	
+jodenvet	borsthoning
+kán	kan
+kankerjoden	
+kankerjood	
+kankerneger	
+kankernegers	
+koelie	
+koelies	
+koeliewerk	
+kúnnen	kunnen
+mág	mag
+mét	met
+mógen	mogen
+moslimhoer	
+moslimhoeren	
+nádat	nadat
+ná	na
+neger	
+negerbevolking	
+negerbloed	
+negerdans	
+negerdansen	
+negerin	
+negerinnen	
+negerinnetje	
+negerinnetjes	
+negerjongen	
+negerjongens	
+negerkind	
+negerkinderen	
+negermuziek	
+negerras	
+negers	
+negerslaaf	
+negerslaven	
+negerstaat	
+negerstam	
+negerstammen	
+negerstaten	
+negertje	
+negertjes	
+negervraagstuk	
+negerwijk	
+negerwijken	
+negerzaad	
+negerzanger	
+negerzangers	
+negerzoen	
+negerzoenen	
+nérgens	nergens
+nét	net
+níét	niet
+nikker	
+nikkers	
+nikkertje	
+nikkertjes	
+nóg	nog
+nú	nu
+óf	of
+omdát	omdat
+óns	ons
+óp	op
+óver	over
+sámen	samen
+tégen	tegen
+té	te
+tóch	toch
+úw	uw
+vér	ver
+voorkómen	voorkomen
+wás	was
+wát	wat
+wég	weg
+wélke	welke
+wélk	welk
+wél	wel
+wérkelijk	werkelijk
+wéten	weten
+zál	zal
+zéér	zeer
+zéker	zeker
+zélfs	zelfs
+zélf	zelf
+zómaar	zomaar
+zónder	zonder
+zóveel	zoveel
+zóver	zover
+zó	zo
+zúlke	zulke
+áls	als
+bén	ben
+bosneger	
+Bosneger	
+bosnegerdorp	
+bosnegergemeenschappen	
+bosnegers	
+Bosnegers	
+bóven	boven
+daarná	daarna
+dán	dan
+dát	dat
+dít	dit
+dús	dus
+élk	elk
+éne	ene
+én	en
+énorm	enorm
+éven	even
+excuusneger	
+excuusnegers	
+hébben	hebben
+héb	heb
+hélemaal	helemaal
+hém	hem
+hén	hen
+hét	het
+huisneger	
+huisnegers	
+hún	hun
+ín	in
+inktkoelie	
+inktkoelies	
+jodenvet	borsthoning
+kán	kan
+kankerjoden	
+kankerjood	
+kankerneger	
+kankernegers	
+koelie	
+koelies	
+koeliewerk	
+kúnnen	kunnen
+mág	mag
+mét	met
+mógen	mogen
+moslimhoer	
+moslimhoeren	
+nádat	nadat
+ná	na
+neger	
+negerbevolking	
+negerbloed	
+negerdans	
+negerdansen	
+negerin	
+negerinnen	
+negerinnetje	
+negerinnetjes	
+negerjongen	
+negerjongens	
+negerkind	
+negerkinderen	
+negermuziek	
+negerras	
+negers	
+negerslaaf	
+negerslaven	
+negerstaat	
+negerstam	
+negerstammen	
+negerstaten	
+negertje	
+negertjes	
+negervraagstuk	
+negerwijk	
+negerwijken	
+negerzaad	
+negerzanger	
+negerzangers	
+negerzoen	
+negerzoenen	
+nérgens	nergens
+nét	net
+níét	niet
+nikker	
+nikkers	
+nikkertje	
+nikkertjes	
+nóg	nog
+nú	nu
+óf	of
+omdát	omdat
+óns	ons
+óp	op
+óver	over
+sámen	samen
+tégen	tegen
+té	te
+tóch	toch
+úw	uw
+vér	ver
+voorkómen	voorkomen
+wás	was
+wát	wat
+wég	weg
+wélke	welke
+wélk	welk
+wél	wel
+wérkelijk	werkelijk
+wéten	weten
+zál	zal
+zéér	zeer
+zéker	zeker
+zélfs	zelfs
+zélf	zelf
+zómaar	zomaar
+zónder	zonder
+zóveel	zoveel
+zóver	zover
+zó	zo
+zúlke	zulke
+áls	als
+bén	ben
+bosneger	
+Bosneger	
+bosnegerdorp	
+bosnegergemeenschap	
+bosnegergemeenschappen	
+bosnegers	
+Bosnegers	
+bóven	boven
+daarná	daarna
+dán	dan
+dát	dat
+dít	dit
+dús	dus
+élk	elk
+éne	ene
+én	en
+énorm	enorm
+éven	even
+excuusneger	
+excuusnegers	
+hébben	hebben
+héb	heb
+hélemaal	helemaal
+hém	hem
+hén	hen
+hét	het
+huisneger	
+huisnegers	
+hún	hun
+ín	in
+inktkoelie	
+inktkoelies	
+jodenvet	borsthoning
+kán	kan
+kankerjoden	
+kankerjood	
+kankerneger	
+kankernegers	
+koelie	
+koelies	
+koeliewerk	
+kúnnen	kunnen
+mág	mag
+mét	met
+mógen	mogen
+moslimhoer	
+moslimhoeren	
+nádat	nadat
+ná	na
+neger	
+negerbevolking	
+negerbloed	
+negerdans	
+negerdansen	
+negerin	
+negerinnen	
+negerinnetje	
+negerinnetjes	
+negerjongen	
+negerjongens	
+negerkind	
+negerkinderen	
+negermuziek	
+negerras	
+negers	
+negerslaaf	
+negerslaven	
+negerstaat	
+negerstam	
+negerstammen	
+negerstaten	
+negertje	
+negertjes	
+negervraagstuk	
+negerwijk	
+negerwijken	
+negerzaad	
+negerzanger	
+negerzangers	
+negerzoen	
+negerzoenen	
+nérgens	nergens
+nét	net
+níét	niet
+nikker	
+nikkers	
+nikkertje	
+nikkertjes	
+nóg	nog
+nú	nu
+óf	of
+omdát	omdat
+óns	ons
+óp	op
+óver	over
+sámen	samen
+tégen	tegen
+té	te
+tóch	toch
+úw	uw
+vér	ver
+voorkómen	voorkomen
+wás	was
+wát	wat
+wég	weg
+wélke	welke
+wélk	welk
+wél	wel
+wérkelijk	werkelijk
+wéten	weten
+zál	zal
+zéér	zeer
+zéker	zeker
+zélfs	zelfs
+zélf	zelf
+zómaar	zomaar
+zónder	zonder
+zóveel	zoveel
+zóver	zover
+zó	zo
+zúlke	zulke
+áls	als
+bén	ben
+bosneger	
+Bosneger	
+bosnegerdorp	
+bosnegergemeenschap	
+bosnegergemeenschappen	
+bosnegers	
+Bosnegers	
+bóven	boven
+daarná	daarna
+dán	dan
+dát	dat
+dít	dit
+dús	dus
+élk	elk
+éne	ene
+én	en
+énorm	enorm
+éven	even
+excuusneger	
+excuusnegers	
+hébben	hebben
+héb	heb
+hélemaal	helemaal
+hém	hem
+hén	hen
+hét	het
+huisneger	
+huisnegers	
+hún	hun
+ín	in
+inktkoelie	
+inktkoelies	
+jodenvet	borsthoning
+kán	kan
+kankerjoden	
+kankerjood	
+kankerneger	
+kankernegers	
+koelie	
+koelies	
+koeliewerk	
+kúnnen	kunnen
+mág	mag
+mét	met
+mógen	mogen
+moslimhoer	
+moslimhoeren	
+nádat	nadat
+ná	na
+neger	
+negerbevolking	
+negerbloed	
+negerdans	
+negerdansen	
+negerin	
+negerinnen	
+negerinnetje	
+negerinnetjes	
+negerjongen	
+negerjongens	
+negerkind	
+negerkinderen	
+negermuziek	
+negerras	
+negers	
+negerslaaf	
+negerslaven	
+negerstaat	
+negerstam	
+negerstammen	
+negerstaten	
+negertje	
+negertjes	
+negervraagstuk	
+negerwijk	
+negerwijken	
+negerzaad	
+negerzanger	
+negerzangers	
+negerzoen	
+negerzoenen	
+nérgens	nergens
+nét	net
+níét	niet
+nikker	
+nikkers	
+nikkertje	
+nikkertjes	
+nóg	nog
+nú	nu
+óf	of
+omdát	omdat
+óns	ons
+óp	op
+óver	over
+sámen	samen
+tégen	tegen
+té	te
+tóch	toch
+úw	uw
+vér	ver
+voorkómen	voorkomen
+wás	was
+wát	wat
+wég	weg
+wélke	welke
+wélk	welk
+wél	wel
+wérkelijk	werkelijk
+wéten	weten
+zál	zal
+zéér	zeer
+zéker	zeker
+zélfs	zelfs
+zélf	zelf
+zómaar	zomaar
+zónder	zonder
+zóveel	zoveel
+zóver	zover
+zó	zo
+zúlke	zulke
+áls	als
+bén	ben
+bosneger	
+Bosneger	
+bosnegerdorp	
+bosnegergemeenschap	
+bosnegergemeenschappen	
+bosnegers	
+Bosnegers	
+bóven	boven
+daarná	daarna
+dán	dan
+dát	dat
+dít	dit
+dús	dus
+élk	elk
+éne	ene
+én	en
+énorm	enorm
+éven	even
+excuusneger	
+excuusnegers	
+hébben	hebben
+héb	heb
+hélemaal	helemaal
+hém	hem
+hén	hen
+hét	het
+huisneger	
+huisnegers	
+hún	hun
+ín	in
+inktkoelie	
+inktkoelies	
+jodenvet	borsthoning
+kán	kan
+kankerjoden	
+kankerjood	
+kankerneger	
+kankernegers	
+koelie	
+koelies	
+koeliewerk	
+kúnnen	kunnen
+mág	mag
+mét	met
+mógen	mogen
+moslimhoer	
+moslimhoeren	
+nádat	nadat
+ná	na
+neger	
+negerbevolking	
+negerbloed	
+negerdans	
+negerdansen	
+negerin	
+negerinnen	
+negerinnetje	
+negerinnetjes	
+negerjongen	
+negerjongens	
+negerkind	
+negerkinderen	
+negermuziek	
+negerras	
+negers	
+negerslaaf	
+negerslaven	
+negerstaat	
+negerstam	
+negerstammen	
+negerstaten	
+negertje	
+negertjes	
+negervraagstuk	
+negerwijk	
+negerwijken	
+negerzaad	
+negerzanger	
+negerzangers	
+negerzoen	
+negerzoenen	
+nérgens	nergens
+nét	net
+níét	niet
+nikker	
+nikkers	
+nikkertje	
+nikkertjes	
+nóg	nog
+nú	nu
+óf	of
+omdát	omdat
+óns	ons
+óp	op
+óver	over
+sámen	samen
+tégen	tegen
+té	te
+tóch	toch
+úw	uw
+vér	ver
+voorkómen	voorkomen
+wás	was
+wát	wat
+wég	weg
+wélke	welke
+wélk	welk
+wél	wel
+wérkelijk	werkelijk
+wéten	weten
+zál	zal
+zéér	zeer
+zéker	zeker
+zélfs	zelfs
+zélf	zelf
+zómaar	zomaar
+zónder	zonder
+zóveel	zoveel
+zóver	zover
+zó	zo
+zúlke	zulke

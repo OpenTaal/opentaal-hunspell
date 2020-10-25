@@ -1,3 +1,4 @@
+06 dealers	06-dealers
 0cm	0 cm
 0km	0 km
 0m	0 m
@@ -7,6 +8,7 @@
 1000m2	1000 m²
 1000m3	1000 m³
 100m2	100 m²
+10A.-aansluiting	10A-aansluiting
 10jarige	10-jarige
 10m2	10 m²
 10m3	10 m³
@@ -18,8 +20,11 @@
 150m2	150 m²
 15jarige	15-jarige
 15m2	15 m²
+15plussers	15-plussers;15+'ers
 16jarige	16-jarige
 16m2	16 m²
+16-metergebied	16 metergebied
+16 mm-camera	16mm-camera
 17jarige	17-jarige
 17m2	17 m²
 18jarige	18-jarige
@@ -45,11 +50,17 @@
 1minuut	1 minuut
 1ml	1 ml
 1mm	1 mm
+1-uurservice	1 uursservice;eenuursservice
 200m2	200 m²
 2019-nCoV	SARS-CoV-2
 20jarige	20-jarige
 20kHz	20 kHz
+20-kilometergebied	20 kilometergebied
+20-kilometergebieden	20 kilometergebieden
 20m3	20 m³
+220V	220 V
+230V	230 V
+230 Volt	230 volt
 24-uursbegeleiding	24 uursbegeleiding
 24-uursbereikbaarheid	24 uursbereikbaarheid
 24-uursbeschikbaarheid	24 uursbeschikbaarheid
@@ -65,8 +76,10 @@
 24-uursprocedure	24 uursprocedure
 24-uursservice	24 uursservice
 24-uursstaking	24 uursstaking
+24-uursstructuren	24 uursstructuren
 24-uursstructuur	24 uursstructuur
 24-uursverplichting	24 uursverplichting
+24-uursverplichtingen	24 uursverplichtingen
 24-uursvoorziening	24 uursvoorziening
 24-uursvoorzieningen	24 uursvoorzieningen
 24-uurszorg	24 uurszorg
@@ -98,6 +111,10 @@
 2-traps	
 2weken	2 weken
 300m2	300 m²
+30-kilometergebied	30 kilometergebied
+30-kilometergebieden	30 kilometergebieden
+30-km-zone	30km-zone
+30-km-zones	30km-zones
 30m2	30 m²
 35m2	35 m²
 3cm	3 cm
@@ -115,6 +132,7 @@
 400m2	400 m²
 40+ers	40+'ers
 40m2	40 m²
+45plussers	45-plussers;45+'ers
 49km	49 km
 4-cilinider	4-cilinder
 4cm	4 cm
@@ -132,14 +150,21 @@
 500m2	500 m²
 500m3	500 m³
 500meter	500 meter
+50+-er	50+'er
 50+er	50+'er
 50+-ers	50+'ers
 50+ers	50+'ers
+50 km-zone	50km-zone
 50m2	50 m²
 50-meter	50 meter
 50meter	50 meter
+50-meterbad	50 meterbad
+50plusser	50-plusser;50+'er
+50plussers	50-plussers;50+'ers
+55+-er	55+'er
 55+-ers	55+'ers
 55+ers	55+'ers
+55plussers	55-plussers;55+'ers
 5cm	5 cm
 5jarigen	5-jarigen
 5kg	5 kg
@@ -157,14 +182,20 @@
 5mm	5 mm
 5-traps	
 600m2	600 m²
+60+-er	60+'er
 60+-ers	60+'ers
 60+ers	60+'ers
 60m2	60 m²
+65+-er	65+'er
 65+er	65+'er
 65+-ers	65+'ers
 65+ers	65+'ers
+65+ kaart	65+-kaart
+65+ kaarten	65+-kaarten
 65m2	65 m²
+65’plusser	65-plusser;65+'er
 65plusser	65-plusser;65+'er
+65’plussers	65-plussers;65+'ers
 65plussers	65-plussers;65+'ers
 6-cilinider	6-cilinder
 6cm	6 cm
@@ -179,10 +210,13 @@
 6mm	6 mm
 6-traps	
 70m2	70 m²
+75+-er	75+'er
 75+-ers	75+'ers
 75+ers	75+'ers
 75km	75 km
 75m2	75 m²
+75plussers	75-plussers;75+'ers
+7-7-bereikbaarheid	7/7-bereikbaarheid
 7cm	7 cm
 7kg	7 kg
 7km	7 km
@@ -438,7 +472,6 @@ aanmoddeerdert
 aanmoedigert	
 aanmoesten	aan moesten
 aanmoet	aan moet
-aanmoeten	aan moeten
 aanmoetert	
 aanmonsteerdert	
 aanmuntert	
@@ -645,22 +678,38 @@ accentueerdert
 accepteerdert	
 accesoire	accessoire
 accesoires	accessoires
+accessiet	accessit
+accessieten	accessits
 acclimatiseerdert	
+accoderen	accorderen
 accommodeerdert	
 accomodatie	accommodatie
 accomodaties	accommodaties
 accomodation	accommodatie
+accomodeerde	accommodeerde
+accomodeerden	accommodeerden
+accomodeert	accommodeert
 accomoderen	accommoderen
 accompagneerdert	
+accoord	akkoord
+accoorden	akkoorden
 accordeerdert	
+account-manager	accountmanager
 accrediteerdert	
 accumuleerdert	
+accupressuur	acupressuur
 accupuncturist	acupuncturist
 accupuncturisten	acupuncturisten
-achteraangaart	
-achteraankomert	
-achteraanlopert	
-achteraanzittert	
+accupunctuur	acupunctuur
+accutje	accuutje
+accuut	acuut
+acellerando	accelerando
+acellereren	accelereren
+acepteren	accepteren
+achenebisj	achenebbisj
+achenibbisj	achenebbisj
+achteraangaan	achteraan gaan
+achteraanzitten	achteraan zitten
 achterafplaatsert	
 achterblijvert	
 achterdenkert	
@@ -669,6 +718,7 @@ achtergezet	achter gezet
 achterhalert	
 achterhoudert	
 achterklappert	
+achterkom	achter kom
 achterkomen	achter komen
 achterlappert	
 achterlatert	
@@ -722,6 +772,7 @@ achtienjarige	achttienjarige
 achtienjarigen	achttienjarigen
 achtneming	inachtneming
 achttiend	achttiende
+acht-uurjournaal	achtuurjournaal
 acquireerdert	
 acte de presence	acte de présence
 acteerdert	
@@ -1226,6 +1277,7 @@ afspringert
 afspuitert	
 afstammert	
 afstampert	
+afstandsvervoer	langeafstandsvervoer
 afstappert	
 afstekert	
 afstekkert	
@@ -1388,17 +1440,58 @@ agendeerdert
 agglutineerdert	
 aggregeerdert	
 agiteerdert	
+agoravobie	agorafobie
+agrarier	agrariër
+agrariers	agrariërs
+agregaat	aggregaat
+agro-industriele	agro-industriële
+ahaerlebnis	aha-erlebnis
 aïda	Aïda
+aids-afdeling	aidsafdeling
+aids-besmetting	aidsbesmetting
+aidspatient	aidspatiënt
+aids-patiënt	aidspatiënt
+aidspatienten	aidspatiënten
+aids-remmer	aidsremmer
+aids-slachtoffer	aidsslachtoffer
+aids-test	aidstest
+aids-tijdperk	aidstijdperk
+aids-vaccin	aidsvaccin
+aids-virus	aidsvirus
 aikidoend	aikidoënd
 aikidoexamen	aikido-examen
 aikidoexamens	aikido-examens
+aio-stelsel	aiostelsel
+air bag	airbag
+air-conditioning	airconditioning
+aircotje	aircootje
 Airship	Luchtschip
 ajacied	Ajacied
 ajacieden	Ajacieden
 Ajax'	Ajaxs
 a.j.b.	ajb.
 ajb	ajb.
+ajurveda	ayurveda
 akkeerdert	
+akkordeerde	accordeerde
+akkordeert	accordeert
+akkorderen	accorderen
+akku	accu
+akoord	akkoord
+akordeerde	accordeerde
+akordeert	accordeert
+akount	account
+akribisch	acribisch
+akrobaat	acrobaat
+akrobatie	acrobatie
+aktentas	aktetas
+aktie	actie
+aktief	actief
+akties	acties
+aktieve	actieve
+aktiviteit	activiteit
+aktiviteiten	activiteiten
+akwisitie	acquisitie
 alarmeerdert	
 alcoholiseerdert	
 Aldi	ALDI
@@ -1434,6 +1527,7 @@ amalgameerdert
 ambachtschool	ambachtsschool
 ambieerdert	
 ambt.	ambtelijk
+ambtenarencorps	ambtenarenkorps
 ambulanc	ambulance
 amendeerdert	
 amer	Amer;amper
@@ -1474,6 +1568,7 @@ annoteerdert
 annuleerdert	
 anodiseerdert	
 anonimiseerdert	
+Antartica	Antarctica
 antedateerdert	
 anti-abortus	antiabortus
 anti-abortusbesluit	antiabortusbesluit
@@ -1496,6 +1591,7 @@ Apache-helicopter	Apache-helikopter
 Apachehelikopter	Apache-helikopter
 Apachehelikopters	Apache-helikopters
 apaiseerdert	
+à pari	a pari
 apekolonie	apenkolonie
 apekolonies	apenkolonies
 apengapen	apegapen
@@ -1514,6 +1610,7 @@ apprecieerdert
 appreteerdert	
 approviandeerdert	
 après-skiërt	
+a propos	à propos
 aquarelleerdert	
 arabiseerdert	
 arbeidert	
@@ -1534,6 +1631,7 @@ arrangeerdert
 arresteerdert	
 arriveerdert	
 articuleerdert	
+artsencorps	artsenkorps
 arts-patient	
 arts-patiënt	
 arts-patiënt-relatie	arts-patiëntrelatie
@@ -1555,11 +1653,18 @@ assoneerdert
 assorteerdert	
 assumeerdert	
 assureerdert	
+astronautencorps	astronautenkorps
 Asus	ASUS
 aswoensdag	Aswoensdag
 ate	aten;mate;late
-Atjeese	Atjese
+Atje	Atjeh;Adje
+Atjeeër	Atjeher
+Atjeeërs	Atjehers
+Atjees	Atjehs
+Atjeese	Atjehse
+Atjese	Atjehse
 atomiseerdert	
+atoompjess	atoompjes
 atrofieerdert	
 attache	attaché;attachee
 attached	bijgesloten
@@ -1627,6 +1732,7 @@ azerty-toetsenbordjes	azertytoetsenbordjes
 AZERTY-toetsenbordjes	azertytoetsenbordjes
 azimuth	azimut
 baaivangert	
+Baai van Mont-Saint-Michel	Baai van Mont Saint-Michel
 baand	baan;baant;band
 baardde	baarde
 baardert	
@@ -1642,7 +1748,9 @@ backert
 backpackert	
 back-uppert	
 backups	back-ups
+bacoven	bacoves
 bacovenwinkel	bacovewinkel
+bacovenwinkels	bacovewinkels
 baddeerdert	
 badert	
 badineerdert	
@@ -1767,6 +1875,7 @@ bedottert
 bedragert	
 bedreigert	
 bedriegert	
+bedrijfsbrandweercorps	bedrijfsbrandweerkorps
 bedrijfstroom	bedrijfsstroom
 bedrijvenlokaties	bedrijvenlocaties
 bedrijvert	
@@ -1941,6 +2050,7 @@ beleerdert
 belegeerdert	
 beleggert	
 beleidsniveau's	beleidsniveaus
+beleidswijzing	beleidswijziging
 belemmeerdert	
 belendert	
 belenert	
@@ -2093,6 +2203,7 @@ besefd	beseft
 beseffert	
 besjoemelert	
 beslaart	
+beslagneming	inbeslagneming
 beslapert	
 beslechtert	
 beslisd	beslist
@@ -2391,6 +2502,7 @@ bij-effect	bijeffect
 bij-effecten	bijeffecten
 bijgelegt	bijgelegd
 bijgeschaaft	bijgeschaafd
+bijgesleepte	erbij gesleepte
 bijgesteldt	bijgesteld
 bijgestelt	bijgesteld
 bijgevert	
@@ -2404,6 +2516,7 @@ bijgroeiert
 bijhalert	
 bijhangert	
 bijharkert	
+bijhoor	erbij hoor
 bijhoudert	
 Bijiage	Bijlage
 bijiagen	bijlagen
@@ -2416,6 +2529,8 @@ bijkomert
 bijkopert	
 bijkrabbelert	
 bijladert	
+bijlange	bij lange
+Bijlange	Bij lange
 bijlappert	
 bijleerdert	
 bijleggert	
@@ -2567,6 +2682,7 @@ bissert
 bitteerdert	
 bitumineerdert	
 bivakkeerdert	
+b-kant	B-kant
 b-kantje	B-kantje
 b-kantjes	B-kantjes
 blaardert	
@@ -2607,8 +2723,11 @@ bloeiert
 bloemenstalen	
 bloemert	
 bloemlezert	
+bloempjess	bloempjes
 bloemschikkert	
 bloesemert	
+bloesempjess	bloesempjes
+bloetoet	bluetooth
 bloezert	
 bloggert	
 blokkeerdert	
@@ -2641,12 +2760,12 @@ bobbies	bobby's
 bobijnert	
 bobsleeërt	
 bodemert	
+bodempjess	bodempjes
 bodybuildert	
 boeerdert	
 boe-geroep	boegeroep
 boegseerdert	
 boeiert	
-Boekenweekessay	boekenweekessay
 boekert	
 boekhoudert	
 boekske	boekje
@@ -2659,6 +2778,7 @@ boetert
 boete's	boetes
 boetseerdert	
 boezemert	
+boezempjess	boezempjes
 boffert	
 bogert	
 bokjespringert	
@@ -2690,6 +2810,7 @@ boodschappert
 boodschappies	boodschapjes
 boogywoogy	boogiewoogie
 booi	boot;boei
+boompjess	boompjes
 boordert	
 boordroeiert	
 bootert	
@@ -2705,6 +2826,8 @@ borstpieren	borstspieren
 boschage	bosschage
 boschages	bosschages
 bosfeeen	bosfeeën
+bosjesman	Bosjesman
+bosjesmannen	Bosjesmannen
 boske	bosje
 boskes	bosjes
 Bosni	Bosnië
@@ -2748,6 +2871,9 @@ brandmerkert
 brandschattert	
 brandschildeerdert	
 brandstichtert	
+brandweercorps	brandweerkorps
+brandweercorpsen	brandweerkorpsen
+brasempjess	brasempjes
 brassert	
 braveerdert	
 breakdancert	
@@ -2914,7 +3040,6 @@ BTW-vrijstelling	btw-vrijstelling;Btw-vrijstelling
 BTW-vrijstellingen	btw-vrijstellingen;Btw-vrijstellingen
 BTW-wetgeving	btw-wetgeving
 bubbelert	
-bubs	bups
 budgetteerdert	
 buffeerdert	
 buffelert	
@@ -2930,7 +3055,6 @@ búiten	búíten
 buitend	buiten
 buitengaart	
 buitenkomert	
-buitenlandwerkzaamheden	
 buitensluitert	
 buitenstaart	
 buitenzettert	
@@ -2953,6 +3077,7 @@ Bureau's	Bureaus
 bureaux	bureaus
 burgelijk	burgerlijk
 burgelijke	burgerlijke
+burgemeesterscorps	burgemeesterskorps
 burka	boerka
 burkadraagsters	boerkadraagsters
 burkah	boerka
@@ -3008,6 +3133,7 @@ calcineerdert
 calculeerdert	
 calibratie	kalibratie
 calibratiemethode	kalibratiemethode
+Calimero-complex	calimerocomplex
 calligrafie	kalligrafie
 calqueerdert	
 camera`s	camera's
@@ -3078,7 +3204,9 @@ certificeerdert
 chambreerdert	
 changeerdert	
 chanteerdert	
+chapattimeel	chapatimeel
 chaperonneerdert	
+chappatimeel	chapatimeel
 chargeerdert	
 charmeerdert	
 charteerdert	
@@ -3110,6 +3238,7 @@ chromeerdert
 chronometreerdert	
 Churchillaan	Churchilllaan
 cijfeerdert	
+cijferig	
 cijferige	
 cilinidervormig	cilindervormig
 circuleerdert	
@@ -3146,22 +3275,54 @@ Co2-uitstoot	CO2-uitstoot
 coachert	
 coaguleerdert	
 coatert	
+cocaineaffaire	cocaïneaffaire
+cocaine	cocaïne
+cocainegebruik	cocaïnegebruik
+cocainehandel	cocaïnehandel
+cocainemaffia	cocaïnemaffia
+cockerspaniel	cockerspaniël
+cocker spaniël	cockerspaniël
+cockerspaniels	cockerspaniëls
+cockneydialect	Cockneydialect
 co-commentator	cocommentator
 cocoonert	
 codeerdert	
+codeine	codeïne
 codificeerdert	
+coëducatie	co-educatie
+coefficient	coëfficiënt
+coefficienten	coëfficiënten
 coënzym	co-enzym
+coëxisteerde	co-existeerde
 coexistentie	co-existentie
+coëxistentie	co-existentie
+coëxisteren	co-existeren
 cohabiteerdert	
 coiffeerdert	
 coïncideerdert	
+coitaal	coïtaal
+coitale	coïtale
 coïteerdert	
+coiteren	coïteren
+coïtus interruptus	coitus interruptus
+cojote	coyote
+colaboreren	collaboreren
+colage	collage
+cola-light	
+cola-lights	
+colatje	colaatje
+cold-turkeymethode	coldturkeymethode
+colibacterien	colibacteriën
 collaboreerdert	
 collage-achtige	collageachtige
 collationeerdert	
 collecteerdert	
 collectioneerdert	
 collectiviseerdert	
+collectoritem	collector's item
+collectors item	collector's item
+collectors-item	collector's item
+collectorsitem	collector's item
 collega`s	collega's
 college's	colleges
 collet	kollet
@@ -3222,6 +3383,7 @@ concurreerdert
 condenseerdert	
 conditioneerdert	
 condoleerdert	
+conducteurscorps	conducteurskorps
 confectioneerdert	
 confedereerdert	
 confereerdert	
@@ -3668,6 +3830,7 @@ dinkytoy	dinky toy
 dinkytoys	dinky toys
 dioxine-achtige	dioxineachtige
 diploma`s	diploma's
+diplomatencorps	diplomatenkorps
 diplomeerdert	
 dippert	
 directeuren-grootaandeelhouder	
@@ -3720,6 +3883,7 @@ dna-onderzoek	DNA-onderzoek
 dobbeerdert	
 dobbelert	
 doceerdert	
+docentencorps	docentenkorps
 doctoreerdert	
 documentaire-achtige	documentaireachtige
 documenteerdert	
@@ -4069,8 +4233,13 @@ dreutelert
 drevelert	
 d`r	haar
 dribbelert	
+drieen	drieën
 drie-en-een-half	drie en een half
+drieeneenhalf	drie en een half
+drieeneenhalve	drie en een halve
+drieentwintig	drieëntwintig
 driegert	
+drie-jarige	driejarige
 driekwartier	drie kwartier
 driesterren-	drie-
 drietraps	
@@ -4100,6 +4269,7 @@ droogvallert
 droogwrijvert	
 droogzwemmert	
 droogzwieerdert	
+droompjess	droompjes
 dropouts	drop-outs
 droppelert	
 droppert	
@@ -4228,6 +4398,7 @@ eigend	eigen;eigent
 eigenert	
 eigengewin	eigen gewin
 eigenrisico	eigen risico
+eindelijke	eindelijk
 einderonde	eindronde
 eindert	
 eindigert	
@@ -4249,15 +4420,18 @@ electriciteitsprijs	elektriciteitsprijs
 electriciteitsverbruik	elektriciteitsverbruik
 electriciteitsvoorziening	elektriciteitsvoorziening
 electrische	elektrische
+electro-encefalogram	elektro-encefalogram
 elekra	elektra
 elektrificeerdert	
 elektriseerdert	
 elektrocuteerdert	
 elektrolyseerdert	
 Elen	Ellen
+elf-jarige	elfjarige
 elfstedenstad	Elfstedenstad
 elideerdert	
 elimineerdert	
+elitecorps	elitekorps
 e`lke	élke
 ellend	ellende
 elohim	Elohim
@@ -4337,6 +4511,7 @@ etteerdert
 etymologiseerdert	
 euri	euro
 euri's	euro's
+euro-biljetten	eurobiljetten
 eurocommissaris	Eurocommissaris
 eurocommissarissen	Eurocommissarissen
 europarlementarier	Europarlementariër
@@ -4387,6 +4562,7 @@ exorciseerdert
 expandeerdert	
 expatrieerdert	
 expedieerdert	
+expeditiecorps	expeditiekorps
 experimenteerdert	
 expireerdert	
 expliceerdert	
@@ -4438,6 +4614,7 @@ falsifieerdert
 familiariseerdert	
 familieuitje	familie-uitje
 familieuitstap	familie-uitstap
+fanfarecorps	fanfarekorps
 fantaseerdert	
 fant	fantasie
 fants	fantasieën
@@ -5022,7 +5199,8 @@ gehat	gehad
 geheelt	geheeld
 geheidt	geheid
 geheiligt	geheiligd
-geheimagent	geheim agent;spion
+geheimagenten	geheim agenten
+geheimagent	geheim agent
 geheimhoudert	
 geheit	geheid
 gehercalibreerde	geherkalibreerde
@@ -5090,6 +5268,8 @@ gekamt	gekamd
 gekand	gekant
 gekantelt	gekanteld
 gekarakteriseert	gekarakteriseerd
+gekarameliseerde	gekaramelliseerde
+gekarameliseerd	gekaramelliseerd
 gekastijdt	gekastijd
 gekeert	gekeerd
 gekendt	gekend
@@ -5194,6 +5374,7 @@ geloost	geloosd
 gelosd	gelost
 gelovert	
 geluidgegevens	geluidsgegevens
+geluidsnelheid	geluidssnelheid
 geluidt	geluid
 geluistert	geluisterd
 geluit	geluid
@@ -5422,6 +5603,8 @@ gereserveert	gereserveerd
 geresolveert	geresolveerd
 gerespecteert	gerespecteerd
 gerestaureert	gerestaureerd
+gerestoreerde	gerestaureerde
+gerestoreerd	gerestaureerd
 geresulteert	geresulteerd
 geret	gered
 geretourneerdt	geretourneerd
@@ -5644,6 +5827,7 @@ gevangennemert
 gevangenzettert	
 gevangenzittert	
 gevarieert	gevarieerd
+gevechtshelicopters	gevechtshelikopters
 gevedt	gevet
 geveegt	geveegd
 geveer	gever;geweer
@@ -5769,6 +5953,7 @@ gezorgdt	gezorgd
 gezorgt	gezorgd
 gezuivert	gezuiverd
 gezwaait	gezwaaid
+GGD's	GGD'en
 gidsert	
 giebelert	
 giechelert	
@@ -5856,6 +6041,7 @@ goeienmiddag	goeiemiddag;goedemiddag
 goei	goed
 gokkert	
 golfert	
+Golf van Kiparissia	Golf van Kyparissia
 golvert	
 gommert	
 gonzert	
@@ -5913,6 +6099,7 @@ grijnslachert
 grijnzert	
 grijpert	
 grijsrijdert	
+grijswater	grijs water
 grijzert	
 grilleerdert	
 grillert	
@@ -5968,6 +6155,7 @@ haaiert
 haardert	
 haarklovert	
 haarlem	Haarlem
+haasje-repje	haastje-repje
 haastert	
 haatliefdeverhoudingen	haat-liefdeverhoudingen
 haatliefdeverhouding	haat-liefdeverhouding
@@ -5992,6 +6180,7 @@ Halloween-feest	halloweenfeest
 halloween	Halloween
 Halloween-tocht	halloweentocht
 hallucineerdert	
+halmpjess	halmpjes
 halsteerdert	
 halucineer	hallucineer
 halucineert	hallucineert
@@ -6036,6 +6225,8 @@ hardert
 hardlopert	
 hardmakert	
 harkert	
+harmelen	Harmelen
+harmoniecorps	harmoniekorps
 harmonieerdert	
 harmoniseerdert	
 harnassert	
@@ -6059,6 +6250,7 @@ headbangert
 headhuntert	
 hèbben	hébben
 hebbert	
+hechtenisneming	inhechtenisneming
 hechtert	
 heeeeeeeeeeeeeel	héél
 heeeeeeeeeeeeel	héél
@@ -6106,6 +6298,10 @@ helemaaaaaal	helemáál
 helemal	helemaal
 helem	hele
 helert	
+helicopter	helikopter
+helicopters	helikopters
+helicoptertje	helikoptertje
+helicoptervlucht	helikoptervlucht
 helleniseerdert	
 hellert	
 hellingske	hellinkje
@@ -6278,6 +6474,7 @@ hippie-achtig	hippieachtig
 hirs	Hirs;HIRS
 historiseerdert	
 hitlergroet	Hitlergroet
+Hitler-groet	Hitlergroet
 Hitler's	Hitlers
 hitsert	
 hm2	hm²
@@ -6300,11 +6497,15 @@ hoestert
 hoetelert	
 hóeven	hóéven
 hoevert	
+hoevraag	hoe-vraag
+hoevragen	hoe-vragen
 hoffmann	Hoffmann
 hofland	Hofland
 hoger-onderwijsinstellingen	hogeronderwijsinstellingen
 hogert	
 hogeschoolrijdert	
+hoge-snelheidstreinen	hogesnelheidstreinen
+hoge-snelheidstrein	hogesnelheidstrein
 hokkert	
 holebijongeren	holebi-jongeren
 holert	
@@ -6321,6 +6522,8 @@ honingraden	honingraten
 honkballert	
 honkert	
 honoreerdert	
+hoofdloos	hoofdeloos
+hoofdloze	hoofdeloze
 hoofdoekjes	hoofddoekjes
 hoofdrekenert	
 hoofdschuddert	
@@ -6359,6 +6562,15 @@ houwert
 hovenieerdert	
 howdo	houdoe
 hozert	
+htm	HTM
+html-bestanden	HTML-bestanden
+html-code	HTML-code
+html-editor	HTML-editor
+html	HTML
+Html	HTML
+html-pagina	HTML-pagina
+html-pagina's	HTML-pagina's
+html-versie	HTML-versie
 huib	Huib
 huichelert	
 huilebalkert	
@@ -6464,6 +6676,7 @@ ietskes	ietsjes
 ignoreerdert	
 Ijanuari	januari
 Ijben	IJben
+IJbergen	Eibergen
 Ijbergen	IJbergen
 Ijburg	IJburg
 Ijdele	IJdele
@@ -6685,6 +6898,7 @@ ingelogt	ingelogd
 ingeluidt	ingeluid
 ingeluist	ingeluisd
 ingenieursbureau's	ingenieursbureaus
+ingenieurscorps	ingenieurskorps
 ingeruilt	ingeruild
 ingescant	ingescand
 ingeschakeldt	ingeschakeld
@@ -6734,6 +6948,7 @@ inheiert
 inhelp	in help
 inhelpt	in helpt
 inhielpen	in hielpen
+inhielp	in hielp
 inhoudert	
 inhouwert	
 inhuldigert	
@@ -6932,6 +7147,7 @@ insuffert
 intapert	
 inteerdert	
 integratieuitkering	integratie-uitkering
+integratie-vraagstuk	integratievraagstuk
 integreerdert	
 intekenert	
 intendeerdert	
@@ -7121,7 +7337,8 @@ jagert
 ja`	já
 jakkeerdert	
 ja-knikker	jaknikker
-jaknikkert	
+ja-knikkers	jaknikkers
+jaknikkert	jaknikker
 jalonneerdert	
 jammeerdert	
 jane	Jane
@@ -7206,6 +7423,7 @@ jumeleerdert
 jumpert	
 jureerdert	
 jurrie	Jurrie
+jury-uitspraak	juryuitspraak
 justeerdert	
 justitieelmedisch	justitieel-medisch
 juttert	
@@ -7304,6 +7522,9 @@ kapselert
 kaptein	kapitein
 karaker	karakter
 karakteriseerdert	
+karameliseer	karamelliseer
+karameliseert	karamelliseert
+karameliseren	karamelliseren
 karamelleverzen	karamellenverzen
 karater	karakter
 kardert	
@@ -7376,7 +7597,6 @@ ketenert
 ketert	
 ketsert	
 ketteerdert	
-keukenkruid	keukenkruiden
 keuning	koning;Koning;Keuning
 keutelert	
 keuurdert	
@@ -7577,6 +7797,8 @@ knuffelert
 knuppelert	
 knutselert	
 koeerdert	
+koeieuier	koeienuier
+koeieuiers	koeienuiers
 koeioneerdert	
 koekeloeerdert	
 koekert	
@@ -7606,6 +7828,7 @@ kokhalzert
 kokkeerdert	
 kokkelert	
 kokkerellert	
+kokschool	koksschool
 kokus	kokos
 koldeerdert	
 kolkert	
@@ -7674,13 +7897,17 @@ kort-gedingrechter	kortgedingrechter
 kortsluitert	
 kortwiekert	
 korvert	
+kostenbatenanalyse	kosten-batenanalyse
 kostenloos	kosteloos
 kostenverslindende	geldverslindende
 kostenverslindend	geldverslindend
 kostert	
 kostgeldert	
 kostumeerdert	
+kostwinnaar	kostwinner
+kostwinnaars	kostwinners
 koteerdert	
+koterie	coterie
 kotsert	
 koukleumert	
 koutert	
@@ -7727,6 +7954,7 @@ krimpert
 kringelert	
 krinkelert	
 krioelert	
+kris-kras	kriskras
 kriskrassert	
 krissert	
 kristalliseerdert	
@@ -7757,7 +7985,9 @@ kruisert
 kruisigert	
 kruisjassert	
 kruiske	kruisje
+kruizenmunt	kruizemunt
 krukkert	
+krullebol	krullenbol
 krullert	
 kubeerdert	
 kuchert	
@@ -7767,6 +7997,7 @@ kuipert
 kuisert	
 kuitschietert	
 kuivert	
+kukelekuën	kukelekuen
 kukelert	
 kullert	
 kùnnen	kúnnen
@@ -7795,6 +8026,7 @@ kwekert
 kwekkert	
 kwelert	
 kwellert	
+kwerulant	querulant
 kwetsert	
 kwetteerdert	
 kwezelert	
@@ -7808,6 +8040,7 @@ kwijtspelert
 kwinkeleerdert	
 kwispelert	
 kwispelstaartert	
+kwispendoor	kwispedoor
 kwiteerdert	
 laagvliegert	
 laaiert	
@@ -7874,6 +8107,8 @@ lardeerdert
 lassert	
 lasteerdert	
 lastigvallert	
+lastte	gelastte
+lastten	gelastten
 latert	
 latiniseerdert	
 lattert	
@@ -7922,7 +8157,22 @@ leegstromert
 leegvissert	
 leegzuigert	
 leerdert	
+leerkrachtencorps	leerkrachtenkorps
 leerlingverpleegkundigen	leerling-verpleegkundigen
+leerwerkbaan	leer-werkbaan
+leerwerkbanen	leer-werkbanen
+leerwerkboek	leer-werkboek
+leerwerkloket	leer-werkloket
+leerwerkloketten	leer-werkloketten
+leerwerkovereenkomst	leer-werkovereenkomst
+leerwerkplan	leer-werkplan
+leerwerkplekbegeleider	leer-werkplekbegeleider
+leerwerkplekken	leer-werkplekken
+leerwerkplek	leer-werkplek
+leerwerkplicht	leer-werkplicht
+leerwerkrecht	leer-werkrecht
+leerwerkstages	leer-werkstages
+leerwerktrajecten	leer-werktrajecten
 leerwerktraject	leer-werktraject
 leewiekert	
 legaliseerdert	
@@ -7953,6 +8203,7 @@ lepelert
 leppeerdert	
 ler	
 leraardert	
+lerarencorps	lerarenkorps
 lesgevert	
 lesie	laesie
 lesies	laesies
@@ -7965,10 +8216,15 @@ leunert
 leuteerdert	
 leuurdert	
 leveerdert	
+leveloos	levenloos
 levenbeschouwelijke	levensbeschouwelijke
 levencyclus	levenscyclus
 Levencyclus	Levenscyclus
+levensbeeindiging	levensbeëindiging
+levenswaard	levens waard
 leverd	levert
+leverpatienten	leverpatiënten
+leverpatient	leverpatiënt
 lezert	
 LGBT-gemeenschap	lgbt-gemeenschap
 liberaliseerdert	
@@ -7983,6 +8239,7 @@ lidtekenweefsel	littekenweefsel
 lidtekenweefsels	littekenweefsels
 liëerde	lieerde
 lieerdert	
+liefdespoezie	liefdespoëzie
 liefhebbeerdert	
 liefkozert	
 Liège	Luik
@@ -8006,6 +8263,8 @@ lillert
 limericken	limericks
 limiteerdert	
 lineariseerdert	
+liniaire	lineaire
+liniair	lineair
 linieerdert	
 linkercilinder	linker cilinder
 linkergrafiek	linker grafiek
@@ -8016,10 +8275,13 @@ lintenbebouwing	lintbebouwing
 lipitor	Lipitor
 liplezert	
 lippert	
+lippizaner	lipizzaner
+lippizaners	lipizzaners
 liquideerdert	
 lispelert	
 lispert	
 lithografeerdert	
+l-kamer	L-kamer
 lk	ik
 Lleinpolderplein	Kleinpolderplein
 lobbeerdert	
@@ -8037,7 +8299,8 @@ loensert
 loerogert	
 logeerdert	logee
 logement-houders	logementhouders
-logementschip	logementsschip
+logementsschepen	logementschepen
+logementsschip	logementschip
 logenstraffert	
 logert	
 logé's	logés
@@ -8045,6 +8308,7 @@ loggert
 lokaliseerdert	
 lokatiebeleid	locatiebeleid
 lokatiebepaling	locatiebepaling
+lokatief	locatief
 lokatiegebonden	locatiegebonden
 lokatiekeuze	locatiekeuze
 lokatie	locatie
@@ -8054,7 +8318,9 @@ lokaties	locaties
 Lokaties	Locaties
 lokatiespecifieke	locatiespecifieke
 lokkert	
+lokomotief	locomotief
 lollert	
+lollytje	lolly'tje
 lompert	
 London	Londen
 lonert	
@@ -8160,6 +8426,7 @@ machtspelletjes	machtsspelletjes
 mac	Mac
 madonnabeelden	Madonnabeelden
 maffert	
+maffiose	maffioze
 mafia-achtige	maffia-achtige
 magazine-achtige	magazineachtige
 maggie	mag hij;maggi;Maggie
@@ -8220,6 +8487,7 @@ Maria-Theresia	Maria Theresa
 marijuana	marihuana
 Marijuana	Marihuana
 marineerdert	
+marinierscorps	marinierskorps
 markeerdert	
 marketert	
 marktert	
@@ -8433,7 +8701,6 @@ merceriseerdert
 mergelert	
 merkert	
 merlijn	marlijn;Merlijn
-mer	met;meer
 mert	met
 mestert	
 metalliseerdert	
@@ -8541,6 +8808,7 @@ milieu-overlast	milieuoverlast
 milieu-overtredingen	milieuovertredingen
 milieu-overwegingen	milieuoverwegingen
 militariseerdert	
+millennium-vraagstuk	milleniumvraagstuk
 millimeteerdert	
 mil	miljoen;mille
 mimert	
@@ -8639,6 +8907,8 @@ moduleerdert
 moedeerdert	
 moederdagkado	moederdagcadeau
 moederdag	Moederdag
+moederkant	moederskant
+moeders kant	moederskant
 moederstaal	moedertaal;moerstaal
 moedigert	
 moeerdert	
@@ -8724,6 +8994,7 @@ moutert
 moveerdert	
 movert	
 mri	MRI
+m/s2	m/s²
 muffert	
 muggenziftert	
 muikert	
@@ -8744,8 +9015,12 @@ muteerdert
 mutileerdert	
 mutske	mutsje
 muurbeschilderingen	muurschilderingen
+muurbloempjess	muurbloempjes
 muziekaal	muzikaal
+muziekcorpsen	muziekkorpsen
+muziekcorps	muziekkorps
 muziekmakert	
+mw	mw.;mW
 MySpace	Myspace
 Myspell	MySpell
 mystificeerdert	
@@ -8991,7 +9266,6 @@ nietsnuttert
 niet-wetert	
 nieuwbouwlokaties	nieuwbouwlocaties
 Nieuw-Kastilië	Nieuw-Castilië
-nieuwmelkte	
 Nieuw Nickerie	Nieuw-Nickerie
 niezert	
 nightclub	nachtclub
@@ -9093,8 +9367,19 @@ oculeerdert
 odoriseerdert	
 oefenert	
 oegen	ogen
+oer-conservatief	oerconservatief
+oer-conservatieve	oerconservatieve
+oer-elementen	oerelementen
+oer-Hollandsche	
+oer-hollandse	oer-Hollandse
+oerhollandse	oer-Hollandse
+oer-hollands	oer-Hollands
+oerhollands	oer-Hollands
+oerjoodse	oer-Joodse
 oerjoods	oer-Joods
+oer-oude	oeroude
 offeerdert	
+offerte-aanvraag	offerteaanvraag
 officialiseerdert	
 officieerdert	
 offreerdert	
@@ -9400,6 +9685,7 @@ onduleerdert
 ongeloofelijk	ongelooflijk
 ongelovelijk	ongelofelijk
 ongever	ongeveer
+ongezoute	ongezouten
 onkangs	onlangs
 online-stemhulpen	online stemhulpen;onlinestemhulpen
 online-stemhulp	online stemhulp;onlinestemhulp
@@ -9631,6 +9917,7 @@ oogskes	oogjes
 oogstert	
 óok	óók
 òòk	óók
+oompjess	oompjes
 oooooooh	óh
 Oooooooo	
 Oooooooooh	
@@ -9673,6 +9960,10 @@ opbomert
 opboordert	
 opborrelert	
 opborstelert	
+opbotsen	
+opbotst	
+opbotste	
+opbotsten	
 opbouwert	
 opbradert	
 opbrandert	
@@ -10163,6 +10454,8 @@ o-ring	O-ring
 orkestreerdert	
 orleans	Orleans
 ornamenteerdert	
+oscarwinnaar	Oscarwinnaar
+Oscar-winnaar	Oscarwinnaar
 oscilleerdert	
 otteerdert	
 oudeman	oude man;Oudeman
@@ -10284,7 +10577,7 @@ overpotert
 overpratert	
 overprikkelert	
 overreageerdert	
-overreageerd	overreageert;vergereageerd
+overreageerd	overreageert;overgereageerd
 overredert	
 overreikert	
 overrijdert	
@@ -10492,9 +10785,16 @@ paswoordgegevens	wachtwoordgegevens
 patenteerdert	
 paternosteerdert	
 patiënce	patience
+patientiewerken	patiëntiewerken
+patientiewerk	patiëntiewerk
 patientjes	patiëntjes
+patientmateriaal	patiëntmateriaal
 patineerdert	
 pati	patiënt
+patisserieen	patisserieën
+patjepeeer	patjepeeër
+patjepeeers	patjepeeërs
+patjepeër	patjepeeër
 patroneerdert	
 patroniseerdert	
 patrouilleerdert	
@@ -10542,6 +10842,7 @@ penselert
 pensioneerdert	
 pé	pee
 pepeerdert	
+peperboompjess	peperboom
 percipieerdert	
 percoleerdert	
 percuteerdert	
@@ -10588,6 +10889,7 @@ phytophtora	phytophthora;fytoftora
 Phytophtora	phytophthora;fytoftora
 pianospelert	
 picknickert	
+pictograms	pictogrammen
 pie`ce	pièce
 pie`ces	pièce
 pieerdert	
@@ -10722,7 +11024,6 @@ plukhaardert
 plukkert	
 plumeau's	plumeaus
 plundeerdert	
-plussert	
 pocheerdert	
 pochert	
 poedeerdert	
@@ -10775,7 +11076,15 @@ politiecorpsen	politiekorpsen
 politiecorps	politiekorps
 politieen	politie en
 politie-functionarissen	politiefunctionarissen
+politiehelicopter	politiehelikopter
+politiehelicopters	politiehelikopters
+politiek-correcten	politiek correcten
+politiek-correcte	politiek correcte
+politiekcorrecte	politiek correcte
 politiek-correct	politiek correct
+politiekcorrect	politiek correct
+politiek-incorrecte	politiek incorrecte
+politiek-incorrect	politiek incorrect
 politie-officieren	politieofficieren
 politie-officier	politieofficier
 politie-onderdelen	politieonderdelen
@@ -10822,6 +11131,7 @@ portemonee	portemonnee
 portomonee	portemonnee
 portomonnee	portemonnee
 portretteerdert	
+porum	porem
 poseerdert	
 positioneerdert	
 postdateerdert	
@@ -10865,6 +11175,7 @@ precipiteerdert
 preciseerdert	
 predestineerdert	
 prediceerdert	
+predikantencorps	predikantenkorps
 predikert	
 predisponeerdert	
 predomineerdert	
@@ -10899,6 +11210,7 @@ prevaleerdert
 prevelert	
 priegelert	
 priemert	
+priempjess	priempjes
 prijkert	
 prijsgevert	
 prijske	prijsje
@@ -10970,17 +11282,32 @@ prostitueerdert
 protegeerdert	
 protesteerdert	
 protocolleerdert	
+protozoon	protozoön
 protsert	
 proviandeerdert	
+providentiele	providentiële
+provinciale staten	Provinciale Staten
+provincieën	provinciën
+provisoor	provisoir
 provisore	provisoir
 provoceerdert	
+prozaisch	prozaïsch
+prozaisten	prozaïsten
+prozaist	prozaïst
+pruderieen	pruderieën
 pruilert	
+pruimendant	pruimedant
+pruimen-eau-de-vie	pruimeneau-de-vie
 pruimert	
+pruimpjess	pruimpjes
 prularia	prullaria
 prutsert	
 pruttelert	
+przwalskypaard	przewalskipaard
 psalmeerdert	
+psalmodieen	psalmodieën
 psalmodieerdert	
+psalmodieren	psalmodiëren
 pseudointellectueel	pseudo-intellectueel
 pseudointellectuele	pseudo-intellectuele
 pseudo-weduwen	pseudoweduwen
@@ -11039,23 +11366,55 @@ PVV-er	PVV'er
 pvv-ers	PVV'ers
 pvv'ers	PVV'ers
 PVV-ers	PVV'ers
+pyramiden	piramiden
+pyramide	piramide
+pyramidespel	piramidespel
+pyramides	piramides
 quadrilleerdert	
 quadrupleerdert	
+qualiteit	kwaliteit
+quanta	kwanta
+quantumfysica	kwantumfysica
 quantum	kwantum
+quantummechanica	kwantummechanica
+quantummechanische	kwantummechanische
+quantummechanisch	kwantummechanisch
+quarantaine-arts	quarantainearts
+quartz	kwarts
+quasi-authentiek	quasiauthentiek
 quasi-diepzinnige	quasidiepzinnige
+quasi-nonchalant	quasinonchalant
+quasi-wetenschappelijk	quasiwetenschappelijk
+quat	qat
+quatrocento	quattrocento
+Queen-Annestijl	Queen Annestijl
 Querido`s	Querido's
+queries	query's
 queruleerdert	
+questen	queesten
+queste	queeste
 questie	kwestie
+questionaire	questionnaire
 quest	queeste;Quest
+queueen	queueën
 queueërt	
+queuen	queueën
+quiche loraine	quiche lorraine
+quietisme	quiëtisme
 Quijote	Quichot
+quintessence	kwintessens
+quintessens	kwintessens
 quint	kwint
 quite	quitte
 quizen	quizzen
+quiz master	quizmaster
 quiz-vraag	quizvraag
 quizzes	quizzen
 quizz	quiz
+quoka	quokka
+quootje	quoteje
 quoteerdert	
+quotienten	quotiënten
 quotient	quotiënt
 quotiseerdert	
 qwerty	
@@ -11184,6 +11543,7 @@ rechtevenredig	recht evenredig
 rechthoudert	
 rechtmakert	
 rechtoe	rechttoe
+rechtsextremisme	rechts-extremisme
 rechtsextremisten	rechts-extremisten
 rechtsextremistische	rechts-extremistische
 rechtsextremistisch	rechts-extremistisch
@@ -11407,6 +11767,7 @@ restaureerdert
 resteerdert	
 restert	
 restitueerdert	
+restoreren	restaureren
 restylert	
 resulteerdert	
 resumeerdert	
@@ -11436,6 +11797,7 @@ revisieïnformatie	revisie-informatie
 revitaliseerdert	
 revolteerdert	
 revolutioneerdert	
+rhetorische	retorische
 rhinoplastiek	rinoplastiek
 rhododendron	rododendron
 rhododendrons	rododendrons
@@ -11685,6 +12047,7 @@ ruimtevaarttuigen	ruimtevaartuigen
 ruimtevaarttuig	ruimtevaartuig
 ruïneerdert	
 ruisert	
+ruitercorps	ruiterkorps
 ruiterskorps	ruiterkorps
 ruitert	
 ruivert	
@@ -11692,6 +12055,7 @@ ruizelert
 rukkert	
 rummikub	Rummikub
 rumoeerdert	
+rundervlees	rundvlees
 runnert	
 russificeerdert	
 rustert	
@@ -11779,6 +12143,7 @@ samuraiklasse	samoeraiklasse
 samurai	samoerai
 samuraizwaard	samoeraizwaard
 sanctioneerdert	
+'s anderedaags	's anderendaags
 saneerdert	
 sangen	Sangen
 sappeerdert	
@@ -11856,6 +12221,7 @@ scheidsrechteerdert
 scheldert	
 schelert	
 schellert	
+schelmpjess	schelmpjes
 schematiseerdert	
 schemeerdert	
 schendert	
@@ -11864,6 +12230,7 @@ schen	schenk;schend
 schepert	
 scheppert	
 schermert	
+schermpjess	schermpjes
 schermutselert	
 scherpert	
 scherpstellert	
@@ -11978,6 +12345,7 @@ schuilgaart
 schuilhoudert	
 schuimbekkert	
 schuimert	
+schuimpjess	schuimpjes
 schuinert	
 schuitjevaardert	
 schuivert	
@@ -11985,6 +12353,7 @@ schulpert
 schurkert	
 schutgoot	schudgoot
 schutteerdert	
+schutterscorps	schutterskorps
 schuurdert	
 schuwert	
 schwa	
@@ -12111,6 +12480,7 @@ simplificeerdert
 simuleerdert	
 singelert	
 sin	in
+Sint-	
 sint-bernardhonden	sint-bernardshonden
 sint-bernardhondje	sint-bernardshondje
 sint-bernardhondjes	sint-bernardshondjes
@@ -12120,7 +12490,6 @@ sint-bernhardhondje	sint-bernardshondje
 sint-bernhardhondjes	sint-bernardshondje
 sint-bernhardhond	sint-bernardshond
 sinteerdert	
-Sint-	Sint-Maarten;Sint Maarten;Sint-Niklaas;Sint-Willibrorduskerk
 sissert	
 situeerdert	
 sjabloneerdert	
@@ -12245,6 +12614,7 @@ smokkelert
 smokkert	
 smoordert	
 s`morgens	's morgens
+'s morgensvroeg	's morgens vroeg
 smotsert	
 smousert	
 smoutert	
@@ -12309,6 +12679,7 @@ snuisteerdert
 snuitert	
 snuivert	
 snurkert	
+Sobibor	Sobibór
 sociaal-economi-	
 sociaalethische	sociaal-ethische
 sociaalethisch	sociaal-ethisch
@@ -12362,6 +12733,7 @@ sovjetiseerdert
 sovjetmacht	Sovjetmacht
 sovjetperiode	Sovjetperiode
 sovjetregime	Sovjetregime
+Sovjet-socialisme	Sovjetsocialisme
 sovjetstaat	Sovjetstaat
 spaardert	
 spaceship	ruimtevaartuig
@@ -12422,6 +12794,7 @@ spijtert
 spijzert	
 spijzigert	
 spikkelert	
+spilgemeeenten	spilgemeenten
 spilkoersert	
 spillert	
 spinnenrag	spinrag
@@ -12644,6 +13017,8 @@ strakkies	straks
 straktrekkert	
 stralert	
 strandert	
+strategieen	strategieën
+strategien	strategieën
 streakert	
 strekkert	
 strelert	
@@ -12657,6 +13032,7 @@ stretchert
 strevert	
 stribbelert	
 striemert	
+striempjess	striempjes
 strijdert	
 strijkert	
 strikkert	
@@ -12674,6 +13050,7 @@ strossert
 strubbelert	
 structureerdert	
 struikelert	
+struikwaard	Struikwaard
 struinert	
 studeerdert	
 studentenkorpsen	studentencorpsen
@@ -12774,6 +13151,7 @@ tai-chiërt
 tailleerdert	
 takelert	
 takert	
+takkenwijf	takkewijf
 takkert	
 talert	
 taliërt	
@@ -12785,6 +13163,7 @@ talmud	Talmoed
 Talmud	Talmoed
 taluuds	taluds
 tamboeerdert	
+tamboercorps	tamboerkorps
 tamboereerdert	
 tamboermaître	tambour-maître
 tampert	
@@ -12794,6 +13173,7 @@ tandenpoetsert
 tandert	
 tandpijnert	
 tanert	
+tankcorps	tankkorps
 tankert	
 tantaliseerdert	
 tapert	
@@ -13090,6 +13470,7 @@ thuya's	thuja's
 tichelert	
 Ticketbox	TicketBox
 tieerdert	
+tien-jarige	tienjarige
 tiërceerdert	
 tierelieerdert	
 tie-wraps	tiewraps
@@ -13306,6 +13687,7 @@ tongert
 tongzoenert	
 tonnert	
 tooiert	
+toompjess	toompjes
 toonzettert	
 toornert	
 toostert	
@@ -13392,6 +13774,7 @@ trappert
 traps	
 trasseerdert	
 trassert	
+traumahelicopter	traumahelikopter
 traumatiseerdert	
 traverseerdert	
 travert	
@@ -13492,6 +13875,7 @@ tv-kijkert
 tv-programma`s	tv-programma's
 tw	
 twaalfeneenhalfjarig	
+twaalf-jarige	twaalfjarige
 twee-aderige	tweeaderige
 twee-aderig	tweeaderig
 twee-armige	tweearmige
@@ -13504,8 +13888,15 @@ Tweede Kamer-leden	Tweede Kamerleden
 Tweede-Kamer-leden	Tweede Kamerleden
 Tweedekamer	Tweede Kamer
 tweede-kansonderwijs	tweedekansonderwijs
+tweeendertig	tweeëndertig
 twee-en-een-half	twee en een half
+tweeeneenhalf	twee en een half
 tweeëneenhalf	tweeënhalf
+tweeeneenhalve	twee en een halve
+tweeenhalf	tweeënhalf
+tweeen	tweeën
+tweeentwintig	tweeëntwintig
+twee-jarige	tweejarige
 tweeliter	tweeliter-
 tweetraps	
 tweeverblijvers	tweedeverblijvers
@@ -14058,6 +14449,7 @@ ukkies	ukjes
 ulcussen	ulcera
 UML-klassediagrammen	UML-klassendiagrammen
 UML-klassediagram	UML-klassendiagram
+Unesco	UNESCO
 UNESCO	Unesco
 UNICEF	Unicef
 unieerdert	
@@ -14103,6 +14495,7 @@ vaceerdert
 vacuüm verpakt	vacuümverpakt
 vadeerdert	
 vademert	
+vaders kant	vaderskant
 vagebondeerdert	
 vagert	
 vakantie-activiteiten	vakantieactiviteiten
@@ -14225,12 +14618,14 @@ veeltoegepaste	veel toegepaste
 veende	
 veenden	
 veerdert	
+veertig-plussers	veertigplussers
 veestert	
 vegert	
 vegeteerdert	
 veilert	
 veiligheidlekken	veiligheidslekken
 veiligheidregio's	veiligheidsregio's
+veiligheidscorps	veiligheidskorps
 veiligstellert	
 veinzert	
 veken	velen
@@ -14684,8 +15079,9 @@ vermurwert
 vernaaiert	
 vernachelert	
 vernachtert	
-vernagelert	
-vernaggelert	
+vernaggeld	vernacheld
+vernaggelen	vernachelen
+vernaggelt	vernachelt
 vernauwert	
 vernedeerdert	
 vernederlandsert	
@@ -14758,7 +15154,6 @@ verrassert
 verrechtsert	
 verrechtvaardigert	
 verregenert	
-verreikert	
 verreizert	
 verrekenert	
 verrekkert	
@@ -15166,13 +15561,16 @@ vierendelert
 vier-en-een-half	vier en een half
 vierkantert	
 vierliter	vierlitermotor
+vierschansentoernooi	Vierschansentoernooi
 viertraps	
 viezevazert	
 vigeerdert	
 vigileerdert	
 vij	bij
 vijfen	vijven
+vijf-jarige	vijfjarige
 vijfsterren	vijf sterren
+vijftig-plussers	vijftigplussers
 vijftraps	
 vijlert	
 vijzelert	
@@ -15226,6 +15624,7 @@ vlettert
 vlezert	
 vliedert	
 vliegeerdert	
+vliegerscorps	vliegerskorps
 vliegezwam	vliegenzwam
 vlietert	
 vlijert	
@@ -15507,6 +15906,7 @@ voorwendert
 voorwerkert	
 voorwerpert	
 voorzeggert	
+voorzetraampjess	voorzetraampjes
 voorzettert	
 voorzicht	voorzichtig
 voorziert	
@@ -15519,6 +15919,7 @@ voostel	voorstel
 vordeerdert	
 vormert	
 vormgevert	
+vormpjess	vormpjes
 vorsert	
 vos-cursussen	voscursussen
 vos-cursus	voscursus
@@ -15529,6 +15930,7 @@ votes	stemmen
 vouwert	
 vozert	
 vragert	
+vredescorps	vredeskorps
 vreemdgaart	
 vretert	
 vrezert	
@@ -15536,6 +15938,7 @@ vriende	vrienden
 vriesdrogert	
 vriezert	
 vrijbuitert	
+vrijcorps	vrijkorps
 vrijert	
 vrijescholen	vrije scholen
 vrijeschool	vrije school
@@ -15561,6 +15964,7 @@ vrijvechtert
 vrijverklaardert	
 vrijwaardert	
 vrijwielert	
+vrijwilligerscorps	vrijwilligerskorps
 vrolijkhijd	vrolijkheid
 vroos	vroor
 vrouwlijke	vrouwelijke
@@ -15600,6 +16004,8 @@ waarempel	warempel
 waarmakert	
 waarmerkert	
 waarnemert	
+waaromvraag	waarom-vraag
+waaromvragen	waarom-vragen
 waaròm	waaróm
 waarrempel	warempel
 waarschijlijk	waarschijnlijk
@@ -15624,6 +16030,7 @@ wallebakkert
 wallert	
 wallonnes	Waals
 walmert	
+walmpjess	walmpjes
 walsert	
 wammert	
 wanboffert	
@@ -15662,11 +16069,14 @@ wateerdert
 watercypres	watercipres
 waterfietsert	
 watergolvert	
+waterleidingsnet	waterleidingnet
 waterpassert	
 waterskiërt	
 watertandert	
 watertrappert	
 watteerdert	
+watvraag	wat-vraag
+watvragen	wat-vragen
 -wat	wat
 wauwelert	
 weaknesses	zwakheden
@@ -15766,6 +16176,7 @@ weghakkert
 weghalert	
 weghangert	
 weghebbert	
+wegheeft	weg heeft
 weghelpert	
 weghollert	
 weghonert	
@@ -16021,6 +16432,7 @@ wisselert
 wissert	
 wittert	
 witwassert	
+WMO-loket	Wmo-loket
 Wob-ambtenaren	WOB-ambtenaren
 Wob-informatie	WOB-informatie
 Wob-procedure	WOB-procedure
@@ -16103,8 +16515,10 @@ yak	jak
 yakmest	jakmest
 yaks	jaks
 yankee-Engels	Yankee-Engels
+yan	yang;Yan
 yellert	
 ye	te
+ying	yin
 youtube	YouTube
 yvonne	Yvonne
 zaaaaaalig	zálig
@@ -16115,13 +16529,16 @@ zaakske	zaakje
 zabbeerdert	
 zabbelert	
 zadelert	
-zagert	
-zakdoekje-leggen	zakdoekjeleggen
+zagert	zager
+zakdoekje-leggen	zakdoekje leggen
+zakdoekjeleggen	zakdoekje leggen
+zakdoekleggen	zakdoek leggen
 zakkenvullert	
 zakkert	
 zakskes	zakjes
 zakske	zakje
 zaligert	
+zalmpjess	zalmpjes
 zalvert	
 -zal	zal
 zamelert	
@@ -16148,6 +16565,7 @@ zeeëgeltje	zee-egeltje
 zeeëgel	zee-egel
 zééér	zéér
 zeefdrukkert	
+zeempjess	zeempjes
 zeepmerkert	
 zeergeëerde	zeer geëerde
 zeergeëerd	zeer geëerd
@@ -16189,6 +16607,7 @@ zeulert
 zeuurdert	
 zeveerdert	
 zeven-en-een-half	zeven en een half
+zeventien-jarige	zeventienjarige
 zeventraps	
 zichtert	
 ziedert	
@@ -16230,11 +16649,11 @@ z`n	z'n
 zodadelijk	zo dadelijk
 zodan	zoals
 zoekbrengert	
-zoekert	
+zoekert	zoeker
 zoekmakert	
 zoekrakert	
-zoemert	
-zoenert	
+zoemert	zoemer
+zoenert	zoener
 zoetert	
 zoetvijlert	
 zoëven	zo-even
@@ -16258,6 +16677,7 @@ zo`n	zo'n
 Zo`n	Zo'n
 zoodoende	zodoende
 zoomert	
+zoompjess	zoompjes
 zooöloog	zoöloog
 zoooooooooooo	zó
 zooooooooooo	zó
@@ -16296,8 +16716,8 @@ Zò	Zó
 zuchtert	
 -zuid	
 zuidelijkert	
-zuigert	
-zuipert	
+zuigert	zuiger
+zuipert	zuiper
 zuiveerdert	
 zullert	
 Zululand	Zoeloeland
@@ -16321,7 +16741,7 @@ zwartwerkert
 zwatelert	
 zwavelert	
 zwedert	
-zweefvliegert	
+zweefvliegert	zweefvlieger
 zweerdert	
 zweers	Zweers;zwerend
 zwelden	zwollen
@@ -16330,20 +16750,20 @@ zwelert
 zwelgert	
 zwellert	
 zwemert	
-zwemmert	
+zwemmert	zwemmer
 zwendelert	
 zwengelert	
 zwenkert	
 zwepert	
 zwermert	
 zwermpjess	zwermpjes
-zwervert	
+zwervert	zwerver
 zwetert	
 zwetsert	
-zwevert	
+zwevert	zwever
 zwichtert	
 zwieerdert	
-zwiepert	
+zwiepert	zwieper
 zwijgert	
 zwijmelert	
 zwijmert	

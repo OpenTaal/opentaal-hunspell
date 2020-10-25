@@ -29,18 +29,39 @@ van deze spellingcontrole niet meer van toepassing zijn.
 
 ## Inhoud
 
-TODO
-
-
-## Scripts en directories
-
 In de directorie `scripts` zijn een aantal scripts te vinden voor het
 analyseren en ontwikkelen van een nieuwe spellingcontrole. Deze scripts moeten
 vanuit die directorie worden gerunt.
 
+### Download
+
 Het script `1-download.sh` haalt de laatste exports van de database op en slaat
-die op in de directorie `downloads`. Daar komen ook de spellingcontrole en de
-woordenlijst van versie 2.1 te staan.
+die op in de directorie `downloads`. Dit zijn de bestanden:
+- [downloads/archaic.tsv](downloads/archaic.tsv) (archaïsch), deze woorden zijn die nog wel
+gebruikt worden, alle zitten in de woordenlijst
+- [downloads/outdated.tsv](downloads/outdated) (ouderwets), deze woorden worden zeer
+zelden nog gebruikt, sommige zitten nog in de woordenlijst, sommige niet meer
+- [downloads/obsolete.tsv](downloads/obsolete.tsv) (ongebruik), deze woorden zijn in
+ongebruik geraakt, sommige zitten nog in de woordenlijst (weeuw), sommige niet
+meer (arre) en sommige zijn fout omdat er een andere spelling van is (pannekoek)
+of een ander woord voor is plaats is gekomen (chocozoen)
+- [downloads/nosuggest.txt](downloads/nosuggest.txt), deze woorden mogen niet
+als suggestie gegeven worden
+- [downloads/objectionable.txt](downloads/objectionable.txt) (verwerpelijk), deze woorden zijn
+verwerpelijk omdat ze (buiten de studie naar dit woord) ze als discriminerend of
+rasicstisch worden ervaren
+en door de sameleving niet meer getollereerd worden
+- [downloads/excluded.txt](downloads/excluded.txt), deze woorden moeten worden
+uitgeslten van de spellingcontrole omdat ze verwarrend zijn met een ander woord
+dat ook correct is en in de meeste gevallen dat woord bedoeld is
+
+In deze directorie komen ook de spellingcontrole en de woordenlijst van versie
+2.1 te staan. Dit zijn de bestanden:
+- [downloads/dutch](downloads/dutch)
+- [downloads/nl.aff](downloads/nl.aff)
+- [downloads/nl.dic](downloads/nl.dic)
+
+### Parts
 
 In de directorie `parts` staan de bestanden die samen met inhoud van de
 bestanden in de directorie `input` staan door het script `2-combine.sh` worden
