@@ -95,6 +95,7 @@
 2-jarige	2-jarig
 2-jarigen	2-jarige
 30+'ers	30+'er
+30+-fuiven	30+-fuif
 30-jarige	30-jarig
 30-jarigen	30-jarige
 30 kilometergebieden	30 kilometergebied
@@ -250,12 +251,14 @@
 9-jarige	9-jarig
 9-jarigen	9-jarige
 A1-locaties	A1-locatie
+A3's	A3
 A3'tje	A3
 A3'tjes	A3
 A4'tje	A4
 A4'tjes	A4
 A5'je	A5
 A5'jes	A5
+A5's	A5
 Aads	Aad
 Aafjes	Aafje
 Aafkes	Aafke
@@ -387,6 +390,8 @@ aandachtsstrepen	aandachtsstreep
 aandachtstrainingen	aandachtstraining
 aandachtstrekkers	aandachtstrekker
 aandachttrekkend	aandachttrekken
+aandachttrekkende	aandachttrekkend
+aandachttrekkendste	aandachttrekkend
 aandaken	aandak
 aandam	aandammen
 aandeden	aandoen
@@ -482,6 +487,10 @@ aaneengroei	aaneengroeien
 aaneengroeide	aaneengroeien
 aaneenhing	aaneenhangen
 aaneenklonk	aaneenklinken
+aaneenknoop	aaneenknopen
+aaneenknoopt	aaneenknopen
+aaneenplak	aaneenplakken
+aaneenplakt	aaneenplakken
 aaneenreeg	aaneenrijgen
 aaneenrijg	aaneenrijgen
 aaneenschakel	aaneenschakelen
@@ -490,6 +499,8 @@ aaneenschreef	aaneenschrijven
 aaneensluitend	aaneensluiten
 aaneensluitende	aaneensluiten
 aaneensmeedden	aaneensmeden
+aaneenvoeg	aaneenvoegen
+aaneenvoegde	aaneenvoegen
 aaneenvoegden	aaneenvoegen
 aanfiets	aanfietsen
 aanfietsten	aanfietsen
@@ -1321,6 +1332,7 @@ aardoliemaatschappijen	aardoliemaatschappij
 aardolieprijzen	aardolieprijs
 aardolieproducten	aardolieproduct
 aardperen	aardpeer
+aardrijken	aardrijk
 aardrupsen	aardrups
 aardschokken	aardschok
 aardse	aards
@@ -1375,6 +1387,7 @@ abc-boekje	abc-boek
 abcessen	abces
 abc's	abc
 abc'tje	abc
+abc'tjes	abc
 Abdallahs	Abdallah
 Abdelaziz'	Abdelaziz
 Abdelkaders	Abdelkader
@@ -1576,6 +1589,7 @@ achterbuurtkindje	achterbuurtkind
 achterbuurtkindjes	achterbuurtkind
 achterbuurvrouwen	achterbuurvrouw
 achterdekken	achterdek
+achterdeklagen	achterdeklaag
 achterdeuren	achterdeur
 achterdeurtje	achterdeur
 achterdeurtjes	achterdeur
@@ -1663,6 +1677,7 @@ achteroverdrukten	achteroverdrukken
 achterovergedrukte	achteroverdrukken
 achteroverleunend	achteroverleunen
 achteroverleunende	achteroverleunen
+achteroversloeg	achteroverslaan
 achteroverviel	achterovervallen
 achterpagina's	achterpagina
 achterpassagiers	achterpassagier
@@ -2169,6 +2184,11 @@ afdammingen	afdamming
 afdeed	afdoen
 afdekbare	afdekbaar
 afdekkend	afdekken
+afdeklaagje	afdeklaag
+afdeklaagjes	afdeklaag
+afdeklagen	afdeklaag
+afdeklatten	afdeklat
+afdeklijsten	afdeklijst
 afdekte	afdekken
 afdekten	afdekken
 afdelingsbesturen	afdelingsbestuur
@@ -2447,6 +2467,7 @@ afgezwaaide	afzwaaien
 afgezwommen	afzwemmen
 Afghanen	Afghaan
 afgiften	afgifte
+afgifteprijzen	afgifteprijs
 afgiftes	afgifte
 afging	afgaan
 afgingen	afgaan
@@ -2503,6 +2524,7 @@ afhoudende	afhouden
 afhoudingen	afhouding
 afhuur	afhuren
 afhuurde	afhuren
+afigurale	afiguraal
 afjaag	afjagen
 afjaagde	afjagen
 afjoeg	afjagen
@@ -2546,6 +2568,8 @@ afklopten	afkloppen
 afkloven	afkluiven
 afknaagde	afknagen
 afknabbelden	afknabbelen
+afknal	afknallen
+afknalt	afknallen
 afknapten	afknappen
 afknepen	afknijpen
 afknijp	afknijpen
@@ -2644,9 +2668,18 @@ afmatte	afmatten
 afmattende	afmattend
 afmattender	afmattend
 afmattendste	afmattend
+afmeer	afmeren
 afmeerden	afmeren
+afmeerpalen	afmeerpaal
+afmeert	afmeren
+afmeervoorzieningen	afmeervoorziening
+afmeet	afmeten
+afmeld	afmelden
 afmeldde	afmelden
+afmeldden	afmelden
 afmeldingen	afmelden
+afmeldt	afmelden
+afmetingen	afmeting
 afmonsteringen	afmonsteren
 afnam	afnemen
 afnamecontracten	afnamecontract
@@ -3030,6 +3063,7 @@ aftuur	afturen
 aftuurde	afturen
 aftuurden	afturen
 aftyp	aftypen
+afunctionele	afunctioneel
 afvaar	afvaren
 afvaardig	afvaardigen
 afvaardigde	afvaardigen
@@ -3364,6 +3398,8 @@ Ajax-supporters	Ajax-supporter
 ajoursteken	ajoursteek
 ajuinachtige	ajuinachtig
 ajuintje	ajuin
+A-junioren	A-junior
+A-juniors	A-junior
 akela's	akela
 akeliger	akelig
 akeligere	akelig
@@ -3435,6 +3471,7 @@ Albina's	Albina
 Albinezen	Albinees
 albino's	albino
 Albions	Albion
+Alblasserwaardse	Alblasserwaards
 Albrandswaardse	Albrandswaards
 albumbladen	albumblad
 albumpjes	album
@@ -3593,6 +3630,8 @@ alleseters	alleseter
 allesoverheersende	allesoverheersend
 allesoverkoepelende	allesoverkoepelend
 allesoverstijgende	allesoverstijgend
+allesvernietigende	allesvernietigend
+allesvernietigendste	allesvernietigend
 allesverwoestende	allesverwoestend
 allesverzengende	allesverzengend
 alliages	alliage
@@ -4224,6 +4263,7 @@ antiterrorismewetten	antiterrorismewet
 antiterroristische	antiterroristisch
 antithesen	antithese
 antithetische	antithetisch
+antivirusbedrijven	antivirusbedrijf
 antivirusprogramma's	antivirusprogramma
 antizionistische	antizionistisch
 Antjes	Antje
@@ -4264,6 +4304,7 @@ antwoordkaarten	antwoordkaart
 antwoordkaartje	antwoordkaart
 antwoordmodellen	antwoordmodel
 antwoordmogelijkheden	antwoordmogelijkheid
+A-nummers	A-nummer
 ANVR-reisbureaus	ANVR-reisbureau
 Anwars	Anwar
 ANWB-palen	ANWB-paal
@@ -4669,6 +4710,8 @@ armenwijken	armenwijk
 armetieriger	armetierig
 Armins	Armin
 armklemmen	armklem
+armleuninkje	armleuning
+armleuninkjes	armleuning
 armoedeprobleemcumulatiegebieden	armoedeprobleemcumulatiegebied
 armoedeproblemen	armoedeprobleem
 armoederisico's	armoederisico
@@ -4962,6 +5005,7 @@ ATB's	ATB
 atelierbezoeken	atelierbezoek
 ateliers	atelier
 ateliertje	atelier
+atemporele	atemporeel
 aten	eten
 Ates	Ate
 athematische	athematisch
@@ -7223,6 +7267,7 @@ belastingkantoren	belastingkantoor
 belastingkortingen	belastingkorting
 belastingkredieten	belastingkrediet
 belastingkwesties	belastingkwestie
+belastingmisdrijven	belastingmisdrijf
 belastingniveaus	belastingniveau
 belastingobjecten	belastingobject
 belastingontduikende	belastingontduikend
@@ -8893,6 +8938,7 @@ bijstuur	bijsturen
 bijtfouten	bijtfout
 bijtfoutje	bijtfout
 bijtfoutjes	bijtfout
+bijtgrage	bijtgraag
 bijtreed	bijtreden
 bijtwondje	bijtwond
 bijverzekerd	bijverzekeren
@@ -12402,6 +12448,8 @@ Dagmars	Dagmar
 dagmaten	dagmaat
 dagmeisjes	dagmeisje
 dagmenu's	dagmenu
+dagmenuutje	dagmenu
+dagmenuutjes	dagmenu
 dagmerken	dagmerk
 dagnummers	dagnummer
 dagopnamen	dagopname
@@ -13064,6 +13112,7 @@ dertienkoppige	dertienkoppig
 dertigers	dertiger
 dertigjarige	dertigjarig
 dertigjarigen	dertigjarige
+dertigplusfuiven	dertigplusfuif
 dertigplussers	dertigplusser
 desa's	desa
 desastreuze	desastreus
@@ -14970,6 +15019,8 @@ effectiever	effectief
 effectmetingen	effectmeting
 effectonderzoeken	effectonderzoek
 effectrapportages	effectrapportage
+effectvolle	effectvol
+effectvoller	effectvol
 effendi's	effendi
 efficiencyoverwegingen	efficiencyoverweging
 efficiencywinsten	efficiencywinst
@@ -15125,6 +15176,7 @@ Einsteins	Einstein
 eiproductenbedrijven	eiproductenbedrijf
 eisenpakketje	eisenpakket
 Eises	Eise
+eistadia	eistadium
 eiwitmoleculen	eiwitmolecuul;eiwitmolecule
 eiwitmolecules	eiwitmolecule
 eiwitpoeders	eiwitpoeder
@@ -15526,6 +15578,7 @@ epistemologische	epistemologisch
 epitheta	epitheton
 Eppo's	Eppo
 EQ-testen	EQ-test
+Equatoriaal-Guinese	Equatoriaal-Guinees
 equipages	equipage
 era's	era
 Era's	Era
@@ -16216,6 +16269,8 @@ fantasia's	fantasia
 fantasieloze	fantasieloos
 fantasierijker	fantasierijk
 fantasieverhaaltjes	fantasieverhaal
+fantasievolle	fantasievol
+fantasievoller	fantasievol
 fantasiewereldje	fantasiewereld
 fantastische	fantastisch
 fantastischer	fantastisch
@@ -18153,6 +18208,7 @@ geneesmethodes	geneesmethode
 geneesmiddelenautoriteiten	geneesmiddelenautoriteit
 geneesmiddelenfabrikanten	geneesmiddelenfabrikant
 geneesmiddelenonderzoeken	geneesmiddelenonderzoek
+geneesmiddelenprijzen	geneesmiddelenprijs
 geneesmiddelenproducenten	geneesmiddelenproducent
 geneesmiddelinteracties	geneesmiddelinteractie
 geneesmiddeltjes	geneesmiddel
@@ -18201,6 +18257,8 @@ genoeglijker	genoeglijk
 genomineerd	nomineren
 genoomprojecten	genoomproject
 genoteerd	noteren
+genotvolle	genotvol
+genotvoller	genotvol
 genotypische	genotypisch
 genregulaties	genregulatie
 genreschilders	genreschilder
@@ -20011,6 +20069,7 @@ hardwareplatforms	hardwareplatform
 hardwareproblemen	hardwareprobleem
 hare krisjna's	hare krisjna
 harems	harem
+Harenkarspelse	Harenkarspels
 hariger	harig
 haringboeren	haringboer
 haringhaaien	haringhaai
@@ -21074,6 +21133,7 @@ horeca-achtige	horeca-achtig
 horeca-eigenaren	horeca-eigenaar
 horeca-exploitanten	horeca-exploitant
 horeca-inrichtingen	horeca-inrichting
+horecaprijzen	horecaprijs
 horeca-uitbaters	horeca-uitbater
 horizontalistische	horizontalistisch
 horlogebanden	horlogeband
@@ -21600,6 +21660,7 @@ ideaaltypische	ideaaltypisch
 idealiserend	idealiseren
 idealistische	idealistisch
 idealistischer	idealistisch
+ideeëloze	ideeëloos
 identificeerbare	identificeerbaar
 identiteitsconstructies	identiteitsconstructie
 identiteitsdiefstallen	identiteitsdiefstal
@@ -22340,6 +22401,8 @@ instamp	instampen
 instandhoudingsdoelen	instandhoudingsdoel
 instandhoudingsdoelstellingen	instandhoudingsdoelstelling
 instandhoudingsverklaringen	instandhoudingsverklaring
+instantaans	instantaan
+instantane	instantaan
 instantanés	instantané
 instapmodellen	instapmodel
 instapmodelletje	instapmodel
@@ -22681,6 +22744,7 @@ iPods	iPod
 I-profielen	I-profiel
 Iqra's	Iqra
 IQ-testen	IQ-test
+Irakese	Irakees
 Irakezen	Irakees
 Ira's	Ira
 Ireens	Ireen
@@ -22953,6 +23017,7 @@ Japkes	Japke
 Jaquelines	Jaqueline
 Jara's	Jara
 Jareds	Jared
+jarendertighuizen	jarendertighuis
 Jarichs	Jarich
 jarige	jarig
 jarigen	jarige
@@ -23741,7 +23806,11 @@ kanskaartjes	kanskaart
 kansloze	kansloos
 kanslozer	kansloos
 kansmodellen	kansmodel
+kansrijke	kansrijk
+kansrijken	kansrijke
+kansrijkere	kansrijk
 kansrijker	kansrijk
+kansrijkste	kansrijk
 kansspelletjes	kansspel
 kansteams	kansteam
 kantelbare	kantelbaar
@@ -24720,7 +24789,12 @@ kleurnummers	kleurnummer
 kleuronderzoeken	kleuronderzoek
 kleurpotloodjes	kleurpotlood
 kleurprofielen	kleurprofiel
+kleurrijke	kleurrijk
+kleurrijkere	kleurrijk
 kleurrijker	kleurrijk
+kleurrijks	kleurrijk
+kleurrijkste	kleurrijk
+kleurrijkst	kleurrijk
 kleurruimtes	kleurruimte
 kleurschema's	kleurschema
 kleurslagen	kleurslag
@@ -24758,6 +24832,7 @@ klimaateffecten	klimaateffect
 klimaatgebieden	klimaatgebied
 klimaatinstallaties	klimaatinstallatie
 klimaatmodellen	klimaatmodel
+klimaatneutrale	klimaatneutraal
 klimaatonderhandelingen	klimaatonderhandeling
 klimaatonderzoekers	klimaatonderzoeker
 klimaatorganisaties	klimaatorganisatie
@@ -24880,6 +24955,7 @@ knalfeestje	knalfeest
 knalfeestjes	knalfeest
 knallend	knallen
 knalpijpen	knalpijp
+knalprijzen	knalprijs
 knapenkoren	knapenkoor
 knappend	knappen
 knapperend	knapperen
@@ -25866,6 +25942,9 @@ kwaliteitsverbeterende	kwaliteitsverbeterend
 kwaliteitsverhogende	kwaliteitsverhogend
 kwaliteitsverklaringen	kwaliteitsverklaring
 kwaliteitsverliezen	kwaliteitsverlies
+kwaliteitsvolle	kwaliteitsvol
+kwaliteitsvollere	kwaliteitsvol
+kwaliteitsvoller	kwaliteitsvol
 kwaliteitswerken	kwaliteitswerk
 kwaliteitszenders	kwaliteitszender
 kwaliteitszorgsystemen	kwaliteitszorgsysteem
@@ -26088,6 +26167,7 @@ landbouwmethodes	landbouwmethode
 landbouwmodellen	landbouwmodel
 landbouwontwikkelingsgebieden	landbouwontwikkelingsgebied
 landbouwpraktijken	landbouwpraktijk
+landbouwprijzen	landbouwprijs
 landbouwraden	landbouwraad
 landbouwspecialisten	landbouwspecialist
 landbouwstreken	landbouwstreek
@@ -26357,6 +26437,7 @@ leeflonen	leefloon
 leefmilieueffecten	leefmilieueffect
 leefplaatsen	leefplaats
 leefregeltje	leefregel
+leeftijdloost	leeftijdloos
 leeftijdloze	leeftijdloos
 leeftijdsafhankelijke	leeftijdsafhankelijk
 leeftijdscorrecties	leeftijdscorrectie
@@ -28762,6 +28843,8 @@ mediterraans	mediterraan
 medleys	medley
 medusa's	medusa
 Medy's	Medy
+meeaten	mee-eten
+meeat	mee-eten
 meebepalende	meebepalen
 meebepalend	meebepalen
 meebrengende	meebrengen
@@ -28804,6 +28887,8 @@ meehelp	meehelpen
 meehielp	meehelpen
 meekeek	meekijken
 meekijkend	meekijken
+meeklinkt	meeklinken
+meeklonken	meeklinken
 meekomende	meekomen
 meekomend	meekomen
 meekwam	meekomen
@@ -28836,6 +28921,7 @@ meeondertekent	meeondertekenen
 meeouders	meeouder
 meepratende	meepraten
 meepratend	meepraten
+Meerbeekse	Meerbeeks
 meercijferige	meercijferig
 meerderheidsaandeelhouders	meerderheidsaandeelhouder
 meerderheidsaandelen	meerderheidsaandeel
@@ -28850,6 +28936,7 @@ meereis	meereizen
 meereizend	meereizen
 meergezinshuizen	meergezinshuis
 meergranenbroodje	meergranenbrood
+Meerhoutse	Meerhouts
 meerijdend	meerijden
 meerijd	meerijden
 meerij	meerijden
@@ -29237,6 +29324,7 @@ metaalkleuren	metaalkleur
 metaaloppervlakken	metaaloppervlak
 metaalplaatje	metaalplaat
 metaalpoeders	metaalpoeder
+metaalprijzen	metaalprijs
 metaalsoorten	metaalsoort
 metaalwerken	metaalwerk
 metaalwerkplaatsen	metaalwerkplaats
@@ -29427,6 +29515,8 @@ Miko's	Miko
 Miks	Mik
 mikwa's	mikwa
 Milaanse	Milaans
+Milanese	Milanees
+Milanezen	Milanees
 Milano's	Milano
 Milans	Milan
 Mila's	Mila
@@ -31106,6 +31196,7 @@ niet-acceptabele	niet-acceptabel
 niet-achterstandsleerlingen	niet-achterstandsleerling
 niet-aftrekbare	niet-aftrekbaar
 niet-agrarische	niet-agrarisch
+niet-agressieve	niet-agressief
 niet-alcoholische	niet-alcoholisch
 niet-Arabische	niet-Arabisch
 niet-arische	niet-arisch
@@ -31562,6 +31653,8 @@ oefenvrouwen	oefenvrouw
 oefenwedstrijdjes	oefenwedstrijd
 oefenzaaltje	oefenzaal
 oefenzalen	oefenzaal
+Oegandese	Oegandees
+Oegandezen	Oegandees
 Oegaritische	Oegaritisch
 Oekraïners	Oekraïner
 oelama's	oelama
@@ -32280,6 +32373,7 @@ ongemakkelijkheden	ongemakkelijkheid
 ongemanifesteerde	ongemanifesteerd
 ongemaskeerde	ongemaskeerd
 ongemener	ongemeen
+ongemodereerde	ongemodereerd
 ongemotiveerden	ongemotiveerde
 ongemotiveerde	ongemotiveerd
 ongemotoriseerden	ongemotoriseerde
@@ -32287,6 +32381,8 @@ ongenaakbare	ongenaakbaar
 ongenadiger	ongenadig
 ongeneeslijker	ongeneeslijk
 ongenietbare	ongenietbaar
+ongenodigde	ongenodigd
+ongenodigds	ongenodigd
 ongenuanceerder	ongenuanceerd
 ongepasteuriseerde	ongepasteuriseerd
 ongeproportioneerde	ongeproportioneerd
@@ -32601,6 +32697,7 @@ ontploffingsgevaarlijke	ontploffingsgevaarlijk
 ontploffinkjes	ontploffing
 ontploft	ontploffen
 ontpolderingen	ontpoldering
+ontraceerbare	ontraceerbaar
 ontradend	ontraden
 ontrefbare	ontrefbaar
 ontregelend	ontregelen
@@ -32824,6 +32921,7 @@ onverbuigbare	onverbuigbaar
 onverdedigbare	onverdedigbaar
 onverdeelbare	onverdeelbaar
 onverdienstelijke	onverdienstelijk
+onverdoofde	onverdoofd
 onverdraaglijker	onverdraaglijk
 onverenigbare	onverenigbaar
 onvergankelijker	onvergankelijk
@@ -32854,6 +32952,7 @@ onverstandiger	onverstandig
 onverstoorbare	onverstoorbaar
 onvertaalbare	onvertaalbaar
 onverteerbare	onverteerbaar
+onvertraagde	onvertraagd
 onvervangbare	onvervangbaar
 onvervreemdbare	onvervreemdbaar
 onvervulbare	onvervulbaar
@@ -34139,7 +34238,9 @@ pagara's	pagara
 pagina's	pagina
 paginatitels	paginatitel
 Paige'	Paige
+Pajottenlandse	Pajottenlands
 pakbare	pakbaar
+pakhuisbedrijven	pakhuisbedrijf
 pakira's	pakira
 Pakistanen	Pakistaan
 pakketdiensten	pakketdienst
@@ -34505,7 +34606,9 @@ pauzerend	pauzeren
 Pavels	Pavel
 pavloviaanse	pavloviaans
 pcb's	pcb
+pc's	pc
 pc'tje	pc
+pc'tjes	pc
 pdf-bestanden	pdf-bestand
 pdf-documenten	pdf-document
 pdf'je	pdf
@@ -34783,6 +34886,7 @@ petrochemische	petrochemisch
 petroleumgassen	petroleumgas
 petroleumkacheltje	petroleumkachel
 petroleumlichtje	petroleumlicht
+petroleumprijzen	petroleumprijs
 Petronella's	Petronella
 Petrus'	Petrus
 petsende	petsen
@@ -34911,6 +35015,7 @@ pigmentvlekjes	pigmentvlek
 Pijkes	Pijke
 pijlenkokers	pijlenkoker
 pijlinktvisjes	pijlinktvis
+pijlloze	pijlloos
 pijlvormiger	pijlvormig
 pijnbehandelingen	pijnbehandeling
 pijnbestrijdende	pijnbestrijdend
@@ -35164,6 +35269,7 @@ platliggend	platliggen
 platonische	platonisch
 platonischer	platonisch
 Plato's	Plato
+platribbige	platribbig
 plats du jour	plat du jour
 platste	plat
 plattegrondtekeningen	plattegrondtekening
@@ -35214,6 +35320,7 @@ plezierreisjes	plezierreis
 pleziertochtje	pleziertocht
 pleziertochtjes	pleziertocht
 plichtgetrouwe	plichtgetrouw
+plichtige	plichtig
 plichtsgetrouwe	plichtsgetrouw
 plintjes	plint
 plissés	plissé
@@ -35566,6 +35673,7 @@ posthouders	posthouder
 posthypnotische	posthypnotisch
 postideologische	postideologisch
 postimpressionistische	postimpressionistisch
+postinitiële	postinitieel
 postkaartje	postkaart
 postkaartjes	postkaart
 postkantoortjes	postkantoor
@@ -35864,6 +35972,7 @@ pro-Amerikaanse	pro-Amerikaans
 probabilistische	probabilistisch
 probeerseltjes	probeersel
 probleemanalyses	probleemanalyse
+probleembedrijven	probleembedrijf
 probleemgerichte	probleemgericht
 probleemkindje	probleemkind
 probleemkindjes	probleemkind
@@ -36260,6 +36369,7 @@ provisoria	provisorium
 provisorische	provisorisch
 provocatieve	provocatief
 provo's	provo
+prudentiële	prudentieel
 pruikjes	pruik
 pruillipjes	pruillip
 pruilmondje	pruilmond
@@ -36339,6 +36449,7 @@ publiciteitsstuntje	publiciteitsstunt
 publicrelationsbureaus	publicrelationsbureau
 publicrelationsmedewerkers	publicrelationsmedewerker
 publiekgerichte	publiekgericht
+publiek-private	publiek-privaat
 publieksgerichte	publieksgericht
 publieksjury's	publieksjury
 Pucks	Puck
@@ -36406,6 +36517,7 @@ puristische	puristisch
 puristischer	puristisch
 puriteinser	puriteins
 Purmerendse	Purmerend
+purperblauwe	purperblauw
 purschuimen	purschuim
 pushberichten	pushbericht
 pushende	pushen
@@ -37532,6 +37644,8 @@ reumavormen	reumavorm
 reünieconcerten	reünieconcert
 reusachtige	reusachtig
 reusachtiger	reusachtig
+reuzegrappige	reuzegrappig
+reuzegrappigs	reuzegrappig
 reuzemoppen	reuzemop
 reuzenmoppen	reuzenmop
 reuzenpanda's	reuzenpanda
@@ -37746,6 +37860,9 @@ rioolwaterzuiveringsinstallatielocaties	rioolwaterzuiveringsinstallatielocatie
 rioolwaterzuiveringsinstallaties	rioolwaterzuiveringsinstallatie
 rioolzuiveringsinstallaties	rioolzuiveringsinstallatie
 Rio's	Rio
+risicoaverse	risicoavers
+risicoaversies	risicoaversie
+risicobedrijven	risicobedrijf
 risicobeoordelingen	risicobeoordeling
 risicobronnen	risicobron
 risicodagen	risicodag
@@ -37890,6 +38007,7 @@ roestiger	roestig
 roestkleuriger	roestkleurig
 roestplekje	roestplek
 roestplekjes	roestplek
+roestrode	roestrood
 roestvlekjes	roestvlek
 roetfiltertje	roetfilter
 roetzwarte	roetzwart
@@ -38331,6 +38449,7 @@ Ruurds	Ruurd
 ruwaards	ruwaard
 ruziemakend	ruziemaken
 RWA-gemalen	RWA-gemaal
+Rwandese	Rwandees
 Rwandezen	Rwandees
 RWA-pompen	RWA-pomp
 RWZI-locaties	RWZI-locatie
@@ -40402,6 +40521,7 @@ sopropo's	sopropo
 Soraya's	Soraya
 sordino's	sordino
 Sörens	Sören
+sorteerbedrijven	sorteerbedrijf
 sorteercentra	sorteercentrum
 sorteerproeven	sorteerproef
 sorteersystemen	sorteersysteem
@@ -41101,6 +41221,7 @@ stadstorens	stadstoren
 stadstuintje	stadstuin
 stadsuitbreidingen	stadsuitbreiding
 stadsvernieuwingen	stadsvernieuwing
+stadsvervoerbedrijven	stadsvervoerbedrijf
 stadsvijvers	stadsvijver
 stadsvilla's	stadsvilla
 stadswagentjes	stadswagen
@@ -41299,6 +41420,7 @@ Steffy's	Steffy
 Stefs	Stef
 steigermaterialen	steigermateriaal
 Steijns	Steijn
+stekeblinde	stekeblind
 stekelbaarsjes	stekelbaars
 stekelhaartjes	stekelhaar
 stekeliger	stekelig
@@ -41869,6 +41991,7 @@ studentendagen	studentendag
 studentenfeestjes	studentenfeest
 studentenfeestje	studentenfeest
 studentenfilms	studentenfilm
+studentenfuiven	studentenfuif
 studentengroepen	studentengroep
 studentengroepje	studentengroep
 studentenhuisje	studentenhuis
@@ -42055,11 +42178,16 @@ succesauteurs	succesauteur
 succeservaringen	succeservaring
 succesjaren	succesjaar
 succespercentages	succespercentage
+succesrijken	succesrijke
 succesrijker	succesrijk
+succesrijke	succesrijk
+succesrijkste	succesrijk
 successierechtelijke	successierechtelijk
 successieve	successief
 successtory's	successtory
 succés	succes
+Sudanese	Sudanees
+Sudanezen	Sudanees
 Sues	Sue
 suffend	suffen
 suffiger	suffig
@@ -42131,6 +42259,7 @@ supernova's	supernova
 superposities	superpositie
 superprijzen	superprijs
 superrijke	superrijk
+superslechte	superslecht
 supersnelrechtzaken	supersnelrechtzaak
 supersonische	supersonisch
 supersportieve	supersportief
@@ -42140,6 +42269,7 @@ superstormen	superstorm
 supertalenten	supertalent
 supertijden	supertijd
 supertrio's	supertrio
+superverse	supervers
 superviserend	superviseren
 supervisies	supervisie
 supervisoren	supervisor
@@ -42749,6 +42879,7 @@ telefonieaanbieders	telefonieaanbieder
 telefoniebedrijven	telefoniebedrijf
 telefonienetten	telefonienet
 telefonienetwerken	telefonienetwerk
+telefonieprijzen	telefonieprijs
 telefonische	telefonisch
 telefoonboekjes	telefoonboek
 telefoonboekje	telefoonboek
@@ -42799,6 +42930,7 @@ televisieaansluitingen	televisieaansluiting
 televisieactiviteiten	televisieactiviteit
 televisieavonden	televisieavond
 televisiebazen	televisiebaas
+televisiebedrijven	televisiebedrijf
 televisiecamera's	televisiecamera
 televisiecommercials	televisiecommercial
 televisiedrama's	televisiedrama
@@ -42846,6 +42978,8 @@ temeriger	temerig
 tempelachtige	tempelachtig
 tempelbezoeken	tempelbezoek
 tempelterreinen	tempelterrein
+temperamentvoller	temperamentvol
+temperamentvolle	temperamentvol
 temperatuurmeters	temperatuurmeter
 temperatuurrecords	temperatuurrecord
 temperatuursensoren	temperatuursensor
@@ -43365,11 +43499,13 @@ tijdgenoten	tijdgenoot
 tijdgenotes	tijdgenote
 tijdiger	tijdig
 tijdintervallen	tijdinterval
+tijdinvariante	tijdinvariant
 tijdjes	tijd
 tijdklokje	tijdklok
 tijdkritische	tijdkritisch
 tijdlozer	tijdloos
 tijdloze	tijdloos
+tijdonafhankelijke	tijdonafhankelijk
 tijdperioden	tijdperiode
 tijdperiodes	tijdperiode
 tijdreizigers	tijdreiziger
@@ -43567,6 +43703,8 @@ toekomstgerichte	toekomstgericht
 toekomstprojecten	toekomstproject
 toekomstscenario's	toekomstscenario
 toekomstschetsen	toekomstschets
+toekomstvaster	toekomstvast
+toekomstvaste	toekomstvast
 toekomstvoorspellende	toekomstvoorspellend
 toekwam	toekomen
 toelaatbare	toelaatbaar
@@ -44206,6 +44344,9 @@ trimschema's	trimschema
 Trinity's	Trinity
 triomfalistische	triomfalistisch
 triomfantelijker	triomfantelijk
+triomfantelijke	triomfantelijk
+triomfantelijkste	triomfantelijk
+triomfante	triomfant
 triomfzuilen	triomfzuil
 trio's	trio
 Trio's	Trio
@@ -44244,11 +44385,29 @@ trompetterende	trompetteren
 trompetterend	trompetteren
 Tromps	Tromp
 troonswisselingen	troonswisseling
+troostbrieven	troostbrief
+troostelijke	troostelijk
+troosteloost	troosteloos
 troostelozer	troosteloos
 troosteloze	troosteloos
+troosteressen	troosteres
+troosters	trooster
+troostgronden	troostgrond
+troostliederen	troostlied
+troostmeisjes	troostmeisje
 troostprijsjes	troostprijs
 troostprijsje	troostprijs
+troostprijzen	troostprijs
+troostreden	troostrede
+troostredes	troostrede
 troostrijker	troostrijk
+troostrijke	troostrijk
+troostrijkste	troostrijk
+troostrijks	troostrijk
+troostten	troosten
+troostte	troosten
+troostvolle	troostvol
+troostwoorden	troostwoord
 tropenartsen	tropenarts
 tropenroosters	tropenrooster
 tropische	tropisch
@@ -44435,6 +44594,7 @@ tv-programma's	tv-programma
 tv-shows	tv-show
 tv-studio's	tv-studio
 tv's	tv
+tv'tjes	tv
 tv'tje	tv
 twaalfjarigen	twaalfjarige
 twaalfjarige	twaalfjarig
@@ -44466,6 +44626,7 @@ twee-eiige	twee-eiig
 tweeëndertigjarige	tweeëndertigjarig
 tweeënnegentigjarige	tweeënnegentigjarig
 tweeëntachtigjarige	tweeëntachtigjarig
+tweeëntachtigste	tweeëntachtig
 tweeëntwintigjarigen	tweeëntwintigjarige
 tweeëntwintigjarige	tweeëntwintigjarig
 tweeënveertigjarige	tweeënveertigjarig
@@ -44542,6 +44703,8 @@ ud's	ud
 ufologen	ufoloog
 ufootjes	ufo
 ufo's	ufo
+Ugandese	Ugandees
+Ugandezen	Ugandees
 ugli's	ugli
 Ugurs	Ugur
 uhd's	uhd
@@ -44943,6 +45106,7 @@ uitvretend	uitvreten
 uitwaaiende	uitwaaien
 uitwaaiend	uitwaaien
 uitwaai	uitwaaien
+uitwasbare	uitwasbaar
 uitweeg	uitwegen
 uitweidende	uitweiden
 uitweidend	uitweiden
@@ -44999,10 +45163,40 @@ uitzichtlozer	uitzichtloos
 uitzichtloze	uitzichtloos
 uitzichtpunten	uitzichtpunt
 uitzinniger	uitzinnig
+uitzochten	uitzoeken
+uitzocht	uitzoeken
+uitzoekt	uitzoeken
+uitzoek	uitzoeken
+uitzogen	uitzuigen
+uitzonden	uitzenden
+uitzonderden	uitzonderen
+uitzonderde	uitzonderen
+uitzonderingen	uitzondering
+uitzonderingsbepalingen	uitzonderingsbepaling
+uitzonderingsclausules	uitzonderingsclausule
+uitzonderingsgevallen	uitzonderingsgeval
+uitzonderingsgronden	uitzonderingsgrond
+uitzonderingsmaatregelen	uitzonderingsmaatregel
+uitzonderingsposities	uitzonderingspositie
 uitzonderingsregelingen	uitzonderingsregeling
+uitzonderingsregels	uitzonderingsregel
+uitzonderingssituaties	uitzonderingssituatie
+uitzonderingstoestanden	uitzonderingstoestand
 uitzonderingswetten	uitzonderingswet
+uitzonderlijkere	uitzonderlijk
 uitzonderlijker	uitzonderlijk
+uitzonderlijke	uitzonderlijk
+uitzonderlijkste	uitzonderlijk
+uitzonderlijkst	uitzonderlijk
+uitzonderlijks	uitzonderlijk
+uitzondert	uitzonderen
+uitzonder	uitzonderen
+uitzond	uitzenden
+uitzongen	uitzingen
+uitzong	uitzingen
 uitzoog	uitzuigen
+uitzoomt	uitzoomen
+uitzoom	uitzoomen
 uitzuig	uitzuigen
 uitzwaaiende	uitzwaaien
 uitzwaaiend	uitzwaaien
@@ -45273,6 +45467,7 @@ varkensmesterijen	varkensmesterij
 varkensoogjes	varkensoog
 varkenspootjes	varkenspoot
 varkenspootje	varkenspoot
+varkensprijzen	varkensprijs
 varkensribbetjes	varkensrib
 varkensschuren	varkensschuur
 varkenswangetjes	varkenswang
@@ -46011,6 +46206,7 @@ verkeersinfarcten	verkeersinfarct
 verkeersinfrastructuren	verkeersinfrastructuur
 verkeersintensiteiten	verkeersintensiteit
 verkeersmanagers	verkeersmanager
+verkeersmisdrijven	verkeersmisdrijf
 verkeersmodellen	verkeersmodel
 verkeersnetwerken	verkeersnetwerk
 verkeersonderzoeken	verkeersonderzoek
@@ -46242,6 +46438,7 @@ vermoeidheidsverschijnselen	vermoeidheidsverschijnsel
 vermoeiender	vermoeiend
 vermogensdichtheden	vermogensdichtheid
 vermogensgrenzen	vermogensgrens
+vermogensmisdrijven	vermogensmisdrijf
 vermogensoverschotten	vermogensoverschot
 vermogensposities	vermogenspositie
 vermogenstekorten	vermogenstekort
@@ -46582,6 +46779,12 @@ vervangingskatalysatoren	vervangingskatalysator
 vervangingsratio's	vervangingsratio
 vervangwagens	vervangwagen
 verveelvoudig	verveelvoudigen
+vervelendere	vervelend
+vervelender	vervelend
+vervelende	vervelend
+vervelendste	vervelend
+vervelendst	vervelend
+vervelends	vervelend
 vervellende	vervellen
 vervellend	vervellen
 vervelozer	verveloos
@@ -46837,6 +47040,8 @@ vetafzettingen	vetafzetting
 vetbolletjes	vetbol
 vetbolletje	vetbol
 vetergaatjes	vetergat
+vetgansjes	vetgans
+vetgansje	vetgans
 vetkleppen	vetklep
 vetlaagje	vetlaag
 vetmestende	vetmesten
@@ -46927,7 +47132,7 @@ vierentwintigjarigen	vierentwintigjarige
 vierentwintigjarige	vierentwintigjarig
 vierenveertigjarigen	vierenveertigjarige
 vierenveertigjarige	vierenveertigjarig
-vierenvijftigjarigen	vierenvijftigjarigen
+vierenvijftigjarigen	vierenvijftigjarige
 vierenvijftigjarige	vierenvijftigjarig
 vierenzestigjarigen	vierenzestigjarige
 vierenzestigjarige	vierenzestigjarig
@@ -47099,6 +47304,7 @@ viskisten	viskist
 viskraampjes	viskraam
 viskramen	viskraam
 vislijntje	vislijn
+vislozer	visloos
 visloze	visloos
 vismaatjes	vismaat
 vismannen	visman
@@ -47356,6 +47562,7 @@ VN-medewerkers	VN-medewerker
 VN-resoluties	VN-resolutie
 VN-vredesmissies	VN-vredesmissie
 vocabularia	vocabularium
+vochtafdrijvende	vochtafdrijvend
 vochtiger	vochtig
 vochtinbrengende	vochtinbrengend
 vochtophopingen	vochtophoping
@@ -48112,6 +48319,7 @@ vroegneolithische	vroegneolithisch
 vroegpensioenregelingen	vroegpensioenregeling
 vroegschoolse	vroegschools
 vroegtijdiger	vroegtijdig
+vroegtwintigste-eeuwse	vroegtwintigste-eeuws
 vroegwijze	vroegwijs
 vrolijker	vrolijk
 vrouwbeelden	vrouwbeeld
@@ -48277,6 +48485,8 @@ waardeverschillen	waardeverschil
 waardevollers	waardevoller
 waardiger	waardig
 waardplanten	waardplant
+waargebeurde	waargebeurd
+waargebeurds	waargebeurd
 waarheidsbevindingen	waarheidsbevinding
 waarheidsclaims	waarheidsclaim
 waarheidscommissies	waarheidscommissie
@@ -48738,6 +48948,7 @@ weckflesje	weckfles
 weddende	wedden
 weddend	wedden
 wederdiensten	wederdienst
+wedergeborens	wedergeboren
 wederhelften	wederhelft
 wederinstortingen	wederinstorting
 wederkwam	wederkomen
@@ -48774,6 +48985,10 @@ wedstrijdvissers	wedstrijdvisser
 wedstrijdvormen	wedstrijdvorm
 wedstrijdvragen	wedstrijdvraag
 wedstrijdzeilers	wedstrijdzeiler
+weeën	wee
+weeëre	wee
+weeër	wee
+weeë	wee
 weeffoutjes	weeffout
 weeffoutje	weeffout
 weeframen	weefraam
