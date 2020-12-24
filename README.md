@@ -49,7 +49,7 @@ De spellingcontrole bestaat uit de twee
 [nl.aff](nl.aff) en [nl.dic](nl.dic). Het
 [formaat](https://linux.die.net/man/4/hunspell) ervan is redelijk complex en
 is niet bedoeld om voor andere doeleinden te gebruiken. Dit formaat maakt het
-mogelijk om van de meer dan 400,000 woorden uit de woordenlijst een woordenboek
+mogelijk om van de meer dan 400.000 woorden uit de woordenlijst een woordenboek
 te maken dat minder dan de helft zo groot is én informatie heeft over
 vervoegingen, samenstellingen en suggesties.
 
@@ -57,18 +57,17 @@ Beschrijving van overige bestanden is:
 - [elements/archaic.tsv](elements/archaic.tsv) (archaïsch), deze woorden zijn
 die nog wel gebruikt worden, alle zitten in de woordenlijst
 - [elements/excluded.tsv](elements/excluded.tsv), deze woorden moeten worden
-uitgeslten van de spellingcontrole omdat ze verwarrend zijn met een ander woord
-dat ook correct is en in de meeste gevallen dat woord bedoeld is
+uitgesloten van de spellingcontrole omdat ze verwarrend zijn met een ander woord
+dat ook correct is en in de meeste gevallen bedoeld is
 - [elements/inflections.tsv](elements/inflections.tsv), zijn flexies met hun
-basiswoorden (soms zijn dat er meerdere) en een flexie kan ook een basiswoorden
-zijn voor een andere flexie
+basiswoorden (soms zijn dat er meerdere) en een flexie kan zelf ook een
+basiswoord zijn voor een andere flexie
 als suggestie gegeven worden
 - [elements/nosuggest.txt](elements/nosuggest.txt), deze woorden mogen niet
 als suggestie gegeven worden
 - [elements/objectionable.txt](elements/objectionable.txt) (verwerpelijk), deze
 woorden zijn verwerpelijk omdat ze (buiten de studie naar dit woord) ze als
-discriminerend of rasicstisch worden ervaren en door de samenleving niet meer
-getolereerd worden
+discriminerend of rasistisch worden ervaren
 - [elements/obsolete.tsv](elements/obsolete.tsv) (ongebruik), deze woorden zijn in
 ongebruik geraakt, sommige zitten nog in de woordenlijst (weeuw), sommige niet
 meer (arre) en sommige zijn fout omdat er een andere spelling van is (pannekoek)
@@ -79,11 +78,11 @@ zelden nog gebruikt, sommige zitten nog in de woordenlijst, sommige niet meer
 ## Installatie
 
 Spellingcontrole is in veel software zoals Chrome, Firefox, Thunderbird,
-LibreOffice en Adobe-producten al geïntegreerd en eenvoudig Nederlandse
-ondersteuning te installeren.
+LibreOffice en Adobe-producten al geïntegreerd. Daardoor is het eenvoudig deze
+Nederlandse ondersteuning te installeren.
 
 Na installatie ondersteunt de spellingcontrole `Nederlands` of `Dutch`.
-De spellingsregels en de spellingcontrole is overigens identiek voor het
+De spellingregels en de spellingcontrole zijn overigens identiek voor het
 Nederlands in de landen waar deze wordt gebruikt, zoals Nederland, België en
 Suriname.
 
@@ -96,7 +95,7 @@ Voor andere besturingssystemen, zie
 https://repology.org/project/hunspell-nl/versions
 
 Na 2010 wordt er overigens geen ondersteuning meer geleverd voor verouderde
-spellingcontroles zoals Myspell en ispell.
+spellingcontrolesoftware zoals Myspell en ispell.
 
 ## Toetsenbord
 
@@ -121,22 +120,22 @@ of contacteer ons als je woordenlijsten of databasevaardigheden te bieden hebt.
 # Dutch spelling checker
 
 This is the Dutch spell checker by [Stichting OpenTaal](https://www.opentaal.org).
-As long as full attribution is provided and the licenses are being respected,
-this spell checker can be used freely. The exact conditions can be found in the
-file [LICENSE.txt](LICENSE.txt). Please, read these carefully.
+As long as full attribution is provided and the licenses are respected, this
+spell checker can be used freely. The exact conditions can be found in the file
+[LICENSE.txt](LICENSE.txt). Please, read these carefully.
 
 ![logo Stichting OpenTaal](images/logo-shape-white-640x360.png?raw=true)
 
-This spell checker has been based on the
+This spell checker is based on the
 [Dutch word list](https://github.com/OpenTaal/opentaal-wordlist) from OpenTaal
 This list has received the the Quality Mark Spelling
 ([Keurmerk Spelling](http://taalunieversum.org/inhoud/spelling-meer-hulpmiddelen/keurmerk))
 from the Dutch Language Union ([Taalunie](http://taalunie.org)). This means that
-the words in this spell checker are according to the official spelling.
+the words in this spell checker conform to the official spelling.
 
 ![logo Keurmerk Spelling](images/keurmerk.png?raw=true)
 
-Besides using the word list, there has been done a lot of manual labout to
+Besides using the word list, there has been done a lot of manual editing to
 optimize this spelling checker.
 
 ## Contents
