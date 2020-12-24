@@ -1,4 +1,4 @@
-180411
+180423
 €10-biljet/Ze
 €20-biljet/Ze
 €50-biljet/Ze
@@ -100,8 +100,8 @@
 21e
 24-7-bereikbaarheid
 24\/7-bereikbaarheid
-24-uursconsultatie
-25-meterbad
+24-uursconsultatie/Fw
+25-meterbad/Fw
 27MC
 27MC-band
 27MC'er/Za
@@ -1335,11 +1335,14 @@ aardplaat/CcCaYbZfCbC1
 aardplooi/CeCcYaC1Zb
 aardpool/CcZaZfC1
 aardpunt/CcCaYbZbCbC1
-aardrĳk/AaAbAcAdAeCcC1
+aardrĳk/CcC1
+aardrĳke/Fw
+aardrĳker/Fw
 aardrĳks/Fw
+aardrĳkste/Fw
 aardrĳkskunde/CeCcC1
 aardrĳkskundeles/YbZeC1
-aardrĳkskundig/AaZb
+aardrĳkskundig/AaAbAcAdAeZb
 aardrol/CcYfZeC1
 aardrook/CcCaCbC1
 aardrups/CaCcZbCbYbC1
@@ -1468,7 +1471,7 @@ aarzen
 aasaanbiedingen/Fw
 aasaanbieding/ZbCcC1
 aasbloem/CcCaYbZbCbYdC1
-aasdier/AaAdAbZb
+aasdier/Zb
 aasemmer/Za
 aaseter/CcCaZaCbC1
 aasgedrag/CbCcC1
@@ -6927,7 +6930,7 @@ apr.
 apraxie
 après-skiën/Vi
 après-skiet/Va
-après-ski/V3
+après-ski
 Aprilbeweging
 aprilbeweging/Fw
 aprilgek/ZeC1
@@ -8136,10 +8139,10 @@ ATI-ranking/Fw
 ATI-toernooi/Fw
 atjar
 a'tje
-Atjeeërs
 Atjeher/Za
 Atjehs/Aa
 Atjeh/SvCA
+Atjeh-oorlog/Fw
 a'tjes
 Atlanta
 Atlanteeër
@@ -9621,7 +9624,7 @@ baktemperaturen/Cc
 baktemperatuur/CcCaCb
 baktĳd/CaYbZbCbCc
 baktrog/CcCaCbZe
-bakvet/AaAbAdAeAnAoApZe
+bakvet/Ze
 bakvis/CaZeCbYb
 bakvocht/CcCaZbCb
 bakvorm/CcCaYbZbCb
@@ -16398,8 +16401,8 @@ bidsprinkhaan/Zf
 bidstoel/YaZb
 bidstond/Zb
 biduur/Zf
-bidvertrek/V3Ze
-bidweek
+bidvertrek/Ze
+bidweek/Zf
 bidweg/Zb
 bie
 bieb/Za
@@ -16427,7 +16430,7 @@ biedkoers
 bied/PbV3
 biedprĳs/Zh
 biedroom/Fw
-biedster
+biedster/Za
 bief
 biefburger/Za
 biefstuk/CcYbZe
@@ -16457,7 +16460,7 @@ bierbrouwen
 bierbrouwerĳ/Zb
 bierbrouwer/Za
 bier/CcCaYaZb
-bierdop
+bierdop/Ze
 bierdrinkende
 bierdrinker/Za
 Bierenbroodspot
@@ -17332,7 +17335,7 @@ binnentĳds
 binnentikken
 binnentrap
 binnentreding/Ch
-binnentuin
+binnentuin/Zb
 binnenuit
 binnenvaarder/Za
 binnenvaart/CaCb
@@ -17397,7 +17400,7 @@ biochemicus/Zx
 biochemie
 biochemieconcern
 biochemisch/Aa
-biochip
+biochip/Za
 biocide/ZaZi
 biodiesel/Ca
 biodivers/AaAbAc
@@ -17414,7 +17417,7 @@ bio-ethicus
 bio-ethiek
 biofarmaceutisch/Aa
 biofilm/Za
-biofilter
+biofilter/Za
 biofruit
 biofysica
 biofysicus/Zx
@@ -20383,10 +20386,10 @@ bospolitie
 Bosporus
 bosrand/CcCaYbZbCb
 Bosrandweg
-bosrank/AaAbAcAdAe
+bosrank/Zb
 bosreservaat/Zf
 bosrietzanger/Za
-bosrĳk/AaAbAcAe
+bosrĳk/AaAbAcAdAe
 bosrit/YbZbZe
 Bosruiter
 boss
@@ -21285,6 +21288,7 @@ brancheorganisatie/Za
 brancheoverschrĳdend
 branchering/Ch
 branchevereniging/Zb
+branche-verenigingen/Fw
 branchevreemd/Aa
 Branco/PN
 Brandaan/PN
@@ -22641,7 +22645,6 @@ btw-belast/Aa
 btw-carrouselfraude
 btw/ClCwKc
 Btw/ClCwKc
-btw-coden
 -Btw-compensatiefonds/Fw
 Btw-compensatie-fonds/Fw
 Btw-compensatiefonds/Fw
@@ -26483,8 +26486,7 @@ CNV-ketel/Fw
 co
 CO₂
 CO2/ClCw
-CO₂-emissie
-CO₂-emissies
+CO₂-emissie/Za
 CO2-emissie/Za
 CO₂-heffing/Zb
 CO₂-neutraal/Al
@@ -30679,7 +30681,6 @@ dd.
 D-day
 D-Day
 ddos-aanval/Ze
-DDoS-aanval/Ze
 DDR
 DDT/ClCw
 DDT-geheugen/Fw
@@ -31149,7 +31150,7 @@ defaitist/Zb
 default/Za
 defecatie/Za
 defect/AaYbZa
-defect/CcZb/Yb
+defect/CcZbYb
 defectief/Ar
 defectieven
 defederalisering/Ch
@@ -34824,9 +34825,9 @@ doodmartelen/Vi
 doodmartelt/Va
 doodmelding/Fw
 doodmeppen
-doodmoe/AdAm
+doodmoe/Ad
 doodmoede
-doodmoeë/Aa
+doodmoeë
 doodmoes
 doodnormaal/AlAi
 doodnuchter/Aa
@@ -41955,6 +41956,7 @@ ex-Beatle
 Ex-begroting/Fw
 ex-bestuurder/Za
 ex-bewindslui
+ex-bewindslied/Fw
 ex-burgemeester/Za
 ex-/CaCx
 excarnatie
@@ -43075,7 +43077,8 @@ federalistisch/AaAb
 federalist/Zb
 Federatie
 federatiebestuurder/Za
-federatiebestuur/V3
+federatiebestuur/Zf
+federatiebestuurt/Fw
 federatie/CeCcZa
 federatief/Ar
 federatietaken
@@ -44612,8 +44615,7 @@ föhn/CcZaZbZa
 föhnen/Vi
 föhnstorm
 föhn/V3VpVp
-fokbedrĳf/V3
-fokbedrĳven
+fokbedrĳf/Zh
 fokbeleid
 fokdier/Zb
 fokhengst/Zb
@@ -45765,13 +45767,13 @@ fte/ClCw
 fte's
 Fte-server/Fw
 ftisis
+ftp
 ftp'en
 FTP/Fw
 ftp-programma
 ftp-server/Za
 ftp-site/Za
 ftp't/Va
-ftp/V3
 Fuad/PN
 fuchsiaroze
 Fuchsiastraat
@@ -46436,6 +46438,10 @@ garagist/Zb
 garandeer/V3Vp
 garanderen/Vi
 garant/CaZbCb
+garantie-auto/Fw
+garantie-auto's/Fw
+garantie-autootje/Fw
+garantie-autootjes/Fw
 garantiebepaling/Zb
 garantiebewĳs/Zh
 garantie/CcCeZa
@@ -46598,7 +46604,7 @@ gasfase/CeCcZaZi
 gasfitter/CcZa
 gasfles/CaCcYbZeCb
 gasfornuis/CaCcZhCb
-gasgebruik/V3VqCc
+gasgebruik/Cc
 gasgeiser/CcCaZaCb
 gasgenerator/CcCaZaZbCb
 gasgestookt/Aa
@@ -46608,7 +46614,7 @@ gasgigant/CcCaZbCb
 gasgranaat/CcCaZfCb
 gashaard/CcCaCbZb
 gashandelaar/CcZaCdZf
-gashandel/PjV3VpCcZa
+gashandel/CcZa
 gashendel/CcZaYa
 gashouder/CcCdZaYa
 Gashouderstraat
@@ -55739,7 +55745,6 @@ gifschip
 gifslang/CcZb
 gifspuit/PjPs
 gifspuit/Zb
-gifstof/PjV3VqPs
 gifstof/Ze
 gifstorting/ZbCc
 giftand/Zb
@@ -56741,7 +56746,7 @@ goedverkopende
 goedverzorgd/Aa
 goedvinden/Vi
 goedvind/V3
-goedvond/V3
+goedvond
 goedwerkende
 goedwillend/Aa
 goedwillenden
@@ -59754,7 +59759,7 @@ halfproduct/Zb
 halfrĳm/Zb
 halfrĳp/Aa
 halfrond/AaZb
-halfschaduw/V3Zb
+halfschaduw/Zb
 halfslaap
 halfslachtig/AaAb
 halfslachtigheid/Ch
@@ -60551,8 +60556,7 @@ harddruggebruiker/Za
 harddrugsgebruiker/Za
 harddrugsscene
 harddrug/ZaCdCaCbCc
-hardebollen/Vi
-hardebol/V3
+hardebol/Ze
 Hardegarĳp
 Hardeman/PN
 Hardenberger/Gw
@@ -64094,6 +64098,7 @@ hitfilm
 hitgevoelig/Aa
 Hitler/CAPN
 Hitler-Duitsland
+Hitler-groet/Fw
 hitleriaans/Aa
 hitleriaan/Zf
 hitlerisme
@@ -65308,7 +65313,7 @@ Hoofdkade
 hoofdkam
 hoofdkappen/YfZbZe
 hoofdkap/YbZe
-hoofdkenmerk/V3
+hoofdkenmerk/Zb
 hoofdklassenspelers
 hoofdklasser/Za
 hoofdklassespeler/Fw
@@ -66863,7 +66868,7 @@ hulpverleningstechniek/Zb
 hulpverleningsvoorstel/Ze
 hulpverleningsvoorziening/Zb
 hulpverleningswagen/Za
-hulpverzoek/V3
+hulpverzoek/Zb
 hulpvrager/Za
 hulpwerkwoord/Zb
 hulpwetenschap/Ze
@@ -67166,7 +67171,8 @@ huwelĳkscadeau/Za
 huwelĳkscrisis/Ze
 huwelĳksdag/YbZb
 huwelĳksfeestganger/Za
-huwelĳksgebruik/V3Zb
+huwelĳksgebruik/Zb
+huwelĳksgebruikt/Fw
 huwelĳksgemeenschap/Ze
 huwelĳksgoederengemeenschap/Ze
 huwelĳksinzegening/Zb
@@ -69032,7 +69038,6 @@ in doen/Vi
 Indo-Europeaan/Zf
 Indo-Europees/Al
 Indo-Germaan/PNZf
-Indo-germaans/Aa
 Indo-Germaans/Aa
 indogermanistiek
 indoken
@@ -69091,7 +69096,7 @@ indroging/ChC1C2C3C4C5
 indrong
 indrongen
 indronken
-indronk/V3
+indronk
 indroog/V3Vp
 indruisen/Vi
 indruis/V3Vq
@@ -71002,6 +71007,7 @@ integratieniveau/Za
 integratieplan/ZeC1C2C3C4C5
 integratieproces/ZeC1C2C3C4C5
 integratievraagstuk/ZeC1C2C3C4C5
+integratie-vraagstuk/Fw
 integrator/CcZaZbC1C2C3C4C5
 integreerbaar/Al
 integreerbaarheid/ChC1C2C3C4C5
@@ -72581,7 +72587,7 @@ Jakub/PN
 jak/ZaZeC3Yb
 Jalal/PN
 jalap
-jalapeño
+jalapeño/Zc
 jalappe
 Jalil/PN
 Jalink/PN
@@ -72728,7 +72734,6 @@ Jansink/PN
 Jansje/PN
 Janskerk
 Jansklooster
-janskruid/V3
 janslot/Zb
 Jansman/PN
 Jansma/PN
@@ -73086,7 +73091,7 @@ Jetske/PN
 jetskiën/Vi
 jetskiër/ZaZa
 jetskiet/Va
-jetski/V3Zc
+jetski/Zc
 jetstream/ZaZa
 Jetteke
 Jettenaar/Zf
@@ -75865,10 +75870,8 @@ karbeel/ZaYaZf
 karbies/Zh
 karbonaadje/Za
 karbonade/CeCcZaYaZi
-karbonkelneus
-karbonkelneuzen
+karbonkelneus/Zh
 karbonkelsteen/Zf
-karbonkel/V3
 karbonkel/ZaZb
 Karbouwstraat
 karbouw/Zb
@@ -76439,7 +76442,7 @@ kavelsloot/Zf
 kavel/V3Vp
 kaviaar
 Kaw
-kawa
+kawa/Za
 KAWA/Fw
 kawai
 Kawa/PN
@@ -77148,7 +77151,7 @@ kernploeglid/Yb
 kernprogramma/Zc
 kernraket/Ze
 kernreactie/Za
-kernschaduw/V3Zb
+kernschaduw/Zb
 kernspinresonantie
 kernspintomografie
 kernstop/Ca
@@ -78590,7 +78593,7 @@ klassewagen
 klassewĳn/Zb
 klassiaan
 klassiek/AaAbAcAdAeAi
-Klassiek Arabisch/Aa
+klassiek Arabisch/Aa
 klassieken
 klassieker/CaCcZaCbYa
 klassiek-romantisch/Aa
@@ -78618,13 +78621,14 @@ klauwaard/Za
 klauwachtig/Aa
 klauw/CcCaYaZbCb
 klauwen/Vi
+klauwenvallen/Fw
 klauwer/Za
 klauwhamer/Za
 klauwier/YaZb
 klauwĳzer/Za
 klauwstuk/Ze
 klauw/V3Vp
-klauwval
+klauwval/Ze
 klauwvormig/Aa
 klauwzeer/Ca
 klavarskribomethode
@@ -79686,7 +79690,7 @@ knettergek/An
 knetterhard/Aa
 knetter/V3Vp
 kneukelen/Vi
-kneukel/V3ZaYa
+kneukel/ZaYa
 kneukfilm
 kneus/CaCcYbCb
 kneus/V3Vp
@@ -85892,7 +85896,7 @@ leeg/Ca
 leegdrinken/Vi
 leegdrinkt
 leegdronken
-leegdronk/V3
+leegdronk
 leegeet
 leegeten/Vi
 leegganger/Za
@@ -86252,15 +86256,19 @@ leer-werkloket/Ze
 leer-werkovereenkomst/Zb
 leer-werkplaats/Zb
 leer-werkplan
-leerwerkplan/Fw
 leer-werkplekbegeleider/Za
-leerwerkplek/Fw
 leer-werkplek/Ze
 leer-werkplicht
 leer-werkproject/Zb
 leer-werkrecht
 leer-werkstage/Za
 leer-werktraject/Zb
+leerwerkplaats/Fw
+leerwerkplaatsen/Fw
+leerwerkplan/Fw
+leerwerkplannen/Fw
+leerwerkplek/Fw
+leerwerkplekken/Fw
 leerwĳze/Zi
 leerzaam/AdAlAqAiAdAe
 leerzaamheid/Ch
@@ -87066,7 +87074,7 @@ lessen/Vi
 lessing
 lessituatie/CcCeZa
 lesstĳl/CcCaYaZbCb
-lesstof/PjV3VqPs
+lesstof/Ze
 lessuggesties
 lest/Aa
 lestaak/Zf
@@ -88605,7 +88613,7 @@ lipide/Zi
 Lipitor
 lipizzaner/Za
 liplappen
-liplap/V3
+liplap
 liplezen/Vi
 Lipman/PN
 Li/PN
@@ -89212,7 +89220,6 @@ lomperd/Za
 lomperik/Zb
 lompheid/Ch
 lompigheid/Zd
-lomp/V3
 lompweg
 lomschool/Zf
 lom/Ze
@@ -91402,7 +91409,7 @@ magnum/Za
 Magnus/PN
 magot/ZaZe
 MA-groep/Fw
-mag/V3
+mag
 Magyaar/PNZf
 Magyaarse
 Mahabali/PN
@@ -94601,7 +94608,7 @@ melisse
 melissebladeren
 melisseblad/Zb
 melisseblaren
-melissekruid/V3
+melissekruid
 Melissen/PN
 melisseolie
 Melisse/PN
@@ -100848,6 +100855,9 @@ navorser/Za
 navorsing/ZbCh
 navorst
 NAVO-top
+NAVO-troep/Fw
+NAVO-troepen
+NAVO-troepenmacht
 navrant/AaAbAcAdAe
 navul
 navulbaar/Al
@@ -104513,7 +104523,6 @@ oergezond/Aa
 oergrond/ZbC4
 oer-Hollands/Aa
 oerinstinct/ZbC4
-oerjoods/Aa
 oer-Joods/Aa
 oerknal/Ze
 oerkomisch/Aa
@@ -104674,6 +104683,7 @@ offerschaal/ZfC4
 offersteen/Zf
 offertafel
 offerte/CeCcZaZiC4
+offerte-aanvraag/Fw
 offertorium/ZaZx
 offer/V3Vp
 offervaardig/AaZm
@@ -112900,6 +112910,8 @@ or/Zc
 Osaka
 Osama/PN
 Oscarnominatie/Za
+Oscarwinnaar/Za
+Oscar-winnaar/Fw
 Oscar/PNCA
 oscillatie/ZaCeC4
 oscillator/ZaZbC4
@@ -121962,7 +121974,6 @@ procureurschap
 procureurs-generaal
 procureursgeneraal/Fw
 procyclisch/Aa
-pro-deaan/Zf
 pro-Deaan/Zf
 prodecaan/Zf
 prodemocratisch/Aa
@@ -122811,7 +122822,7 @@ prutterig/Aa
 pr-versie/Fw
 przewalskipaard/Zb
 p's
-P.S.
+P.S./Fw
 psalmberĳming/Zb
 psalm/CaYbZbCb
 psalmdichter/Za
@@ -131572,8 +131583,7 @@ Saman/PN
 Samantha/PN
 Samara/PN
 Samaria
-Samaritaans
-Samaritaanse/Aa
+Samaritaans/Aa
 samaritaan/Zf
 Samaritaan/Zf
 Samarkand
@@ -132038,7 +132048,7 @@ saoto
 saoto's
 sapcentrifuge/CeCcZa
 sapfisch/Aa
-sapgroen/AaAbAcAdAeAi
+sapgroen
 Saphira/PN
 saphout
 sapiens
@@ -136019,7 +136029,8 @@ shamponeren/Vi
 shampoo/CeCcZa
 shampooën/Vi
 shampooings
-shampoo/V3Vp
+shampoo/Vp
+shampoot
 Shana/PN
 shandy
 Shane/PN
@@ -136084,6 +136095,7 @@ sherryfles
 sherry'tje
 sherry/Zc
 's-Hertogenbosch
+'s-hertogenbosch/Fw
 Sheryl/PN
 shetlander/Za
 shetlandpony/Zc
@@ -137499,7 +137511,7 @@ slatest/Fw
 Slatest/Fw
 Slats/PN
 slatte
-slatten
+slat/Ze
 slatting/ZbCh
 Slauerhoff/GsGl
 slavenarbeid
@@ -155939,7 +155951,7 @@ understudy
 UND/Fw
 Uneken/PN
 UNESCO
-Unesco/CaCx
+UNESCO-/CaCx
 unfair/Aa
 Unger/PN
 unheimisch/Aa
@@ -155947,8 +155959,8 @@ uni
 unibrauw
 unicaat
 UNICEF
-Unicef-/CaCx
-Unicef/Gl
+UNICEF-/CaCx
+Uniceflaan
 uniciteit/ChC1C2C3C4C5
 Unicode
 unicum/ZaZx
@@ -159397,6 +159409,7 @@ vergast/Ve
 vergast/Vq
 vergas/V3Vq
 verga/V3Vq
+vergat
 vergaven
 vergeef/CaCb
 vergeeflĳk/AaAbZm
@@ -163355,7 +163368,6 @@ vetergat/ZbZe
 veterinair/AaAi
 Vetermĳn/Fw
 veter/V3Vp
-vetgans/AaAb
 vetgansje/Za
 vetgans/Zh
 vetgedrukt/Aa
@@ -176330,6 +176342,8 @@ yogales/YbZe
 yogales/Ze
 yogamat
 yogaoefening/Zb
+yoga-oefening/Fw
+yoga-oefeningen/Fw
 yoghurtbeker/Za
 yoghurt/CcCaCbZaYb
 yoghurtdrink/Fw
@@ -180407,6 +180421,3 @@ zzp-schap
 zzp-wetgeving
 Zzv
 zzz
-β-roseliet
-β-uranofaan
-γ-camera

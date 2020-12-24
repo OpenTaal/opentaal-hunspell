@@ -1,9 +1,21 @@
-# Hunspell affix file
-# (c) 2006-2020 OpenTaal
-# Coded by R. Baars
-# Adapted by S. Brouwer
-# www.opentaal.org
-# version date 2020-10-25
+# Title: Dutch support for Hunspell
+# Creator: OpenTaal https://opentaal.org
+# Rights: Revised BSD License and/or CC BY 3.0
+# Date and version: 2020-12-24 15:42:49 2.20.18
+# Source: https://github.com/OpenTaal/opentaal-hunspell
+# License choice: To enable the broadest (re)use, these language files are
+# freely available under the liberal licenses at the discretion of the user. We
+# strongly recommend to read the applicable license before usage. Choose one or
+# both licenses which apply best for you.
+# A) Revised BSD License (3-clause license), as is defined at
+# https://opensource.org/licenses/BSD-3-Clause (see also below)
+# B) Creative Commons, Attribution 3.0 Unported (CC BY 3.0), as is defined at
+# https://creativecommons.org/licenses/by/3.0/legalcode.txt (see also below)
+# Creator history:
+# © 2020 OpenTaal (Simon Brouwer, Sander van Geloven)
+# © 2006 - 2010 OpenTaal (Ruud Baars, Simon Brouwer)
+# © 2001 - 2005 Simon Brouwer and others
+# © 1996 Nederlandstalige TeX Gebruikersgroep
 
 # BEWARE: THIS AFFIX FILE AND DICTIONARY REQUIRE HUNSPELL 1.3.1 AS MINIMAL VERSION
 
@@ -32,7 +44,7 @@ NOSPLITSUGS
 MAXCPDSUGS 1
 
 # max difference to be applied for all words (compounds and n-gram suggestions)
-ONLYMAXDIFF 
+ONLYMAXDIFF
 
 # max difference in chars for ngram suggestions
 # 3 limits wild suggestions a lot, but also drops suggestions for words with multiple errors
@@ -432,7 +444,7 @@ REP music muzik
 REP ^kiet$ quitte
 REP persé per_se
 REP ruggegraad ruggengraat
-REP ^geupdate$ geüpdatet 
+REP ^geupdate$ geüpdatet
 REP ^zowiezo$ sowieso
 REP ceedee cd
 REP ceedees cd's
@@ -843,7 +855,7 @@ REP ^dislectie$ dyslexie
 REP ^zelfza doe-het-zelfza	# (doe het) zelfzaak
 REP ^dress$ dresscode
 REP -en- -_en_	# duw-en-trekwerk duw- en trekwerk
-REP ^E-coli E._coli 
+REP ^E-coli E._coli
 REP kk qu	# makkette -> maquette
 REP -de- _de_	# eau-de-vie -> eau de vie
 REP ^edammer Edammer_	# edammerkaas
@@ -958,7 +970,7 @@ REP steen eerstesteen	# eerste steenlegging -> eerstesteenlegging
 REP ĳ ie	# bijzijnde -> bijziende
 REP bĳ dichtstbĳ	# bijzijnde -> dichtstbijzijnde
 REP never-nooit-niet never_nooit_niet	# never-nooit-niet -> never nooit niet
-REP deus-ex-machina deus_ex_machina	# 870 
+REP deus-ex-machina deus_ex_machina	# 870
 REP end ig	# afwezend -> afwezig
 REP ^hai$ foeyonghai
 REP igings ing -> vestigingsstad - vestingstad
@@ -988,9 +1000,9 @@ COMPOUNDRULE (N1)(n2)	  	# eenen+zestig[ste]
 COMPOUNDRULE (Nh)(n3)		# honderden+twee[de]
 COMPOUNDRULE (Nh)(n2)		# honderden+twintig[ste]
 COMPOUNDRULE (Nh)(N1)(n2)	# honderden+eenen+dertig
-COMPOUNDRULE (N4)(NH)		# vijf+honderd 
-COMPOUNDRULE (N4)(Nh)(n3)	# vijf+honderden+een 
-COMPOUNDRULE (N4)(Nh)(n2)	# vijf+honderd+twintig 
+COMPOUNDRULE (N4)(NH)		# vijf+honderd
+COMPOUNDRULE (N4)(Nh)(n3)	# vijf+honderden+een
+COMPOUNDRULE (N4)(Nh)(n2)	# vijf+honderd+twintig
 COMPOUNDRULE (N4)(Nh)(N1)(n2)	# vijf+honderd+eenen+zestig
 COMPOUNDRULE (N4)(Nd)		# vijf+duizend
 COMPOUNDRULE (N2)(Nd)		# zestig+duizend[ste]
@@ -1021,7 +1033,6 @@ COMPOUNDRULE (G1)(NJ)  		# 8-jarig~
 COMPOUNDRULE (Sv)(Sn)		# -straat, -plein etc.
 COMPOUNDRULE (Ll)(Hp)(Lr)	# Nederlands-Ghanese
 COMPOUNDRULE (Ll)(Hp)(Ll)(Le)	# Nederlands-Duits+e
-
 
 # don't compound on case-different word borders
 CHECKCOMPOUNDCASE
@@ -1068,7 +1079,7 @@ CHECKCOMPOUNDPATTERN i /C3
 CHECKCOMPOUNDPATTERN o /C4
 CHECKCOMPOUNDPATTERN u /C5
 CHECKCOMPOUNDPATTERN /Xf /Xf		# moeder-dochter etc
-CHECKCOMPOUNDPATTERN oon zor          	# woon-zorgflat 
+CHECKCOMPOUNDPATTERN oon zor          	# woon-zorgflat
 CHECKCOMPOUNDPATTERN armte krach	# warmte-krachtcentrale
 CHECKCOMPOUNDPATTERN aag dar		# maag-darmaandoening
 CHECKCOMPOUNDPATTERN aagd ar          	# maag-darmandoening
@@ -1131,13 +1142,13 @@ SFX CB 0 -/CbCp
 # for words that have a plural s and an s when compounding
 # the second one allows for the optional hyphen
 SFX Cd Y 1
-SFX Cd 0 s/CaCbCcCp .  
-# SFX Cd 0 s-/CaCbCcCp . 
+SFX Cd 0 s/CaCbCcCp .
+# SFX Cd 0 s-/CaCbCcCp .
 
 # for reasons of good results, parts that could have a compounding s
 # but no plural s
 # have to have separate (!) entries in the dictionary
-# using the Ch flag 
+# using the Ch flag
 SFX Ch Y 1
 SFX Ch 0 s/CaCbCxCp .	
 # SFX Ch 0 s-/CaCbCcCp .	
@@ -1154,12 +1165,12 @@ SFX Cl 0 -/CaCbCp .
 PFX Cw Y 1
 PFX Cw 0 -/CbCcCp .
 
-# FLAGS FOR NOUN DIMINITIVES 
+# FLAGS FOR NOUN DIMINITIVES
 # tuin=>tuintje
 SFX Ya Y 3
 SFX Ya 0 tje .				ts:NN1r
 SFX Ya 0 tjes/CaCbCp .			ts:NN2r
-SFX Ya 0 tjes-/CaCbCp .			ts:NN2r 
+SFX Ya 0 tjes-/CaCbCp .			ts:NN2r
 
 # huis=>huisje
 SFX Yb Y 6
@@ -1251,7 +1262,6 @@ SFX Zu icus ica icus			ts:NN2
 SFX Zx Y 2
 SFX Zx um a um				ts:NN2
 SFX Zx us i us				ts:NN2
-
 
 # tuin=>tuinen
 SFX Zb Y 4
@@ -1395,8 +1405,6 @@ SFX Zg af fen/CaCbCp .		ts:NN2
 SFX Zg of fen/CaCbCp .		ts:NN2
 SFX Zg es sen/CaCbCp .		ts:NN2
 
-
-
 #lens=>lenzen
 SFX Zh Y 4
 SFX Zh s zen/CaCbCp s		ts:NN2
@@ -1445,7 +1453,6 @@ SFX PK 0 der r		ts:NN1d
 SFX PK 0 ers [^r]	ts:NN2d
 SFX PK 0 ders r	ts:NN2d
 
-
 # FLAG for noun from adjective (deskundig => deskundige, deskundigen)
 SFX Zk Y 2
 SFX Zk 0 en .			ts:NN2
@@ -1456,12 +1463,9 @@ SFX Zm Y 2
 SFX Zm 0 heid .		ts:NN1
 SFX Zm 0 heden .		ts:NN2
 
-
-
 # FLAG for female form of noun (bassist => bassiste)
 SFX Xe Y 1
 SFX Xe 0 e .			ts:NN1
-
 
 # FLAGS FOR VERBS
 
@@ -1507,9 +1511,11 @@ PFX Ps 0 uit .
 PFX Pt Y 1
 PFX Pt 0 na .
 
-# 3d person, add a t to the stem
-SFX V3 Y 1
-SFX V3 0 t .		ts:VB3
+# 3rd person, add a t to the stem
+SFX V3 Y 3
+SFX V3 0 t [^ao]		ts:VB3
+SFX V3 0 at a		ts:VB3
+SFX V3 0 ot o		ts:VB3
 
 # past tense, add de or den to the stem
 SFX Vp Y 2
@@ -1815,7 +1821,3 @@ SFX GL straat laan straat	ts:DT
 
 SFX GW Y 1
 SFX GW straat weg straat	ts:DT
-
-
-
-
