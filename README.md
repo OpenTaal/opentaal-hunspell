@@ -29,6 +29,7 @@ De spellingcontrole bestaat, naast de documentatie en licentie, uit de volgende
 bestanden:
 - `nl.aff`
 - `nl.dic`
+- `datetimeversion.txt`
 
 Deze zijn samengesteld en gecontroleerd met een aantal hulpbestanden:
 - `../opentaal-wordlist/wordparts.tsv`
@@ -42,7 +43,6 @@ Deze zijn samengesteld en gecontroleerd met een aantal hulpbestanden:
 - `elements/outdated.tsv`
 - `elements/replacements.tsv`
 - `elements/stress.tsv`
-- `datetimeversion.txt`
 
 De spellingcontrole bestaat uit de twee
 [UTF-8 Unicode](https://nl.wikipedia.org/wiki/UTF-8) bestanden
@@ -53,7 +53,10 @@ mogelijk om van de meer dan 400.000 woorden uit de woordenlijst een woordenboek
 te maken dat minder dan de helft zo groot is én informatie heeft over
 vervoegingen, samenstellingen en suggesties.
 
-Beschrijving van overige bestanden is:
+De datum, de tijd en het versienummer van al deze bestanden is te vinden in
+[datetimeversion.txt](datetimeversion.txt).
+
+Beschrijving van de overige bestanden is:
 - [elements/archaic.tsv](elements/archaic.tsv) (archaïsch), deze woorden zijn
 die nog wel gebruikt worden, alle zitten in de woordenlijst
 - [elements/excluded.tsv](elements/excluded.tsv), deze woorden moeten worden
