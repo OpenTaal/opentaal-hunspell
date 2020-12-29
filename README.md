@@ -57,11 +57,11 @@ De datum, de tijd en het versienummer van al deze bestanden is te vinden in
 [datetimeversion.txt](datetimeversion.txt).
 
 Beschrijving van de overige bestanden is:
-- [elements/archaic.tsv](elements/archaic.tsv) (archaïsch), deze woorden zijn
-die nog wel gebruikt worden, alle zitten in de woordenlijst
-- [elements/excluded.tsv](elements/excluded.tsv), deze woorden moeten worden
-uitgesloten van de spellingcontrole omdat ze verwarrend zijn met een ander woord
-dat ook correct is en in de meeste gevallen bedoeld is
+- [elements/archaic.tsv](elements/archaic.tsv) (archaïsch), dit zijn woorden die
+nog wel gebruikt worden, alle zitten in de woordenlijst
+- [elements/excluded.tsv](elements/excluded.tsv), deze woorden worden
+uitgesloten van de spellingcontrole omdat ze een veel voorkomende fout van een
+ander woord zijn
 - [elements/inflections.tsv](elements/inflections.tsv), zijn flexies met hun
 basiswoorden (soms zijn dat er meerdere) en een flexie kan zelf ook een
 basiswoord zijn voor een andere flexie
@@ -69,12 +69,12 @@ als suggestie gegeven worden
 - [elements/nosuggest.txt](elements/nosuggest.txt), deze woorden mogen niet
 als suggestie gegeven worden
 - [elements/objectionable.txt](elements/objectionable.txt) (verwerpelijk), deze
-woorden zijn verwerpelijk omdat ze (buiten de studie naar dit woord) ze als
-discriminerend of rasistisch worden ervaren
-- [elements/obsolete.tsv](elements/obsolete.tsv) (ongebruik), deze woorden zijn in
-ongebruik geraakt, sommige zitten nog in de woordenlijst (weeuw), sommige niet
-meer (arre) en sommige zijn fout omdat er een andere spelling van is (pannekoek)
-of een ander woord voor is plaats is gekomen (chocozoen)
+woorden zijn verwerpelijk omdat ze (buiten de studie naar dit woord) als
+discriminerend of racistisch worden ervaren
+- [elements/obsolete.tsv](elements/obsolete.tsv) (ongebruik), deze woorden zijn
+in ongebruik geraakt, sommige zitten nog in de woordenlijst (weeuw), sommige
+niet meer (arre) en sommige zijn fout omdat er een andere spelling van is
+(pannekoek) of een ander woord voor in de plaats is gekomen (chocozoen)
 - [elements/outdated.tsv](elements/outdated) (ouderwets), deze woorden worden zeer
 zelden nog gebruikt, sommige zitten nog in de woordenlijst, sommige niet meer
 
