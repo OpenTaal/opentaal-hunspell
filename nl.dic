@@ -1,4 +1,4 @@
-180423
+180462
 €10-biljet/Ze
 €20-biljet/Ze
 €50-biljet/Ze
@@ -610,6 +610,7 @@ aanging/ZbC1
 aangloeide
 aangloeiden
 aangolft/Va
+aangraven/Fw
 aangravingen
 aangrenzen
 aangrenzend/Aa
@@ -668,7 +669,7 @@ aanjager/ZaCcC1
 aankaarten/CaCbC1
 aankan
 aankant/Vq
-aankappen
+aankappen/Fw
 aanklaag
 aanklaagster/Za
 aanklacht/ZbC1
@@ -938,7 +939,7 @@ aansprekelĳk/Fw
 aansprekend/AiAb
 aanspreker/Za
 aanspreking/ZbChC1
-aanspring
+aanspring/Fw
 aanstaande/CeCcZiC1
 aanstalten/CaCbC1
 aanstamper/Za
@@ -1389,6 +1390,7 @@ Aarlen/PNSv
 Aarlens/Aa
 Aarle/PNPI
 Aarle-Rixtel
+Aerle-Rixtel
 Aarles/Fw
 Aarnink/PN
 Aarnoudse/PN
@@ -3232,7 +3234,7 @@ afgewipt/Aa
 afgewoeld
 afgewonnen
 afgewrongen
-afgezande
+afgezande/Fw
 afgezant/ZbC1Aa
 afgezeefd/Aa
 afgezeemd
@@ -4217,7 +4219,7 @@ agiocluster/Fw
 agiocomplex/Fw
 agiologistiek/Fw
 Agiologistiek/Fw
-agiotage
+agiotage/Fw
 agitatie/ZaCeC1
 agitato
 agitatorisch/Aa
@@ -5756,7 +5758,7 @@ Anaïs/PN
 Anakin/PN
 anakoloet/ZbC1
 Analbers/PN
-analecta
+analecta/Fw
 analecten
 analfabeet/ZfC1Al
 analfabetisch/Aa
@@ -6703,6 +6705,7 @@ apenkool/Fw
 apenkoppen/YfZbZeC1
 apenkop/YbZeC1
 Apenlucht/Fw
+Apennĳn
 Apennĳnen
 Apennĳner
 Apennĳns
@@ -8982,7 +8985,7 @@ Baaigem/Sv
 Baaĳens/PN
 Baaĳ/PN
 Baaium
-baaivangen
+baaivangen/Fw
 baaivanger/Za
 baak
 baakgeld/Zb
@@ -10255,7 +10258,7 @@ Banning/PN
 Bannink/PN
 banpaal/Zf
 Banstraat
-bantam
+bantam/Fw
 Bantam
 bantamgewicht/Zb
 Bantega
@@ -10424,7 +10427,7 @@ barmeubel/CcCaZaYaCbZb
 barmhartig/AaAbAcAe
 barmhartigheid/ZdCh
 Barnard/PN
-barnen
+barnen/Fw
 Barnes
 barnevelder/Za
 Barneveld/PNPI
@@ -10469,6 +10472,7 @@ barréakkoord/Zb
 barrebiesjes
 barreerde
 barrel/ZaCa
+barrelen
 Barre/PN
 barreren/Vi
 bar-restaurant/CcCaYbZaCb
@@ -12831,7 +12835,7 @@ belastingregister/Za
 belastings-
 belastingschĳf/Zh
 belastingscurve/Zi
-belastingsdruk
+belastingsdruk/Fw
 belastingsituatie/Za
 belastingsom/Ze
 belastingsrichting/Zb
@@ -15611,6 +15615,7 @@ Bevernaar
 bevernel/Ze
 beverratten/CaCb
 beverrat/ZeYb
+beverse
 Beverse
 Beverst/Sv
 Beverweg
@@ -18967,7 +18972,7 @@ boekverzameling/Zb
 boekvinken
 Boekweitakker
 boekweit/Ch
-boekweitegort
+boekweitegort/Fw
 Boekweit/Gs
 Boekweitkamp
 boekweitmeel
@@ -20393,7 +20398,8 @@ bosrĳk/AaAbAcAdAe
 bosrit/YbZbZe
 Bosruiter
 boss
-bossage/Za
+bossage/Fw
+bossages
 bossanova/Zc
 Bosschaart/PN
 bosschage/Za
@@ -22000,6 +22006,8 @@ Brocken/PN
 Brockhoff/PN
 Brockhus/PN
 Brock/PN
+brodde/Fw
+brodden/Fw
 broddelaar/Za
 broddelarĳ
 broddelen/Vi
@@ -23603,7 +23611,7 @@ BUT/Fw
 Buth/PN
 Bûtlânswei
 butler/Za
-butoor
+butoor/Fw
 But/PN
 buts/CaYb
 Butselaar/PN
@@ -23835,7 +23843,9 @@ cachelot
 cachen
 cache-pot/ZaYb
 cacheroute/Fw
-cachetteren/Vi
+cachetteren/Fw
+cachetterend
+cachetterende
 cachet/Ze
 caching/Ch
 cachot/YbZe
@@ -25244,7 +25254,8 @@ chamade
 Chambers
 chambray
 chambreerde
-chambree/Za
+chambree/Fw
+chambrees
 chambreren/Vi
 chambretje
 chambrette/ZaYa
@@ -25414,7 +25425,7 @@ chatten/S2
 chatten/Vi
 chatter/Za
 chat/VqCcXc
-chaud
+chaud/Fw
 Chaudhry/PN
 Chaudron/PN
 chauffage/ZaCe
@@ -26587,7 +26598,7 @@ cocktailparty/Zc
 cocktailprikker/Za
 cocktailshaker/Za
 Cockxstraat
-CO/ClCw
+CO/	Cw
 coco
 COCO/Fw
 cocommentator
@@ -27538,7 +27549,7 @@ concordantiën
 concordantie/Za
 concordeerde
 concorderen/Vi
-concordia
+concordia/Fw
 Concordia/GsGl
 Concordiaplein
 concours/CaCcYbYaZbCb
@@ -32872,7 +32883,8 @@ diepbord/Fw
 diepboring/Zb
 diepbruin/Aa
 diep/CcCaYb
-diepdenkend/Aa
+diepdenkend/Fw
+diepdenkende
 diepdonkere
 diepdoordacht/Aa
 diepdroevig/Aa
@@ -36278,6 +36290,7 @@ driekantig/Aa
 Driekapellen
 drieklank/Zb
 drieklapper
+driekleuren/Fw
 driekleurendruk/Ze
 driekleurig/Aa
 driekleur/Zb
@@ -36324,7 +36337,7 @@ drieploegendienst
 drieploegenstelsel
 driepoot/YbZf
 drieprocentsnorm
-driepunten
+driepunten/Fw
 driepunter/Za
 driepuntig/Aa
 driepuntsgordel/Za
@@ -46001,6 +46014,7 @@ fytoplankton
 fytosanitair/Aa
 fytotherapie
 g
+g\/cm³
 G20-top
 G8-top
 gaaf/AdAeAlAi
@@ -67462,6 +67476,10 @@ i.c.
 Icarusblauwtje
 Icarus/Gs
 ic-bed/Ze
+ic-afdeling/Zb
+ic-opname/ZaZi
+ic-patiënt/Zb
+ic-plaats/Zb
 ice
 icetea
 Ichtegem/SvPNPI
@@ -67653,8 +67671,10 @@ ie
 iebel
 Iedema/PN
 ieder/AaAi
+íédere/NS
 iedereen
-iederéén
+iederéén/NS
+íédereen/NS
 iedereens
 iegelĳk
 iek
@@ -71765,7 +71785,9 @@ inwillig/V3Vp
 inwinnen/Vi
 inwinning/ChC1C2C3C4C5
 inwin/V3
-inwippen/Vi
+inwippen/Fw
+inwippend
+inwippende
 inwisselbaar/Al
 inwisselbaarheid/ChC1C2C3C4C5
 inwisselen/Vi
@@ -72960,7 +72982,9 @@ Jehova's
 jehova/Zc
 jeinen/Vi
 jeint
-jein/Vp
+jein/Fw
+jeinde
+jeinden
 Jekel/PN
 Jeker/Gs
 jekker/YaC3Za
@@ -73483,7 +73507,7 @@ jofel/Aa
 joffer/Za
 Joffrey/PN
 joggel
-joggelen
+joggelen/Fw
 joggen/Vi
 jogger/Za
 jogging/CaCbChC3
@@ -74399,7 +74423,7 @@ kaas/CaCcYbZf
 kaascracker/Za
 kaasdrager/Za
 kaasfabriek/Zb
-kaasjager
+kaasjager/Fw
 kaasjeskruid
 kaaskamer/Za
 Kaaskerke/Sv
@@ -75050,7 +75074,7 @@ Kamermeerderheden
 Kamermeerderheid
 kamermeisje
 kamermeisjes
-kamermeubelen
+kamermeubelen/Fw
 kamermusicus/Zx
 kamermuziek/Ca
 kamermuziekwerk/Zb
@@ -75412,7 +75436,7 @@ Kanne
 Kannegieter
 Kannekens/PN
 kannen/CaCcCb
-kannengeluk
+kannengeluk/Fw
 kannenkĳker/Za
 kannetjeskruid
 kannibaalse
@@ -77753,6 +77777,7 @@ kiezelweg/Zb
 kiezelzand
 kiezel/ZaYaCa
 kiezelzuur
+kíézen/NS
 kiezentrekker/Za
 kiezen/ViPpPs
 kiezer/CcCdZa
@@ -78108,7 +78133,7 @@ kind-zĳn
 kineast/Zb
 kinegram
 kinematograaf/Zg
-kinematografie
+kinematografie/Fw
 kinema/Zc
 Kinepolis
 kinesiologie
@@ -78412,7 +78437,8 @@ klager/CcZa
 klagerig/AaAbZm
 klak/CaCc
 klakhoeden
-klakkebus/Ze
+klakkebus/Fw
+klakkebussen/Fw
 klakkeloos/Al
 klakken/Vi
 klak/V3Vq
@@ -85744,7 +85770,7 @@ Leatemia/PN
 leba
 lebaal/Zf
 leba's
-lebbe
+lebbe/Fw
 Lebbeeks
 Lebbeke
 Lebbekenaar/Zf
@@ -92022,7 +92048,7 @@ mannencollectie/Za
 mannendag/YbZb
 mannending/Zb
 mannengek/Ze
-mannengeluk
+mannengeluk/Fw
 mannengemeenschap/Ze
 mannenhaatster/Za
 mannenhuis/Zh
@@ -98779,7 +98805,7 @@ morganatisch/Aa
 Morgan/PN
 morgenbad
 morgen/CaCcZaYaCb
-morgengrauwen
+morgengrauwen/Fw
 morgenkrieken
 Morgenland
 morgenland/Fw
@@ -102098,6 +102124,7 @@ Niel/PN
 Nielsen/PN
 Niels/PN
 niemand
+níémand/NS
 niemands
 niemandsland
 Nieman/PN
@@ -109551,7 +109578,7 @@ onwerkzaam/AlAqZm
 onwetend/AaAb
 onwetenden/CaCbC4
 onwetendheid/ChC4
-onwetens
+onwetens/Fw
 onwetenschappelĳk/AaAbZm
 onwetmatig/Aa
 onwettelĳk/Aa
@@ -111747,7 +111774,7 @@ oppompen/Vi
 oppomp/V3Vq
 opponeerbare
 opponeer/V3Vp
-opponens
+opponens/Fw
 opponent/ZbC4Xe
 opponeren/Vi
 oppookt/Vb
@@ -116771,7 +116798,8 @@ penningkruid
 penningmeesteresse
 penningmeesterschap
 penningmeester/Za
-penningske/Za
+penningske/Fw
+penningskes/Fw
 Pennings/PN
 Penningsveer
 Penningweg
@@ -121020,6 +121048,7 @@ precedentwerking
 preceptor/ZaZb
 precessie/Ce
 precies/Ar
+precíés/NS
 preciesheid/Ch
 preciest
 precieus/ArZm
@@ -121767,7 +121796,7 @@ private-equityfonds
 private-equityinvestering
 privatelabelmerk
 privatief/Ar
-privatim
+privatim/Fw
 privatisatie
 privatiseer/V3Vp
 privatiseren/Vi
@@ -137192,6 +137221,8 @@ skinhead/Za
 skink
 skinny
 skin/ZaCc
+ski-ongeluk/Fw
+ski-ongelukken/Fw
 skipak/YbZe
 skipas/YbZe
 skipisten
@@ -151453,7 +151484,7 @@ toiletbril/Ze
 toilet/CcCaZeCbYb
 toiletemmer/Za
 toiletganger
-toiletmaken
+toiletmaken/Fw
 toiletpot/Ze
 toiletreiniger/Za
 toiletrolhouder/ZaYa
@@ -170943,6 +170974,7 @@ weddetrekkende/Zi
 weddingplanner/Za
 Wedding/PN
 wedding/ZbCh
+wede/Fw
 weden/Fw
 weder
 wederantwoord
@@ -175744,7 +175776,8 @@ Wordfeud
 wording/CcCh
 WordPerfect
 WordPress
-wordprocessor/Za
+wordprocessor/Fw
+wordprocessors/Fw
 Wordragen
 word/V3
 worgengel/Zb
@@ -176530,6 +176563,7 @@ zaalzuster/Za
 Zaamslag
 Zaandammer/SvZa
 Zaandam/PNPI
+zaan/Fw
 zaande
 zaanden
 Zaandĳk
@@ -178212,6 +178246,8 @@ zielverkoper/Za
 zielverkwikkend/Aa
 zielverzorger/Za
 zielzorger/Za
+zíén/NS
+zíét/NS
 ziende/CeCcZi
 zienderogen
 ziener/CcCdZa
@@ -178325,8 +178361,8 @@ zĳne
 Zĳnenburg/Fw
 zĳnen/CaCb
 zĳnentwege
-zĳnentwil
-zĳnentwille
+zĳnentwil/Fw
+zĳnentwille/Fw
 zĳner
 zĳnerzĳds
 zĳnet/Ze
@@ -179145,9 +179181,11 @@ zoönotisch/Aa
 zoonschap
 Zoontjens/PN
 zoop
-zoopje/Za
+zoopje/Fw
+zoopjes/Fw
 zoöplankton
-zoor/Al
+zoor/Fw
+zore
 zoorder/Aa
 zoorst/Aa
 zoötroop/Zf
@@ -179276,6 +179314,7 @@ zottigheid/ZdCh
 zottin/ZeYf
 zot/YbZe
 zou
+zoude/Fw
 zouden
 zoudt
 Zouhair/PN
@@ -179987,7 +180026,7 @@ Zwartbol/PN
 zwartbont/Aa
 zwartbruin/Aa
 zwart/CcYb
-zwartdag
+zwartdag/Fw
 zwartdruk
 Zwartebroek
 Zwartedĳk
