@@ -97,7 +97,7 @@ installeren en automatisch updaten. Voorbeelden hiervan zijn:
 Voor andere besturingssystemen, zie
 https://repology.org/project/hunspell-nl/versions
 
-Na 2010 wordt er overigens geen ondersteuning meer geleverd voor verouderde
+Na 2011 wordt er overigens geen ondersteuning meer geleverd voor verouderde
 spellingcontrolesoftware zoals Myspell en ispell.
 
 ## Toetsenbord
