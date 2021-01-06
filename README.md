@@ -96,8 +96,11 @@ installeren en automatisch updaten. Voorbeelden hiervan zijn:
 Voor andere besturingssystemen, zie
 https://repology.org/project/hunspell-nl/versions
 
-Na 2011 wordt er overigens geen ondersteuning meer geleverd voor verouderde
-spellingcontrolesoftware zoals Myspell en ispell.
+Ondersteuning voor Aspell en Ispell is te vinden in de respectievelijke
+architectuuronafhankelijke Debianpakketten
+[aspell-nl](https://packages.debian.org/stable/aspell-nl) en
+[idutch](https://packages.debian.org/stable/idutch). Sinds 2011 wordt MySpell
+niet meer ondersteund.
 
 ## Toetsenbord
 
@@ -155,7 +158,11 @@ and update it automatically. Examples of this are:
 
 For other operating systems, see https://repology.org/project/hunspell-nl/versions
 
-TODO
+Support for Aspell and Ispell can be found in the respective
+architecture-independent Debian packages
+[aspell-nl](https://packages.debian.org/stable/aspell-nl) and
+[idutch](https://packages.debian.org/stable/idutch). Since 2011, MySpell is no
+longer supported.
 
 ## Keyboard
 
