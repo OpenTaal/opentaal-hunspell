@@ -50,6 +50,10 @@ ONLYMAXDIFF
 # 3 limits wild suggestions a lot, but also drops suggestions for words with multiple errors
 MAXDIFF 3
 
+# use double chars as flags, for more choice and readability
+# For readability reasons, use of flags is (mostly) restricted tu Upper-Lowercase combinations
+FLAG long
+
 # avoid wrong spelling of letterwords in full uppercase (DVD should be dvd)
 KEEPCASE Kc
 
@@ -62,10 +66,6 @@ FORCEUCASE Fu
 # BREAK 0 causes the - to be seen as part of the word,
 # which is necessary to support the optional - in compounded words
 BREAK 0
-
-# use double chars as flags, for more choice and readability
-# For readability reasons, use of flags is (mostly) restricted tu Upper-Lowercase combinations
-FLAG long
 
 # explicitly forbid words
 FORBIDDENWORD Fw
