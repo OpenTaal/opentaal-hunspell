@@ -74,12 +74,14 @@ FORBIDDENWORD Fw
 NOSUGGEST NS
 
 # make calculation of alternatives better for words with accents
-MAP 5
+MAP 7
 MAP eéèëê
-MAP aáà
+MAP aáàäâå
 MAP iíìïî
 MAP oóòöô
-MAP uüúùû
+MAP uúùüû
+MAP nñ
+MAP cç
 
 # replace correct accented double vowels with unaccented ones for acceptance
 # also take care of apostrophe differences and ij as one character
