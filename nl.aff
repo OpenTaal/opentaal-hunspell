@@ -717,7 +717,7 @@ REP ^huis-aan-huis huis_aan_huis
 REP arĳu arihu	#marijuana -> marihuana
 REP servie Servië	# serviers -> Serviërs
 REP è ai	# stagières -> stagiaires
-REP ^sterks sterk_s -> sterksmakend -> sterk smakend
+REP ^sterks sterk_s # sterksmakend -> sterk smakend
 REP ^superdeluxe super-de-luxe
 REP twaalfeneenhalf twaalf-en-een-half	# twaalfeneenhalfjarig 620
 REP ^Tweedeka Tweede_Ka	# Tweedekamerleden
@@ -972,7 +972,7 @@ REP never-nooit-niet never_nooit_niet	# never-nooit-niet -> never nooit niet
 REP deus-ex-machina deus_ex_machina	# 870
 REP end ig	# afwezend -> afwezig
 REP ^hai$ foeyonghai
-REP igings ing -> vestigingsstad - vestingstad
+REP igings ing # vestigingsstad - vestingstad
 REP termĳn langetermĳn
 REP termĳn kortetermĳn
 REP spand hand-en-spand	# hand- en spandiensten -> hand-en-spandiensten
