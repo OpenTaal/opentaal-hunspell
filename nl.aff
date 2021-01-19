@@ -36,7 +36,7 @@ WORDCHARS '’0123456789ĳ.-\/+
 # Issue has been communicated with Hunspell's author.
 # + added to support 50+'er
 
-# do not offer split words (to prevent English desease, splitting up words)
+# do not offer split words (to prevent English disease, splitting up words)
 NOSPLITSUGS
 
 # maximum number of compound suggestions
@@ -50,7 +50,7 @@ ONLYMAXDIFF
 # 3 limits wild suggestions a lot, but also drops suggestions for words with multiple errors
 MAXDIFF 3
 
-# avoid wrong spelling of letterwords in full uppercase (DVD should be dvd)
+# avoid wrong spelling of acronym in full uppercase (DVD should be dvd)
 KEEPCASE Kc
 
 # set the flag for warning with confusing words (kunne)
@@ -1158,14 +1158,14 @@ SFX Ce Y 2
 SFX Ce 0 /CaCbCp .	
 SFX Ce 0 -/CaCbCcCp .	
 
-# FLAGS FOR LETTERWORDS AND WORD THAT NEED A HYPHEN WHEN COMPOUNDING
+# FLAGS FOR ACRONYM AND WORD THAT NEED A HYPHEN WHEN COMPOUNDING
 SFX Cl Y 1
 SFX Cl 0 -/CaCbCp .
 
 PFX Cw Y 1
 PFX Cw 0 -/CbCcCp .
 
-# FLAGS FOR NOUN DIMINITIVES
+# FLAGS FOR NOUN DIMINUTIVES
 # tuin=>tuintje
 SFX Ya Y 3
 SFX Ya 0 tje .				ts:NN1r
@@ -1421,7 +1421,7 @@ SFX Zj Y 2
 SFX Zj 0 n/CaCbCp .		ts:NN2
 SFX Zj 0 n-/CaCbCp .		ts:NN2
 
-# FLAGS FOR POSESSIVE FORM OF PROPER NAMES
+# FLAGS FOR POSSESSIVE FORM OF PROPER NAMES
 SFX PN N 13
 SFX PN 0 ' [hsxz]		ts:DT
 SFX PN 0 's [^a][a]		ts:DT
