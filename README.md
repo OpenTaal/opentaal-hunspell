@@ -133,7 +133,7 @@ spell checker can be used freely. The exact conditions can be found in the file
 
 This spell checker is based on the
 [Dutch word list](https://github.com/OpenTaal/opentaal-wordlist) from OpenTaal
-This list has received the the Quality Mark Spelling
+This list has received the Quality Mark Spelling
 ([Keurmerk Spelling](http://taalunieversum.org/inhoud/spelling-meer-hulpmiddelen/keurmerk))
 from the Dutch Language Union ([Taalunie](http://taalunie.org)). This means that
 the words in this spell checker conform to the official spelling.
