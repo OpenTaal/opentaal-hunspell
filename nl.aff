@@ -100,7 +100,7 @@ OCONV 2
 OCONV ĳ ij
 OCONV Ĳ IJ
 
-REP 885
+REP 884
 REP a's$ a	# centra's=>centra
 REP a's$ ums	# centra's=>centrums
 REP pt$ bd	# dichtgeslipt
@@ -689,7 +689,6 @@ REP ij ei	# Ij=>ei
 REP intelligentie inlichtingen	# intelligentiediensten_=_inlichtingendien
 REP ashkena Asjkena
 REP gebeid gebied
-REP dattie dat hij
 REP veras verras
 REP aanvaart aanvaardt
 REP persentage percentage	#592
