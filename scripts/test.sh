@@ -13,7 +13,7 @@ hunspell -d ../nl -G -1 ../../opentaal-wordlist/elements/corrections.tsv > corre
 sort ../../opentaal-wordlist/wordlist.txt > tmp1
 awk -F '\t' '{print $1}' ../elements/excluded.tsv | sort > tmp2
 /usr/bin/diff tmp1 tmp2 | /bin/grep \< | sed -e 's/^..//' > tmp3
-hunspell -d ../nl -L tmp3 > wordlist-hunspell-failed.txt
+hunspell -d ../nl -L tmp3 > wordlist-hunspell-failed.txt #TODO skip forbidden words Fw
 rm -f tmp?
 
 if [ -z $(which nuspell) ]; then

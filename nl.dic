@@ -1,4 +1,4 @@
-180689
+180715
 €10-biljet/Ze
 €20-biljet/Ze
 €50-biljet/Ze
@@ -744,6 +744,7 @@ aanlevering/ZbChC1Zb
 aanlevert
 aanlever/Vp
 aanliet
+aanlĳken
 aanlĳn
 aanlĳngebod
 aanlĳnplicht
@@ -844,6 +845,7 @@ aanrieden
 aanrĳ
 aanrĳd
 aanrĳder
+aanrĳdgevaar
 aanrĳding/ZbChC1Yc
 aanrĳroute/Za
 aanrĳtĳd/ZbC1
@@ -3012,6 +3014,7 @@ afeten
 affaire/CeCcZaYaC1
 affairisme
 affakkelen
+affakkeling
 affectatie/ZaCeC1
 affectief/Ar
 affectieschade
@@ -4391,6 +4394,7 @@ airconditioning/CaChC1Za
 airco/ZcCeCcYeC1
 Airees
 Aires
+airfryer/Za
 airhostess/CaZbCbC1
 airlift
 airline
@@ -5002,6 +5006,7 @@ allesverschroeiend/Aa
 allesverslindend/Aa
 allesverwoestend/Aa
 allesverzengend/Aa
+allesvuller/Za
 alleswetend/Aa
 allesweter/Za
 alleszins
@@ -6402,6 +6407,7 @@ antifoon/ZfC1
 antifouling/ChC1Za
 anti-Frans/Aa
 antigeen/ZfC1
+antigeentest/Zb
 antigen/ZbC1
 antigif/Ca
 antiglobalisme
@@ -7415,6 +7421,7 @@ Armani/PN
 Arman/PN
 armatuur/CcZfYaC1
 armband/CcCaYbZbCbC1
+armbeschermer/Za
 armbestuur/YaZfCcC1
 armbeweging/YcZbCcC1
 armbezoek/CcCaYbZbCbC1
@@ -8788,6 +8795,7 @@ avondenlang
 avondfeesten
 avondjapon/ZeC1
 avondklok/ZeC1
+avondklokreller/Za
 avondkoelte
 Avondland
 avondland/Fw
@@ -9394,6 +9402,7 @@ Badstraat/GWGL
 badstrand/CcCaYbCbZb
 badstrand/Zb
 badtas/Ze
+badtextiel
 badthermometer/Za
 badvrouw/Zb
 badwater/CcZaYaZbCaCb
@@ -19214,7 +19223,7 @@ boezel/ZaYa
 boezem/CcCaCbYbZa
 boezemen/Vi
 boezemfibrilleren
-boezemkade/Zi
+boezemkade/ZaZi
 boezemland/Zb
 boezemmeer
 Boezempad
@@ -28747,8 +28756,10 @@ Corolla
 coronaal/Al
 coronadashboard
 coronaepidemie
+coronahufter/Za
 coronair/Aa
 coronamoe
+coronaspuger/Za
 coronaproblematiek
 coronarycareafdeling
 corona/ZcCa
@@ -28867,6 +28878,7 @@ corticosteroïde/Zi
 corticosteron
 cortisol
 cortison/Zb
+cortisone
 Corts/PN
 Coruña
 Corus
@@ -33501,6 +33513,7 @@ diksap
 Diksmuide/Sv
 dikte/CeCcZa
 diktongig
+dikverdiende
 dikwandig/Aa
 dikwerf
 dikwĳls
@@ -36714,6 +36727,7 @@ droefenis/CaCb
 droefgeestig/AaAbAe
 droefgeestigheid/Ch
 droefheid/Ch
+droeftoeter/Za
 droegen/PbPjPlPmPnPoPrPsPt
 droeg/PbPjPlPmPnPoPrPsPt
 droes
@@ -38655,6 +38669,7 @@ eenentwintig/V3Vp
 eeneuromunt/Zb
 eengeboren
 eengemaakt/Aa
+eengezinskoopwoning/ZbC1C2C3C4
 eengezinshuis/ZhC1C2C3C4
 eengezinswoning/ZbC1C2C3C4
 eenhandig/AaZm
@@ -50169,7 +50184,7 @@ gekken-koeienziekte/Fw
 gekken/Vi
 gekkerd/Za
 gekkernĳ/Zb
-gekkies
+gekkie/Za
 gekkigheid/ZdChYb
 gekkin/ZeYf
 gekko/ZcCc
@@ -61318,7 +61333,7 @@ havenfunctie/Za
 Havenga/PN
 havengroep/Fw
 haveninstallatie/Za
-havenkade/Za
+havenkade/ZaZi
 havenkom/YfZe
 havenloods/Zb
 havenmeester/Za
@@ -99437,6 +99452,7 @@ mp-tempo/Fw
 mr.
 MR
 Mr.F.
+mRNA-vaccin/Za
 MRI/ClCw
 MRI-installaties/Fw
 MRI-leden/Fw
@@ -106268,6 +106284,7 @@ onaangeraakt/Aa
 onaangeroerd/Aa
 onaangesproken
 onaangetast/Aa
+onaangeteld
 onaangevochten
 onaanlokkelĳk/Aa
 onaannemelĳk/AaAbZm
@@ -128916,6 +128933,7 @@ RNA
 RNA-
 RNA-molecule/Za
 RNA-molecuul/Zf
+RNA-vaccin/Za
 Ro
 Road
 roadblock/Za
@@ -141659,6 +141677,7 @@ Sranantongo
 SRD/ClCw
 SRD-fase/Fw
 SRD-kaart/Fw
+SRV-wagen/Za
 Srebrenica/Ce
 Sri
 s's
@@ -166316,6 +166335,7 @@ voltĳdwerker/Za
 voltmeter/Za
 voltogen/Pm
 voltooid/VeZm
+voltooidlevenwet/Ze
 voltooien/Vi
 voltooiing/ZbCh
 voltooi/V3Vp
@@ -169871,6 +169891,7 @@ wapperen/Vi
 Wappermarkt/Fw
 Wapperom/PN
 wapper/V3Vp
+wappie/Za
 Wapse
 Wapserveen
 Wapstra/PN
@@ -173945,6 +173966,7 @@ Whitley/PN
 Whitney/PN
 whizzkid/Za
 WHO
+WHO-onderzoeker/Za
 whodunit/Za
 wholesale
 wholetaskbenadering
@@ -175368,6 +175390,7 @@ witters
 wittetruidrager
 Witteveen/PNPI
 Wittewierum
+wittewijnglas/Ze
 WITT/Fw
 Wittgenstein
 wittig/AaZm
@@ -175949,7 +175972,7 @@ woordkunstenaar/Za
 woordloos/Al
 woordpakket/Ze
 woordparen
-woordensmederij
+woordensmederĳ
 woordspel
 woordspelig/Aa
 woordspeling/Zb
@@ -179150,6 +179173,7 @@ zonaal/Al
 zonaanbidder/Za
 zonaanbidster/Za
 zonachtig/Aa
+zonadres/Ze
 zonbeschenen
 zonbescherming
 zonbestemming/Zb
@@ -180105,6 +180129,7 @@ zwaardleliën
 zwaardlenen
 zwaardridder/Za
 zwaardslagen
+zwaardslikker/Za
 zwaardvechten/Vi
 zwaardvechter/Za
 zwaardvis/YbZe
@@ -180383,6 +180408,7 @@ zweed/Vp
 zweef/CaCb
 zweefduiken
 zweefrek/YbZe
+zweefparasol/Za
 zweefsport
 zweeftoestel/Ze
 zweef/V3Vp
