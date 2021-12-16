@@ -129,6 +129,8 @@ Help ons vrije en open Nederlandse schrijftools te ontwikkelen. Doneer
 belastingvrij aan onze ANBI via https://www.opentaal.org/vrienden-van-opentaal
 of contacteer ons als je woordenlijsten of databasevaardigheden te bieden hebt.
 
+Doneren is ook mogelijk met <noscript><a href="https://liberapay.com/opentaal/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
 ## Zie ook
 
 - https://bugzilla.redhat.com/show_bug.cgi?id=1912135
@@ -197,3 +199,11 @@ you have word lists to database skills to offer.
 ## See also
 
 - https://bugzilla.redhat.com/show_bug.cgi?id=1912135
+
+## Contribute
+
+Please, help us create free and open Dutch writing tools. Donate tax free to our
+foundation at https://www.opentaal.org/vrienden-van-opentaal or contact us is
+you have word lists to database skills to offer.
+
+Donating is also possible with <noscript><a href="https://liberapay.com/opentaal/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
