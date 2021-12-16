@@ -1,3 +1,11 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/opentaal/opentaal-hunspell)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/opentaal/opentaal-hunspell)
+![GitHub Repo stars](https://img.shields.io/github/stars/opentaal/opentaal-hunspell)
+![GitHub watchers](https://img.shields.io/github/watchers/opentaal/opentaal-hunspell)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/opentaal)
+![Liberapay patrons](https://img.shields.io/liberapay/patrons/opentaal)
+
+
 _for English, please see below_
 
 
