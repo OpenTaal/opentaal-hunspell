@@ -23,12 +23,12 @@
 SET UTF-8
 
 # statistical order as shown by Pander, except for the -, ‘’ and capitals
-TRY  -ernitsaoldgkupmchbvjwfzyx'’ëqïéèö.êü12635407çà8û9îñäôERNITSAOLDGKUPMCHBVJWFZYX
+TRY  -ernitsaoldgkupmchbvjwfzyx'’ëqïéèö.êü12635407çà8û9îñäôERNITSAOLDGKUPMCHBVJWFZYX₂²€@
 
 # combined layout for BE and NL keyboards NL en BE
 KEY qwertyuiop|asdfghjkl|zxcvbnm|qawsedrftgyhujikolp|azsxdcfvgbhnjmk|aze|qsd|lm|wx|aqz|qws|
 
-WORDCHARS '’0123456789ĳ.-\/+
+WORDCHARS '’0123456789ĳ.-\/+₂²€@
 # . is only useful as wordchar from the command line
 # \/ should make the / acceptable as part of word (km/h)
 # the way applications offer words to the Hunspell interface apperently differs,
