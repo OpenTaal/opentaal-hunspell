@@ -110,6 +110,12 @@ architectuuronafhankelijke Debianpakketten
 [idutch](https://packages.debian.org/stable/idutch). Sinds 2011 wordt MySpell
 niet meer ondersteund.
 
+Om de versie van deze repository te installeren, doe
+
+    sudo cp -a nl.aff nl.dic /usr/share/hunspell/
+    sudo chown root.root /usr/share/hunspell/nl.dic
+    sudo chown root.root /usr/share/hunspell/nl.aff
+
 ## Toetsenbord
 
 Voor Android is er een toetsenbord dat gebruik maakt van de woordenlijst van
@@ -176,6 +182,12 @@ architecture-independent Debian packages
 [aspell-nl](https://packages.debian.org/stable/aspell-nl) and
 [idutch](https://packages.debian.org/stable/idutch). Since 2011, MySpell is no
 longer supported.
+
+To install the version from this repository, do
+
+    sudo cp -a nl.aff nl.dic /usr/share/hunspell/
+    sudo chown root.root /usr/share/hunspell/nl.dic
+    sudo chown root.root /usr/share/hunspell/nl.aff
 
 ## Keyboard
 

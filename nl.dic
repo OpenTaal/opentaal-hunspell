@@ -1,4 +1,4 @@
-180809
+180960
 €10-biljet/Ze
 €20-biljet/Ze
 €50-biljet/Ze
@@ -2819,6 +2819,7 @@ advocatuur
 Advokaat/PN
 adv-programma/Fw
 adv-uur/Zf
+Adygees/PN
 Adzjarië
 AED
 aed/Zc
@@ -5562,6 +5563,7 @@ Amersfoortse/Sv
 Amesz/PN
 Amethiststraat
 amethist/ZbC1
+ametropie
 ameublement/ZbC1
 amfetaminegebruik
 amfetaminelab
@@ -7040,6 +7042,7 @@ Ara/PN
 Ararat
 ARAS/Fw
 Aras/PN
+Arawaktalen
 ara/Zc
 arbeid/CbCcChC1
 arbeiden/Vi
@@ -8208,6 +8211,7 @@ atomisering/ChC1
 atomisme
 atomistisch/Aa
 atomist/ZbC1
+Atomium/PN
 atonaal/Al
 atonaliteit/ChC1
 atoomaanvallen
@@ -8862,6 +8866,7 @@ avontuurlĳkheid/ChC1
 avontuurt
 A-vormig/Aa
 Avraham/PN
+Avro/ClCw
 AVRO/ClCw
 AWACS/ClCw
 AWAD/Fw
@@ -10907,6 +10912,7 @@ battledress/Zb
 Batur/PN
 bat/VqYbZa
 baud
+Baudet/PN
 Baudetdrinkwaterttappunt
 Baudoin/PN
 baudrate/Za
@@ -13650,6 +13656,7 @@ bentoniet
 Bento/PN
 Bent/PN
 bents
+Bentudaarweer
 Bentum/PN
 Bentveld
 Bentvelsen/PN
@@ -16259,6 +16266,7 @@ bezorgen/Vi
 bezorger/CcZa
 bezorging/ZbCcCh
 bezorgster/Za
+bezorgschaamte
 bezorg/V3Vp
 bezuiden
 Bezuĳen/PN
@@ -18452,6 +18460,7 @@ blokkade/ZaCcZa
 blokkeer/CaCb
 blokkeerder/Za
 blokkeer/V3Vp
+blokkeerfries/Zh
 blokkendam/Yf
 blokken/PjVi
 blokkenwagen
@@ -19423,6 +19432,8 @@ bolivar/Za
 Bolivia
 Boliviaan/PNZf
 Boliviaans/Aa
+Bolivariaans
+Bolivariaanse
 Bolivië
 bolkaf
 Bolkensteun/Fw
@@ -19995,6 +20006,7 @@ boost
 Boosten/PN
 Booster/PN
 booster/Za
+boosterprik/Ze
 booste/Zi
 booswicht/Zb
 bootafhouder/Za
@@ -21077,6 +21089,7 @@ bovenvenster/Za
 bovenverdieping/Zb
 bovenvermeld/Aa
 bovenvlak/Ze
+Boven-Volta
 bovenwaarde
 bovenwaarts/Aa
 bovenwater
@@ -22792,6 +22805,7 @@ buffervat
 bufferwerking/Zb
 buffet/CcCaYbZeCb
 buffetwagen/Za
+Bugatti/PN
 Bugel/PNGs
 bugel/Za
 Buggenhoutenaar
@@ -23476,6 +23490,7 @@ Burkina
 Burkinees
 Burki/PN
 Burlage/PN
+burl
 burlen/Vi
 burlesk/AaAb
 Burleson/PN
@@ -25449,9 +25464,11 @@ ceylonthee
 Ceyvonistraat
 Cézanne
 Cézannes
+CFA-frank
 cfk
 cfk's
 CFO/Zc
+CFP-frank
 cg
 Chaamdĳk
 Chaam/PNPI
@@ -26417,6 +26434,7 @@ CJP/ClCw
 C-klasse
 ckv-docent/Zb
 cl
+CL
 Claartje/PN
 Claasen/PN
 Claase/PN
@@ -26721,6 +26739,7 @@ clusterprĳs/Zh
 cluster/V3Vp
 Clyde/PN
 cm
+CM
 cm²
 cm³
 CMG/ClCw
@@ -30268,6 +30287,7 @@ Dahlmans/PN
 Dahmani/PN
 Dahmen/PN
 Dahoe/PN
+Dahomey/PN
 Dahri/PN
 Daihatsu
 daikon
@@ -31511,6 +31531,7 @@ dégénérée/ZaYa
 degenereren/Vi
 dégénéré/Za
 Degenkamp/PN
+degenkrab/Ze
 degenslikker/Za
 degenstok/Ze
 degenstoot/Zf
@@ -31946,6 +31967,7 @@ demoraliseren/Vi
 demoralisering
 demostraten/Fw
 demotie/Za
+Demotisch
 demotivatie
 demotiveer/V3Vp
 demotiveren/Vi
@@ -35179,6 +35201,7 @@ doodsnood
 doodsoorzaak/Zf
 doodspoor/Fw
 doodspoot
+doodsprent/Zb
 doodsprentje/Za
 doodspuiten/Vi
 doodsschouw
@@ -36118,6 +36141,7 @@ dozerde
 dozeren/Vi
 dozĳn/YaZb
 Dozy/PN
+DPG
 dpi
 d-pion
 D-pupil/Ze
@@ -38409,6 +38433,7 @@ economist/ZbC1C2C3C4
 economyclass
 econoom/CcZfC1C2C3C4
 e-consult
+ecopopulisme
 ecostroom
 ecosysteem/ZfCcCaC1C2C3C4
 ecotaks/CaCbC1C2C3C4Zb
@@ -39190,6 +39215,7 @@ egelskop/ZeYbC1C2C3C4
 egelstelling/ZbC1C2C3C4
 Egelstraat
 egelvis/ZeC1C2C3C4
+egelvoer
 Egem/Sv
 Eger
 EGER/Fw
@@ -39917,6 +39943,7 @@ Elferink/PN
 Elfers/PN
 Elfferich/PN
 Elffers
+elfhonderdelf
 elfjuliviering/Zb
 elfkoppig/Aa
 elfmaal
@@ -40039,6 +40066,7 @@ Elles/PN
 elletje/Za
 Ellewoutsdĳk
 ELL/Fw
+Ellice-eilanden
 Ellie/PN
 Ellikom
 Elling/PN
@@ -40359,6 +40387,7 @@ emocore
 E-mode/Fw
 emoe/Za
 emoji/Zc
+emojivariant
 emolumenten
 Emonds/PN
 Emons/PN
@@ -40460,6 +40489,7 @@ endemisch/Aa
 Endemol
 Endenburg/PN
 Endenees
+Enderbury/PN
 Enderink/PN
 Endeveld/PN
 Endhoven/PN
@@ -40841,6 +40871,7 @@ e.o.
 eo
 EO
 eoceen/Al
+EOD
 E-oever/Fw
 E-oevers/Fw
 eo ipso
@@ -40961,6 +40992,7 @@ Eppink/PN
 EPPO/Fw
 Eppo/PN
 e-privacy
+EPS
 Epse
 EPSE/Fw
 epsilon/Za
@@ -41674,7 +41706,8 @@ etherkapje
 ethernet/Ca
 ethernetkaarten
 ethernetmodem/Za
-Etherpad
+Etherpad/PN
+Ethereum/PN
 ethica
 ethicus/CaCcCbC1C2C3C4Zx
 ethiek/CcC1C2C3C4
@@ -41792,6 +41825,7 @@ eubiotiek
 Euboea
 EU-buitenlandchef
 EU-buitenlandcoördinator
+Eucalypta/PN
 eucalyptus/CaZeCbC1C2C3C4
 eucharistie
 eucharistieviering/ZbC1C2C3C4
@@ -41939,7 +41973,8 @@ euroscepticisme
 euroscepticus/Zx
 eurosceptisch/Aa
 Eurosport
-Eurostar
+Eurostar/PN
+Eurostat/PN
 euroteken/Za
 eurotĳdperk
 euroton
@@ -43530,6 +43565,7 @@ Feniciër
 Feniciërs
 Fenĳn/PN
 feniks/CaZbCb
+Fenicisch/PN
 Fenna/PN
 Fenneken/PN
 fennek/ZaZb
@@ -43869,6 +43905,7 @@ Fĳen/PN
 fĳfelen/Vi
 fĳfel/V3VpZa
 Fĳi
+Fĳi-dollar
 Fĳi-eilanden
 Fĳiër/Za
 Fĳisch/Aa
@@ -44263,6 +44300,7 @@ Firmatoon/Fw
 firmawagen/Za
 firmware
 firn
+Firo/PN
 first
 fiscaal/AlZf
 fiscaal-economisch/Aa
@@ -44775,6 +44813,7 @@ fluitspeler/Za
 fluks/AaAb
 Fluks/PN
 fluor-
+fluoranje
 fluorbehandeling/Zb
 fluor/CaCb
 fluoresceert/Va
@@ -44858,6 +44897,7 @@ foefel/V3Vp
 foef/YbZb
 foei
 foeilelĳk/Aa
+foeigesprek/Ze
 Foekema/PN
 Foeken/PN
 Foeke/PN
@@ -46944,6 +46984,7 @@ gasmonster
 gasmotor/CcCdZaYaCaZb
 gasmunt/Yb
 gasnaald/CcCaZbCbYb
+gasnarcose
 gasnet/AdAeAnAoAp
 gasnetwerk/CcCaYbZbCb
 gasnet/Ze
@@ -47123,6 +47164,7 @@ gaswinning/ZbCcCh
 gaswisseling/CcZbCh
 gaswolk/CcCaYbZbCb
 gas/YaZe
+gat/ZbZeYb
 gatdoek/Zb
 gaten/Cc
 gatenkazen
@@ -47137,7 +47179,7 @@ Gatsonides/PN
 Gattenberg/Fw
 gatver
 gatverdamme
-gat/ZbZeYb
+gatzaag/Zf
 gauchisme
 gaucho/Zc
 gaufreerde
@@ -49502,6 +49544,7 @@ gehaat/Al
 gehackt/Ve
 gehad/PbPmPnPp
 gehageld
+gehak
 gehakkel
 gehakkeld/Ve
 gehakketak
@@ -51763,6 +51806,7 @@ gender/CaZa
 genderdysforie
 Genderen
 gendergelĳkheid/Ch
+genderfluïde
 genderneutraal/Al
 genderrol
 Genders/PN
@@ -51802,7 +51846,7 @@ geneigdheid/ZdCcCh
 geneigd/Ve
 genekt
 Genemuiden/Sv
-genenpoel
+genenpoel/Zb
 genenrally/Fw
 Genenrally/Fw
 genenrating/Fw
@@ -55336,6 +55380,7 @@ gewicheld
 gewichthef
 gewichtheffen/Vi
 gewichtheffer/Za
+gewichthefster/Za
 gewichtig/AaAbAcAdAeAi
 gewichtigdoenerĳ/Ca
 gewichtigdoener/Za
@@ -56468,6 +56513,7 @@ glaszetter/Za
 glaszuiver/Aa
 glauberzout
 glaucoom
+glaucoomscreening/Za
 Glaudemans/PN
 Glavimans/PN
 glazen/Cc
@@ -56651,6 +56697,7 @@ gluren/PbPjViPo
 glutamaat
 glutamine
 gluten/CcCaCb
+glutenbevattend/Aa
 glutenintolerantie
 glutenvrĳ/Aa
 glutine
@@ -56714,6 +56761,7 @@ Gobiwoestĳn
 gocart/Za
 God
 godallemachtig
+godan
 Godart
 godbetert
 goddank
@@ -57398,6 +57446,7 @@ gortgame/Fw
 gortgames/Fw
 Gorthals/Fw
 gortig/AaAbAcAdAeZm
+gortzak
 Gortland/Fw
 Gortzaak/Fw
 Gortzak/PN
@@ -59624,6 +59673,7 @@ haarstructuur
 haarstudio
 haarstuk/YbZe
 haarstyling
+haarstylingsapparaat/Zf
 haarstylist/Zb
 Haart
 haartooi
@@ -63494,6 +63544,7 @@ herspelen
 Herstappe
 herstarten/Vi
 herstart/ZaVq
+herstartfase
 herstelactie/Za
 herstelbaar/Al
 herstelbedrĳf/Zh
@@ -63748,6 +63799,7 @@ het
 hetaere/Zi
 Hetebrĳ/PN
 heteluchtballon/ZaZe
+heteluchtfriteuse/Za
 heteluchtkachel/Za
 heteluchtkanon/Ze
 heteluchtmotor/ZaZb
@@ -67599,6 +67651,7 @@ hyperlink/Za
 hypermacht
 hypermarkt/CaZbCb
 hypermetroop/Al
+hypermetropie
 hypermodern/AaAb
 hypernerveus
 hypernerveuze
@@ -68684,6 +68737,7 @@ Imani/PN
 Iman/PN
 Imanse/PN
 Imanuel/PN
+IMAX
 imbeciel/AaAbAeZb
 imbeciliteit/ZbChC1C2C3C4C5
 Imbosch
@@ -68785,6 +68839,8 @@ immunotherapie
 immuunapparaat
 immuun/AqAl
 immuun/Ca
+immuungecompromitteerd/Aa
+immuungecompromitteerde/Zi
 immuunreactie
 immuunrespons
 immuunsysteem
@@ -71732,6 +71788,7 @@ intrappen/Vi
 intrap/V3Vq
 intrareproduceerbaarheidsvariatiecoëfficiënt
 Intratuin
+Intrastat/PN
 intra-uterien/Aa
 intraveneus/Ar
 intredend/Aa
@@ -73628,6 +73685,7 @@ JOAS/Fw
 Joas/PN
 jobaanbieding/ZbC3
 jobaanbod
+Jobat/PN
 jobben/Vi
 jobber/Za
 jobbeurs/CaZhCbC3
@@ -73803,6 +73861,7 @@ Johnnie/PN
 Johnny/PN
 John/PNZc
 Johnson/PN
+Johnston/PN
 Johny/PN
 joinend/Fw
 Joinend/Fw
@@ -74560,6 +74619,7 @@ Kaaĳk/PN
 Kaaĳ/PN
 kaailoper/Za
 Kaaimaneilanden
+Kaaimaneilandse
 kaaiman/YfZeXfZa
 kaaischuimers
 kaai/V3Vp
@@ -79507,6 +79567,7 @@ klingeling
 klingel/V3Vp
 Klinge/PN
 klingetje/Za
+Klingon
 kliniek/CcZbYb
 klinimobiel/Zb
 klinisch/Aa
@@ -81090,6 +81151,7 @@ konfĳten/Vi
 konfĳt/Vq
 kongeraal/Zf
 Kongo
+Kongolese
 Kong/PN
 Kongs/Fw
 kongsi/Zc
@@ -81721,7 +81783,7 @@ koralĳn
 Koramshar
 Koramsjar
 Korangeleerde/Zi
-Koranles
+Koranles/Ze
 Koranschool/Zf
 Koranspreuk/Zb
 Korantekst/Zb
@@ -83112,6 +83174,7 @@ kromtrekt
 kromtrok
 kromtrokken
 krom/V3Vp
+Kromowidjojo
 Kroneman/PN
 Kronemeĳer
 kronendak/Zb
@@ -83354,6 +83417,7 @@ kruisgesprek/Fw
 kruisgewĳs/Ar
 Kruishoutem/PNPI
 kruishouten
+Kruisigem
 kruisigen/Vi
 kruisigingsact
 kruisiging/ZbCh
@@ -87765,6 +87829,7 @@ Lexmark
 Lexmond
 Lex/PN
 Lexs/Fw
+Lexus
 Ley
 Leydenstraat
 Leyenburg
@@ -89005,6 +89070,7 @@ LITA/Fw
 Litani
 litanie/Zb
 Lita/PN
+Litecoin/Za
 literaat/Zf
 literair/AaAi
 literair-historisch/Aa
@@ -92229,7 +92295,8 @@ mangroveboom/Zf
 mangrovebos/Ze
 mangrove/ZaCeZi
 manhaftig/AaAbAeZm
-Manhattan
+Manhattan/PN
+Manhattanproject/PN
 Manhuisstraat
 maniakaal/Al
 maniak/CcZe
@@ -93726,6 +93793,7 @@ McCain
 McCarthy
 McCartney/PN
 McDonald's
+McLaren/PN
 m-commerce
 mdf
 MDF/ClCw
@@ -95350,6 +95418,7 @@ merchandising/Ch
 Merchtem/PNPI
 merci
 Merckx/PN
+Mercosur
 Mercuriushof
 Mercurius/SvCAGl
 mercurochroom
@@ -95461,6 +95530,8 @@ Mermans'/Fw
 Mermans/PN
 Merodestraat
 Mérodestraat/GL
+Meroïtisch
+Meroïtische
 meroniem/Zb
 Merovingenstraat
 Merovingers
@@ -95937,6 +96008,7 @@ Mgr
 Mgr.
 M.H.
 MH17
+MH17-dossier
 Mheer
 MHz
 m.i.
@@ -96332,6 +96404,8 @@ midrasj
 midscheeps/Aa
 Midsland
 midvoor/Za
+Midway
+Midway-eilanden
 midweeks/Aa
 midweek/ZfYb
 Midwesten
@@ -97904,12 +97978,14 @@ mkb-vrĳstelling/Zb
 MKZ/ClCw
 MKZ-uitbraak
 ml
+ML
 Mladic
 mld.
 mlk-school
 mln.
 m.m.
 mm
+MM
 mm²
 mm³
 MMBase
@@ -100309,6 +100385,7 @@ naasthogere
 naasting/ZbCh
 naastliggend/Aa
 naatje
+Nabatees
 Nabben/PN
 Nabbe/PN
 nabeeld/Zb
@@ -101918,6 +101995,7 @@ Nescio/Gs
 nesjomme/Za
 Neslo/PN
 Neslo's/Fw
+Nespresso/PN
 Nessenlade/Fw
 Nesserlaan
 Nessersluis
@@ -102277,11 +102355,13 @@ Nevis
 nevoïde
 new
 New
+Newaars
 newageachtig/Aa
 newagealbum
 newage/CeCx
 newagedrama
 newagegeluidsbehang
+Newari
 newbie/Za
 Newcastle
 Newfoundlander/PN
@@ -102593,6 +102673,7 @@ niet-gebonden/Zm
 niet-gebruik
 niet-gebruiker/Za
 niet-gebruikte
+niet-gecodeerd
 niet-geconsolideerd
 niet-gehandicapte/Zi
 niet-geïdentificeerde
@@ -103760,10 +103841,10 @@ Noord-Europa
 Noord-Europeaan/Zf
 Noord-Europees/Al
 noordflank
-Noord-Frankrĳk
+Noord-Frankrĳk/PN
 Noord-Frans/Aa
 Noord-Friese
-Noord-Friesland
+Noord-Friesland/PN
 Noord-Germaans/Aa
 noordgevel
 Noordgouwe
@@ -103789,11 +103870,11 @@ Noordĳkerveld
 Noord-India
 Noordink
 Noord-Iraakse
-Noord-Irak
+Noord-Irak/PN
 Noord-Italiaans/Aa
 Noord-Italië
-Noordkaap
-Noordkade
+Noordkaap/PN
+Noordkade/PN
 Noordkamp/PN
 noordkant
 noordkaper/Za
@@ -103805,8 +103886,9 @@ noordkust/Zb
 Noordland
 Noordlangeweg
 Noordlaren
-Noord-Limburg
-Noord-Limburgs
+Noord-Limburg/PN
+Noord-Limburgs/PN
+Noord-Macedonië/PN
 Noordman/PN
 noordmuur
 Noord-Ndebele
@@ -106104,6 +106186,7 @@ omstulpen/Vi
 omstuwd/Aa
 omstuwen/Vi
 omstuwt/Va
+OMT-advies/Zh
 omtogen
 omtollen/Vi
 omtoveren/Vi
@@ -110308,7 +110391,10 @@ Oostblokland/Zb
 Oost-Brabant
 Oostburgenaar
 Oostburg/PNPK
+Oost-Caribisch
+Oost-Caribische
 Oost-Chinese
+Oost-Circassisch
 Oost-Congo
 Oostdam/PN
 Oostdĳck/PN
@@ -112037,6 +112123,7 @@ oppervlaktewater-
 oppervlaktewaterkwaliteit
 oppervlaktewater/Za
 oppervlak/ZeC4
+Opper-Volta
 opperwachtmeester/Za
 opperwal/YfC4
 oppeuzelen/Vi
@@ -113022,6 +113109,7 @@ Orestes
 orgaan/CcCaYaZfCbC4
 orgaandonatie/Za
 orgaanfalen
+Organon
 orgaantransplantatie/Za
 orgaanuitname
 organdie
@@ -113224,6 +113312,7 @@ oryx/ZbC4
 or/Zc
 Osaka
 Osama/PN
+OSB
 Oscarnominatie/Za
 Oscarwinnaar/Za
 Oscar-winnaar/Fw
@@ -113408,6 +113497,7 @@ Oudakker/PN
 Oud-Alblas
 oud-ambassadeur/Za
 oud-ambtenaar/ZaZf
+Oud-Arabisch
 Oud-Annerveen
 oud-atleet
 Oud-Avereest
@@ -113683,6 +113773,7 @@ oudmodisch/Aa
 oud-monopolist
 oud-nazi/Zc
 Oudnederlands/Aa
+Oud-Noord-Arabisch
 Oudnoors/Aa
 oud-notaris
 oud-officier/ZbC4
@@ -113697,6 +113788,8 @@ oudpapierprĳzen
 oud-parlementariër/ZaZa
 oud-partĳleider
 oud-partĳvoorzitter
+Oud-Permisch
+Oud-Perzisch
 oud-ploeggenoot
 Oud/PNGsGl
 oud-politica
@@ -113748,6 +113841,7 @@ oud-topambtenaar/Za
 oud-topman
 Oudt/PN
 oud-trainer
+Oud-Turks
 Oud-Turnhout
 oudvaderlands/Aa
 oudvaderlĳke
@@ -113781,6 +113875,7 @@ oud-winnaar
 Oudwoude
 oud-zeeman/ZeC4
 Oud-Zuid
+Oud-Zuid-Arabisch
 Oud-Zuilen
 oud-zwemster
 Oukoop
@@ -115273,6 +115368,7 @@ palm/V3Vp
 palmvet/Ze
 Palmweg
 Palmyra
+Palmyreens
 Palmzondag
 palmzondag/Fw
 Paloma/PN
@@ -115331,8 +115427,9 @@ pan-Afrikaans/Aa
 panafrikanisme
 panamaatje
 panamahoed/Zb
-Panamakanaal
-Panama-Stad
+Panamakanaal/PN
+Panamakanaalzone
+Panama-Stad/PN
 panama/Zc
 panamaziekte
 Panamees/Al
@@ -116691,6 +116788,8 @@ payroll/Za
 pay-tv
 Paz
 pa/Zc
+PBM
+PBM'en
 P.C.
 pc-banking
 Pcb/Cl
@@ -116718,6 +116817,7 @@ PDF/Fw
 pdf'je
 pdf's
 Pdf-voorzitter/Fw
+PDOK
 peacekeeping
 Peak-district
 peanuts
@@ -117900,11 +118000,14 @@ pezig/AaAb
 pf
 Pfaff
 Pfalz
+PFAS
 Pfeifer/PN
 pfeiffer
 Pfeiffer/PN
 Pfeĳffer
 Pfennings/PN
+Pfizer
+PFOS
 pgb
 pgb-houder/Za
 pgb-regeling
@@ -123116,6 +123219,7 @@ prul/CaYfZe
 pruldichter/Za
 prullaria
 prullenbak/YbZe
+prullenbakvaccin/Za
 prullenman/YfZeXf
 prullerig/AaAe
 prullerĳ/ZbCa
@@ -123293,6 +123397,7 @@ psychrometer/Za
 p'tje
 p'tjes
 P-trein/Zb
+PTFE
 PTSS
 PTT/ClCw
 pu
@@ -123781,8 +123886,9 @@ Q-koortsepidemie
 Q-koortspatiënt/Zb
 Q-Music
 q.q.
-QR-code
-QR-codes
+QR-code/Za
+QR-samenleving
+QR-tegel/Za
 q's
 Qtek
 q'tje
@@ -128318,6 +128424,7 @@ rĳkop/YbZe
 rĳkostuum/CcCaYbZaCb
 rĳksacademiën
 rĳksappel/Za
+Rĳksaramees
 rĳksarbeidsbureau/Za
 rĳksarchivaris/Ze
 rĳksban
@@ -128336,6 +128443,7 @@ rĳksdaalder/Za
 rĳksdag/YbZb
 Rĳksen/PN
 Rĳkse/PN
+rĳkserkend/Aa
 rĳksgebouwendienst
 Rĳksgebouwendienst
 rĳksgelden/CaCb
@@ -129182,6 +129290,7 @@ Roderweg
 Roderwolde
 Rodes/Fw
 rodetruidrager
+rodewĳnglas/Zh
 Rodewĳk/PN
 Rodger/PN
 RODI/Fw
@@ -129551,6 +129660,7 @@ rolgordĳn/ZbCcYa
 rolhanddoek
 rolhandeling/Zb
 rolhockey
+rolhouder/Za
 Roling/PN
 Rolink/PN
 rolkei/Zb
@@ -130653,6 +130763,7 @@ Roukema/PN
 Roukens/PN
 roulade/Za
 roulatie/CeCc
+Roularta/PN
 Roulaux/PN
 Rouleaux/PN
 rouleer/V3Vp
@@ -130707,6 +130818,7 @@ rouwenden
 Rouwenhorst
 Rouwen/PN
 rouwen/Vi
+Rouwendaal
 Rouwet/PN
 rouwfloer/Za
 Rouwhorst/PN
@@ -130836,6 +130948,8 @@ RSI/ClCw
 RSI-lezer/Fw
 RSPCA
 RSS
+RSS-feed/Za
+RSS-lezer/Za
 RTL4/ClCw
 RTL5/ClCw
 RTL/ClCw
@@ -131701,7 +131815,9 @@ Sagunto
 saguweer
 Sahara
 Sahara-Atlas
+Saharazand
 Sahar/PN
+Saharastof
 Sahatramweg
 Sahelland/Zb
 Sahel/PN
@@ -132256,6 +132372,7 @@ sanctionering/ZbCh
 sanctuarium/ZaZx
 sandaalachtig/Aa
 sandaal/YaZfCcZf
+sandan
 Sandbergen/PN
 Sandberg/PN
 sandboarden
@@ -134611,9 +134728,10 @@ Schouls/PN
 schout-bĳ-nacht/Za
 schout/CaCcZbCb
 schouten-bĳ-nacht
+Schoute/PN
 Schoutenlaan
 Schoutens/PN
-Schoute/PN
+Schoutema
 Schoutlaan
 Schoutrop/PN
 schoutschap
@@ -135397,7 +135515,7 @@ sculpturaal/Al
 sculptuur/CcYaZf
 Scylla
 Scythen
-SD-kaart
+SD-kaart/ZbYb
 Sdu
 se
 sealend/Fw
@@ -136398,6 +136516,7 @@ sheddak/Zb
 's-Heerenhoek
 sheet/CcZa
 sheetfeeder/Za
+Sheeran/PN
 Sheffield
 Sheik
 Sheikh/PN
@@ -136470,6 +136589,7 @@ shockeren
 shockerend/Aa
 shocking/Ch
 shock/V3Vq
+shodan
 shogi
 shogun/Za
 Shona/PN
@@ -136691,6 +136811,8 @@ sierpot
 sierraad/Fw
 sierraden/Fw
 Sierra/PN
+Sierraleoons
+Sierraleoonse
 siërra/Zc
 siersel/YaZa
 Siersema/PN
@@ -136785,6 +136907,7 @@ significantie/Za
 significatie/ZaCe
 signifisch/Aa
 signum/Zx
+SignWriting
 Sigourney/PN
 Sigrid/PN
 SI-grondeenheden
@@ -136839,6 +136962,7 @@ Sikken/PN
 sikkepit/Yb
 Sikke/PN
 sikker/Aa
+Sikkim/PN
 Sikking/PN
 Sikma/PN
 sik/YbYbZe
@@ -143276,6 +143400,7 @@ sterbedekking/Zb
 sterbladig/Aa
 ster/CaYfZe
 Sterenberg/PN
+Sterrenbosch
 Sterenborg
 stereo/Ce
 stereofonie
@@ -146334,6 +146459,7 @@ Swichum
 Swiebel/PN
 Swieringa/PN
 Swier/PN
+Swiere/PN
 Swierstra/PN
 Swieten/PNGsGl
 SWIFT
@@ -147579,6 +147705,7 @@ Taylor/PNGs
 taylorstelsel
 Tazelaar/PN
 T-balk/Zb
+TB-303
 TB-cargo/Fw
 tbc-bacil/Ze
 Tbc/Cl
@@ -148850,14 +148977,18 @@ Termeulen/PN
 termietenheuvel/Za
 termiet/Zb
 termĳn-
+termĳnagenda/Zc
 termĳnbedrag/Zb
+termĳnbeleid
 termĳnbetaling/Zb
 termĳnbeurs
 termĳn/CcYaZb
 termĳncontract/Zb
 termĳndeclaratie/Za
+termĳndenken
 termĳndeposito/Zc
-termĳndoelstellingen
+termĳndoelstelling/Zb
+termĳnecho/Zc
 termĳnenwet
 termĳnhandel
 termĳnhandelaar/Zf
@@ -151626,7 +151757,7 @@ toets/CcCaYbZbCb
 toetscombinatie/Za
 toetsenboard/Fw
 toetsenbordheld/Zb
-toetsenbordverlichiting
+toetsenbordverlichting
 toetsencombinatie/Za
 toetsenist/ZbXe
 toetsenman/YfZeXf
@@ -151949,6 +152080,7 @@ Tomini
 Tomislav/PN
 Tommel
 Tommie/PN
+Tomorrowland
 Tommy/PN
 tommy/Zc
 tomografie/CeCc
@@ -153856,6 +153988,10 @@ troposfeer
 Trosberg/Fw
 tros/CaS2Yb
 TROS-programma
+TR-303
+TR-606
+TR-808
+TR-909
 trosradar/Fw
 trossen/Vi
 tros/V3Vq
@@ -154006,6 +154142,8 @@ Tsjalk
 Tsjang
 Tsjechië
 Tsjechisch/AaLlLr
+Tsjechoslowaaks
+Tsjechoslowaakse
 Tsjecho-Slowakĳe
 Tsjech/Zb
 Tsjerkebuorren
@@ -154756,6 +154894,7 @@ tweehoevig/Aa
 tweehonderdduizendste
 tweehonderdjarig/Aa
 tweehonderdtal
+tweehonderdtwaalf
 tweehonderdvĳftigjarig/Aa
 tweehoofdig/Aa
 tweehoog
@@ -156820,6 +156959,7 @@ vaccinatiebewĳs/Zh
 vaccinatie/CeCcZa
 vaccinatieplan/Ze
 vaccinatieprogramma/Zc
+vaccinatievoordringer/Za
 vaccin/CcZaCa
 vaccinedwang
 vaccineer/V3Vp
@@ -156897,6 +157037,7 @@ vadsig/AaAbAe
 vadsigaard/Za
 vadsigheid/Ch
 Vaduz
+VAE-dirham
 VAES/Fw
 Vaes/PN
 Vaesrade
@@ -162085,6 +162226,7 @@ versmalling/ZbCh
 versmal/V3Vp
 versmarkt/Zb
 versmeden/Vi
+versmedewerker/Za
 versmeed
 versmeet
 versmelt/CaCb
@@ -170413,7 +170555,7 @@ waterbak/YbZe
 waterbalans/Zb
 waterballast
 waterballet/Ze
-waterballonnetjes
+waterballonnetje/Za
 waterballon/Ze
 waterbank
 waterbasis
@@ -170444,6 +170586,7 @@ waterbergings-
 waterbergingscapaciteit
 waterbergingsgebied/Zb
 waterberging/Zb
+waterberichtgeving
 waterbes
 waterbesparend/Aa
 waterbesparing
@@ -170548,6 +170691,7 @@ watergebrek
 watergebruik
 watergedragen
 watergeest/Zb
+watergegevens
 watergehalte
 watergekoeld/Aa
 watergeld/Zb
@@ -172048,6 +172192,7 @@ weggekruist
 weggekwĳnd/Ve
 Weggelaar/PN
 weggelachen
+weggelakt/Aa
 weggelaten
 weggeld
 weggelegd/Ve
@@ -173632,6 +173777,7 @@ West-Berlĳn
 westbouw
 West-Brabant
 Westbroek/PNPI
+West-Circassisch
 westcirculatie
 West-Darfur
 Westdĳk/PN
@@ -174025,7 +174171,7 @@ whatsappen
 whatsappend
 Whatsappgroep
 WhatsApp-groep
-WhatsAppgroep/Zb
+WhatsAppgroep/ZbYb
 whatsappt
 whatsapp/YbZaVq
 wheelen
@@ -175479,7 +175625,7 @@ witters
 wittetruidrager
 Witteveen/PNPI
 Wittewierum
-wittewĳnglas/Ze
+wittewĳnglas/Zh
 WITT/Fw
 Wittgenstein
 wittig/AaZm
@@ -176752,6 +176898,7 @@ YouTube
 YouTube-account
 YouTube-kanaal
 YouTubekanaal
+YouTubevideo/ZcYe
 youtuben
 Ypecolsga
 YPE/Fw
@@ -179750,6 +179897,7 @@ Zuckerberg
 zuid
 Zuid-
 Zuid-Afghanistan
+Zuid-Arabisch
 Zuid-Afrika
 Zuid-Afrikaan/PNZf
 Zuid-Afrikaans/Aa
@@ -179924,6 +180072,7 @@ zuidpoolreiziger/Za
 zuidpool/Zf
 zuidpunt/Yb
 zuidrand
+Zuid-Rhodesië/PN
 Zuid-Sandwichtrog
 Zuid-Scharwoude
 Zuidschermer
@@ -179935,6 +180084,8 @@ Zuid-Soedanees/Al
 Zuid-Soedanezen
 Zuid-Spanje
 Zuid-Sudan
+Zuid-Sudanees
+Zuid-Sudanese
 zuidtak
 Zuid-Tirol
 Zuidveen
