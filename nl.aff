@@ -102,7 +102,7 @@ OCONV 2
 OCONV ĳ ij
 OCONV Ĳ IJ
 
-REP 884
+REP 886
 REP a's$ a	# centra's=>centra
 REP a's$ ums	# centra's=>centrums
 REP pt$ bd	# dichtgeslipt
@@ -331,6 +331,8 @@ REP ĳ ĳ	# omdat de ij intern ligatuur is
 REP ï -i
 REP c ss
 REP e ĳ
+REP i ĳ # bizonder -> bijzonder
+REP iele iële # industriele -> industriële
 REP é ee
 REP g ch
 REP ï ii
